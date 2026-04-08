@@ -56,12 +56,12 @@ tr[data-subset="toledo"] .pid { color: #7ec8e3; }
 .detail-title { font-weight: 600; font-size: 1.1em; }
 .detail-meta { color: #e94560; font-family: monospace; }
 
-.detail-cols { display: grid; grid-template-columns: 1fr 1fr 1fr; min-height: 400px; max-height: 70vh; }
-.detail-img { overflow-y: auto; background: #000; }
+.detail-cols { display: grid; grid-template-columns: 1fr 1fr 1fr; min-height: 400px; max-height: 70vh; overflow: hidden; }
+.detail-img { overflow-y: auto; min-height: 0; background: #000; }
 .detail-img img { width: 100%; display: block; }
 .img-label, .text-label { position: sticky; top: 0; background: #16213e; padding: 6px 12px;
                             font-size: 0.8em; font-weight: 600; border-bottom: 1px solid #333; z-index: 5; }
-.detail-text { overflow-y: auto; border-left: 1px solid #333; }
+.detail-text { overflow-y: auto; min-height: 0; border-left: 1px solid #333; }
 .text-content { padding: 12px; font-family: 'Courier New', monospace; font-size: 12px;
                   line-height: 1.9; white-space: pre-wrap; word-wrap: break-word; }
 

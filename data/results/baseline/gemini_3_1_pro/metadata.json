@@ -1,0 +1,7 @@
+{
+  "model_name": "gemini_3_1_pro",
+  "model_id": "google/gemini-3.1-pro-preview",
+  "timestamp": "2026-03-19T05:27:19.902141+00:00",
+  "prompt": "Transcribe the handwritten text in this manuscript image exactly as written. Preserve original spelling. Expand abbreviations. Maintain line breaks. If illegible, write [...].",
+  "subset": "all"
+}

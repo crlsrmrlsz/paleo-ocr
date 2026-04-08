@@ -1,0 +1,54 @@
+{
+  "doc_id": "CODEA-2562",
+  "dataset": "codea",
+  "date": "1501",
+  "title": "Proceso de fe de Isabel Bichancho González, hija de Diego Bichancho y de Catalina González, vecinos de Herrera, por judaizante.",
+  "archive": "Archivo Histórico Nacional",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Toledo",
+    "poblacion": "Toledo",
+    "tipologia": "actas y declaraciones",
+    "ambito": "judicial",
+    "soporte": "papel",
+    "copista": "---",
+    "signatura": "Inquisición, 158, Exp. 7",
+    "palsclave": "alimentación, infancia, justicia, minorías étnicas y religiosas, religión",
+    "transcriptor": "Belén Almeida Cabrejas"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1123,
+      "height": 1592
+    },
+    "1v": {
+      "width": 1118,
+      "height": 1590
+    },
+    "2r": {
+      "width": 1117,
+      "height": 1577
+    },
+    "2v": {
+      "width": 1052,
+      "height": 1563
+    },
+    "3r": {
+      "width": 1120,
+      "height": 1581
+    }
+  }
+}

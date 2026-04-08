@@ -1,0 +1,44 @@
+{
+  "doc_id": "CODEA-3621",
+  "dataset": "codea",
+  "date": "1595",
+  "title": "Inventario <<post mortem>> de los bienes de Inés Alonso, madre de Bartolomé Sánchez, vecino del lugar de Villar del Rey.",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Villar del Rey",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 307x208",
+    "copista": "Joán García",
+    "signatura": "PN/5013, Juan García 1595-1608, ff. 119r-120r",
+    "palsclave": "bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2873,
+      "height": 4162
+    },
+    "1v": {
+      "width": 2849,
+      "height": 4218
+    },
+    "2r": {
+      "width": 2905,
+      "height": 4170
+    }
+  }
+}

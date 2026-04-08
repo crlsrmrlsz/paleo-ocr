@@ -1,0 +1,109 @@
+{
+  "doc_id": "CODEA-3616",
+  "dataset": "codea",
+  "date": "1587",
+  "title": "Carta de dote de doña Elvira de Sepúlbeda, hija de Hernando Rubiato, en su casamiento con Alonso de Cuenca Solís, natural de la villa de Fuente Obejuna, vecinos todos de la villa de Llerena.",
+  "archive": "Archivo Histórico Municipal de Llerena",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r",
+    "7v",
+    "8r",
+    "8v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Llerena",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 311x213",
+    "copista": "Luis Gonzales",
+    "signatura": "Llerena, Protocolos, caja 14, Luis González 1587, ff. 607r-614v",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2729,
+      "height": 4073
+    },
+    "1v": {
+      "width": 2449,
+      "height": 4113
+    },
+    "2r": {
+      "width": 2936,
+      "height": 4224
+    },
+    "2v": {
+      "width": 2521,
+      "height": 4137
+    },
+    "3r": {
+      "width": 2866,
+      "height": 4057
+    },
+    "3v": {
+      "width": 2569,
+      "height": 4097
+    },
+    "4r": {
+      "width": 2569,
+      "height": 4089
+    },
+    "4v": {
+      "width": 2601,
+      "height": 4169
+    },
+    "5r": {
+      "width": 2545,
+      "height": 4017
+    },
+    "5v": {
+      "width": 2481,
+      "height": 4145
+    },
+    "6r": {
+      "width": 2697,
+      "height": 4177
+    },
+    "6v": {
+      "width": 2537,
+      "height": 4073
+    },
+    "7r": {
+      "width": 2633,
+      "height": 4001
+    },
+    "7v": {
+      "width": 2593,
+      "height": 4218
+    },
+    "8r": {
+      "width": 2825,
+      "height": 3977
+    },
+    "8v": {
+      "width": 2521,
+      "height": 4081
+    }
+  }
+}

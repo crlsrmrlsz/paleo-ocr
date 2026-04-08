@@ -1,0 +1,5 @@
+This is a common type of inventory.
+`vna mesa...`
+`Otra mesa...`
+`dos sillas...`
+`vna caxa vieja...` `cerradura` is a very common descriptor for a `caxa`. Let's try to fit `cerradura`. The first part `ce` matches a squiggle. The `rr` matches loops. `a d u r a` matches the end. OK, `vna caxa vieja con cerradura`. The word before `cerradura` is maybe `su` or `sin`. It looks like `sin`. `vna caxa vieja sin cerradura`. Let's trace it carefully. `s` `i` `n` `c`

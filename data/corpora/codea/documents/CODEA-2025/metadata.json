@@ -1,0 +1,69 @@
+{
+  "doc_id": "CODEA-2025",
+  "dataset": "codea",
+  "date": "1592",
+  "title": "Dote de Ana Roca, mujer de Miguel Tello, pastelero.",
+  "archive": "Archivo Histórico Provincial de Cuenca",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cuenca",
+    "poblacion": "Cuenca",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Diego de Nájera",
+    "signatura": "421, 147r-150v",
+    "palsclave": "bienes muebles",
+    "transcriptor": "Delfina Vázquez Balonga"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2769,
+      "height": 3870
+    },
+    "1v": {
+      "width": 2826,
+      "height": 3771
+    },
+    "2r": {
+      "width": 2665,
+      "height": 3968
+    },
+    "2v": {
+      "width": 2675,
+      "height": 3728
+    },
+    "3r": {
+      "width": 2669,
+      "height": 3831
+    },
+    "3v": {
+      "width": 2783,
+      "height": 3828
+    },
+    "4r": {
+      "width": 2651,
+      "height": 3780
+    },
+    "4v": {
+      "width": 2760,
+      "height": 3743
+    }
+  }
+}

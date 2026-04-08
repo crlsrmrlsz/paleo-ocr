@@ -1,0 +1,13 @@
+{
+  "model_name": "transkribus_spanish_sage",
+  "model_id": "Spanish Sage Super (TrHTR)",
+  "source": "transkribus",
+  "platform": "app.transkribus.org",
+  "collection_id": 2362352,
+  "document_id": 14969020,
+  "architecture": "TrHTR (ViT + Spanish LM decoder)",
+  "training_data": "12M curated Spanish words (Coloso Español corpus)",
+  "subset": "codea",
+  "pages": 42,
+  "notes": "Only CODEA pages transcribed (50-credit budget). Toledo images uploaded but not processed."
+}

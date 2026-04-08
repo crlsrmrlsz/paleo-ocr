@@ -1,0 +1,59 @@
+{
+  "doc_id": "CODEA-3613",
+  "dataset": "codea",
+  "date": "1581",
+  "title": "Inventario <<post mortem>> de los bienes de Ana Ximénez, mujer de Juan Rodrigues, zapatero, vecinos ambos de la villa de Tornavacas.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cáceres",
+    "poblacion": "Tornavacas",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 309x212",
+    "copista": "Luis López de Valonga",
+    "signatura": "PN/1404, Luis López de Valonga 1581, ff. 367r-369v (l. 6)",
+    "palsclave": "bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2833,
+      "height": 3929
+    },
+    "1v": {
+      "width": 2632,
+      "height": 4224
+    },
+    "2r": {
+      "width": 2905,
+      "height": 4162
+    },
+    "2v": {
+      "width": 2584,
+      "height": 4224
+    },
+    "3r": {
+      "width": 2809,
+      "height": 3969
+    },
+    "3v": {
+      "width": 2545,
+      "height": 4137
+    }
+  }
+}

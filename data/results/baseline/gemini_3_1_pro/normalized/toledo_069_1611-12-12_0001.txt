@@ -1,0 +1,2 @@
+` [escrivano]. Next word is `[con]ci[l]io`? `pub[li]co`. Next word `y de lo`? No, `escrivano / p[ubli]co E tes[ti]gos yuso escriptos` -> `p[ubli]co y de los...`
+* Let's re-examine L4: `crivano pub[li]co E los yuso escriptos`. No. `crivano pub[li]co [p/y] testigos yuso escriptos`. The word after `pubco` is clearly `y`. Then a weird word. `a los...`? `testigos`? No. `crivano...` Let

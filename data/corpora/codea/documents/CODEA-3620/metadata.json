@@ -1,0 +1,74 @@
+{
+  "doc_id": "CODEA-3620",
+  "dataset": "codea",
+  "date": "1593",
+  "title": "Carta de dote de doña Isabel d’Espinosa, hija de Francisco d’Espinosa, regidor de Mérida, en su casamiento con don Luis Çapata, regidor de Mérida, vecinos todos de dicha ciudad.",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Mérida",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 316x213",
+    "copista": "Alonso García",
+    "signatura": "PN/4134, Alonso García 1593, ff. 297r-301r (l. 12)",
+    "palsclave": "bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2553,
+      "height": 4041
+    },
+    "1v": {
+      "width": 2769,
+      "height": 4137
+    },
+    "2r": {
+      "width": 2505,
+      "height": 4025
+    },
+    "2v": {
+      "width": 2745,
+      "height": 4113
+    },
+    "3r": {
+      "width": 2689,
+      "height": 4153
+    },
+    "3v": {
+      "width": 2753,
+      "height": 4089
+    },
+    "4r": {
+      "width": 2681,
+      "height": 3961
+    },
+    "4v": {
+      "width": 2778,
+      "height": 4129
+    },
+    "5r": {
+      "width": 2616,
+      "height": 3992
+    }
+  }
+}

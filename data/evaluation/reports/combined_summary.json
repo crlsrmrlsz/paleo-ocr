@@ -1,0 +1,140 @@
+{
+  "mode": "content",
+  "evaluations": [
+    "codea_paleographic",
+    "codea_critical",
+    "toledo_editorial"
+  ],
+  "model_cer_by_evaluation": {
+    "baseline/churro_3b": {
+      "codea_paleographic": 2.5979,
+      "codea_critical": 2.5329,
+      "toledo_editorial": 1.9664
+    },
+    "baseline/claude_opus_4_6": {
+      "codea_paleographic": 0.4255,
+      "codea_critical": 0.4157,
+      "toledo_editorial": 0.465
+    },
+    "baseline/gemini_3_1_pro": {
+      "codea_paleographic": 0.7808,
+      "codea_critical": 0.7861,
+      "toledo_editorial": 0.7112
+    },
+    "baseline/google_cloud_vision": {
+      "codea_paleographic": 0.5838,
+      "codea_critical": 0.6139,
+      "toledo_editorial": 0.6239
+    },
+    "baseline/gpt_5_4": {
+      "codea_paleographic": 0.6263,
+      "codea_critical": 0.6385,
+      "toledo_editorial": 0.5822
+    },
+    "baseline/mistral_large_3": {
+      "codea_paleographic": 0.7238,
+      "codea_critical": 0.7158,
+      "toledo_editorial": 0.7688
+    },
+    "baseline/qwen3_vl_8b": {
+      "codea_paleographic": 1.3701,
+      "codea_critical": 1.3449,
+      "toledo_editorial": 1.5855
+    },
+    "baseline/transkribus_spanish_sage": {
+      "codea_paleographic": 0.3899,
+      "codea_critical": 0.3676,
+      "toledo_editorial": 0.368
+    },
+    "baseline/tridis_v2": {
+      "codea_paleographic": 0.4598,
+      "codea_critical": 0.494,
+      "toledo_editorial": 0.5762
+    },
+    "pipeline/01_yolo_blocks": {
+      "codea_paleographic": 0.4176,
+      "codea_critical": 0.4056,
+      "toledo_editorial": 0.5196
+    },
+    "pipeline/02_yolo_model_first": {
+      "codea_paleographic": 0.4038,
+      "codea_critical": 0.4001,
+      "toledo_editorial": 0.4155
+    },
+    "pipeline/03_strips_page_desc": {
+      "codea_paleographic": 0.391,
+      "codea_critical": 0.382,
+      "toledo_editorial": 0.4168
+    },
+    "pipeline/04_strips_split_context": {
+      "codea_paleographic": 0.3845,
+      "codea_critical": 0.38,
+      "toledo_editorial": 0.4434
+    },
+    "pipeline/04b_strips_split_ctx_rezoom": {
+      "codea_paleographic": 0.3834,
+      "codea_critical": 0.3765,
+      "toledo_editorial": 0.4262
+    },
+    "pipeline/05_tiles_2d": {
+      "codea_paleographic": 0.5278,
+      "codea_critical": 0.5188,
+      "toledo_editorial": 0.4248
+    },
+    "pipeline/06_strips_no_context": {
+      "codea_paleographic": 0.3885,
+      "codea_critical": 0.3809,
+      "toledo_editorial": 0.4248
+    },
+    "pipeline/07_yolo_crop_strips": {
+      "codea_paleographic": 0.3764,
+      "codea_critical": 0.3751,
+      "toledo_editorial": 0.4258
+    },
+    "pipeline/08_yolo_crop_noise_warn": {
+      "codea_paleographic": 0.3827,
+      "codea_critical": 0.3893,
+      "toledo_editorial": 0.428
+    },
+    "pipeline/09_yolo_crop_anti_delete": {
+      "codea_paleographic": 0.3748,
+      "codea_critical": 0.3738,
+      "toledo_editorial": 0.4173
+    },
+    "pipeline/10_yolo_crop_bare_merge": {
+      "codea_paleographic": 0.3725,
+      "codea_critical": 0.3722,
+      "toledo_editorial": 0.4178
+    },
+    "pipeline/11_yolo_crop_anti_halluc": {
+      "codea_paleographic": 0.3699,
+      "codea_critical": 0.3714,
+      "toledo_editorial": 0.42
+    },
+    "pipeline/12_yolo_crop_anti_halluc_gpt54": {
+      "codea_paleographic": 0.5539,
+      "codea_critical": 0.5613,
+      "toledo_editorial": 0.5559
+    },
+    "pipeline/13_yolo_crop_anti_halluc_gemini31": {
+      "codea_paleographic": 0.4499,
+      "codea_critical": 0.4562,
+      "toledo_editorial": 0.509
+    },
+    "pipeline/14_clahe": {
+      "codea_paleographic": 0.386,
+      "codea_critical": 0.3845,
+      "toledo_editorial": 0.4511
+    },
+    "pipeline/15_sharpen": {
+      "codea_paleographic": 0.3958,
+      "codea_critical": 0.3912,
+      "toledo_editorial": 0.4299
+    },
+    "pipeline/16_denoise": {
+      "codea_paleographic": 0.3803,
+      "codea_critical": 0.3792,
+      "toledo_editorial": 0.4295
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "model_name": "gpt_5_4",
+  "model_id": "openai/gpt-5.4",
+  "timestamp": "2026-03-19T06:06:13.782769+00:00",
+  "prompt": "Transcribe the handwritten text in this manuscript image exactly as written. Preserve original spelling. Expand abbreviations. Maintain line breaks. If illegible, write [...].",
+  "subset": "all"
+}

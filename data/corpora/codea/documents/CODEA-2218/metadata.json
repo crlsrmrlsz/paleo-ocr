@@ -1,0 +1,59 @@
+{
+  "doc_id": "CODEA-2218",
+  "dataset": "codea",
+  "date": "1616",
+  "title": "Dote de María Ferrandes Reina; incluye inventario de los bienes que Francisca Ferrandes, viuda de Salbador Nieto, da a su hija María Ferrandes Reina en su casamiento con Esteban Ferrandes, hijo de Bartolomé Ferrandes.",
+  "archive": "Archivo Provincial Puebla de Alcocer",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Orellana la Vieja",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Francisco de Aguilar",
+    "signatura": "Caja 1, folios 92r-94v",
+    "palsclave": "bienes muebles, mujer",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2675,
+      "height": 4098
+    },
+    "1v": {
+      "width": 2763,
+      "height": 4047
+    },
+    "2r": {
+      "width": 2534,
+      "height": 4103
+    },
+    "2v": {
+      "width": 2717,
+      "height": 3963
+    },
+    "3r": {
+      "width": 2572,
+      "height": 4113
+    },
+    "3v": {
+      "width": 2699,
+      "height": 3963
+    }
+  }
+}

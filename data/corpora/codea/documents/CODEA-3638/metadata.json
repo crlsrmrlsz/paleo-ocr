@@ -1,0 +1,144 @@
+{
+  "doc_id": "CODEA-3638",
+  "dataset": "codea",
+  "date": "1620",
+  "title": "Inventario de los hospitales del Monasterio de Santa María de Guadalupe.",
+  "archive": "Archivo del Monasterio de Guadalupe",
+  "letra": "procesal/bastarda corriente",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r",
+    "7v",
+    "8r",
+    "8v",
+    "9r",
+    "9v",
+    "10r",
+    "10v",
+    "11r",
+    "11v",
+    "12r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Guadalupe",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "eclesiástico",
+    "soporte": "papel, 320x231",
+    "copista": "Agustín de Aguirre/Francisco Camacho",
+    "signatura": "leg. 44, doc. 25, ff. 33r-44r",
+    "palsclave": "bienes muebles, clero, medicina y sanidad",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "10r": {
+      "width": 2673,
+      "height": 3993
+    },
+    "10v": {
+      "width": 2625,
+      "height": 3889
+    },
+    "11r": {
+      "width": 2521,
+      "height": 3705
+    },
+    "11v": {
+      "width": 2745,
+      "height": 3913
+    },
+    "12r": {
+      "width": 2657,
+      "height": 3954
+    },
+    "1r": {
+      "width": 2721,
+      "height": 4033
+    },
+    "1v": {
+      "width": 2665,
+      "height": 4074
+    },
+    "2r": {
+      "width": 2721,
+      "height": 4017
+    },
+    "2v": {
+      "width": 2625,
+      "height": 3873
+    },
+    "3r": {
+      "width": 2489,
+      "height": 3993
+    },
+    "3v": {
+      "width": 2554,
+      "height": 3785
+    },
+    "4r": {
+      "width": 2521,
+      "height": 3977
+    },
+    "4v": {
+      "width": 2578,
+      "height": 3873
+    },
+    "5r": {
+      "width": 2521,
+      "height": 4041
+    },
+    "5v": {
+      "width": 2729,
+      "height": 4025
+    },
+    "6r": {
+      "width": 2497,
+      "height": 4001
+    },
+    "6v": {
+      "width": 2625,
+      "height": 3953
+    },
+    "7r": {
+      "width": 2481,
+      "height": 3961
+    },
+    "7v": {
+      "width": 2593,
+      "height": 3737
+    },
+    "8r": {
+      "width": 2425,
+      "height": 3873
+    },
+    "8v": {
+      "width": 2553,
+      "height": 3681
+    },
+    "9r": {
+      "width": 2593,
+      "height": 3849
+    },
+    "9v": {
+      "width": 2561,
+      "height": 3713
+    }
+  }
+}

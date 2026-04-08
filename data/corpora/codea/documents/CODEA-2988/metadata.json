@@ -1,0 +1,34 @@
+{
+  "doc_id": "CODEA-2988",
+  "dataset": "codea",
+  "date": "1553",
+  "title": "Carta de obligación de Juan Almidaque en favor de Francisco Cachón.",
+  "archive": "Archivo Histórico Provincial de Almería",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Almería",
+    "poblacion": "Vélez Blanco",
+    "tipologia": "cartas de compraventa",
+    "ambito": "cancilleresco",
+    "soporte": "papel",
+    "copista": "Juan de <…>",
+    "signatura": "Benito de Carrión, 2925",
+    "palsclave": "economía",
+    "transcriptor": "Rocío Díaz Moreno"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1494,
+      "height": 2056
+    }
+  }
+}

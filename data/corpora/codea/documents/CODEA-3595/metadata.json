@@ -1,0 +1,84 @@
+{
+  "doc_id": "CODEA-3595",
+  "dataset": "codea",
+  "date": "1544",
+  "title": "Inventario <<post mortem>> de los bienes de Alonso de Ribera y doña Ana de Ulloa, padres de Álvaro de Ribera, doña Guiomar de Ulloa, doña Mayor de Ulloa, doña Francisca de Ulloa y Rodrigo de Chaves, vecinos todos de la villa de Cáceres.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "cortesana/procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cáceres",
+    "poblacion": "Cáceres",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 326 x 221",
+    "copista": "Álvaro de Ribera",
+    "signatura": "PN/3561-2, Francisco Borge 1542-1544, 6 ff.",
+    "palsclave": "bienes muebles, mujer",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2537,
+      "height": 3689
+    },
+    "1v": {
+      "width": 2489,
+      "height": 3697
+    },
+    "2r": {
+      "width": 2529,
+      "height": 3665
+    },
+    "2v": {
+      "width": 2505,
+      "height": 3697
+    },
+    "3r": {
+      "width": 2553,
+      "height": 3697
+    },
+    "3v": {
+      "width": 2521,
+      "height": 3713
+    },
+    "4r": {
+      "width": 2553,
+      "height": 3697
+    },
+    "4v": {
+      "width": 2497,
+      "height": 3713
+    },
+    "5r": {
+      "width": 2569,
+      "height": 3689
+    },
+    "5v": {
+      "width": 2529,
+      "height": 3729
+    },
+    "6r": {
+      "width": 2553,
+      "height": 3657
+    }
+  }
+}

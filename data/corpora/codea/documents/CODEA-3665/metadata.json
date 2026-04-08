@@ -1,0 +1,84 @@
+{
+  "doc_id": "CODEA-3665",
+  "dataset": "codea",
+  "date": "1665",
+  "title": "Inventario y tasación de los bienes que doña María de Tovar aportó al matrimonio con el capitán Blas Alonso Valle, natural del lugar de San Vicente de Alcántara, vecinos ambos de la villa de Alburquerque.",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "humanística corriente/procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Alburquerque",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 322x221",
+    "copista": "Diego Hernandes Havela",
+    "signatura": "PN/4824, Diego Hernández Havela 1664-1665, 6 ff.",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2994,
+      "height": 4177
+    },
+    "1v": {
+      "width": 2656,
+      "height": 4224
+    },
+    "2r": {
+      "width": 2929,
+      "height": 4145
+    },
+    "2v": {
+      "width": 2834,
+      "height": 4218
+    },
+    "3r": {
+      "width": 2904,
+      "height": 4224
+    },
+    "3v": {
+      "width": 2624,
+      "height": 4192
+    },
+    "4r": {
+      "width": 2912,
+      "height": 4224
+    },
+    "4v": {
+      "width": 2808,
+      "height": 4224
+    },
+    "5r": {
+      "width": 2914,
+      "height": 4145
+    },
+    "5v": {
+      "width": 2730,
+      "height": 4161
+    },
+    "6r": {
+      "width": 2937,
+      "height": 4154
+    }
+  }
+}

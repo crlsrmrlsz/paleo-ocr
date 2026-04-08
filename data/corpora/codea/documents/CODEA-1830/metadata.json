@@ -1,0 +1,39 @@
+{
+  "doc_id": "CODEA-1830",
+  "dataset": "codea",
+  "date": "1603",
+  "title": "Poder que otorga Alberto de Contreras a Lorenzo Martínez para asuntos de trigo y cebada.",
+  "archive": "Archivo Municipal de Arganda del Rey",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Toledo",
+    "poblacion": "Santa Cruz de la Zarza",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Miguel de Salcedo",
+    "signatura": "12700050001, ff. 1r-1v",
+    "palsclave": "asuntos administrativos, bienes muebles",
+    "transcriptor": "Delfina Vázquez Balonga"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 648,
+      "height": 961
+    },
+    "1v": {
+      "width": 662,
+      "height": 961
+    }
+  }
+}

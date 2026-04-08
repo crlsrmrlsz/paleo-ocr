@@ -1,0 +1,104 @@
+{
+  "doc_id": "CODEA-3636",
+  "dataset": "codea",
+  "date": "1620",
+  "title": "Partición <<post mortem>> (se omiten las hijuelas) de los bienes de Juan de Matos y Margarida Méndez, vecinos ambos del lugar de Valverde de Leganés, entre sus hijos, Francisco, Catalina, Xil, Juan, Estevan y Lorenço.",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r",
+    "7v",
+    "8r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Valverde de Leganés",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 318x208",
+    "copista": "Juan Martín Cano",
+    "signatura": "PN/192, Baltasar Suárez 1620, ff. 94r-103v (l. 1-13) y 124r (l. 8-27)",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2545,
+      "height": 4121
+    },
+    "1v": {
+      "width": 2424,
+      "height": 4224
+    },
+    "2r": {
+      "width": 2361,
+      "height": 4001
+    },
+    "2v": {
+      "width": 2409,
+      "height": 4218
+    },
+    "3r": {
+      "width": 2529,
+      "height": 4218
+    },
+    "3v": {
+      "width": 2449,
+      "height": 4185
+    },
+    "4r": {
+      "width": 2697,
+      "height": 4218
+    },
+    "4v": {
+      "width": 2425,
+      "height": 4218
+    },
+    "5r": {
+      "width": 2537,
+      "height": 4177
+    },
+    "5v": {
+      "width": 2321,
+      "height": 4202
+    },
+    "6r": {
+      "width": 2617,
+      "height": 4210
+    },
+    "6v": {
+      "width": 2441,
+      "height": 4138
+    },
+    "7r": {
+      "width": 2569,
+      "height": 4145
+    },
+    "7v": {
+      "width": 2529,
+      "height": 4210
+    },
+    "8r": {
+      "width": 2481,
+      "height": 4218
+    }
+  }
+}

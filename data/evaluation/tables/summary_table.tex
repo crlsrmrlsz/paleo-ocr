@@ -1,0 +1,37 @@
+\begin{table}[htbp]
+\centering
+\caption{HTR Model Evaluation Summary}
+\label{tab:htr-summary}
+\begin{tabular}{clcccccc}
+\toprule
+Rank & Model & Pages & CER$\downarrow$ & CER$_n$$\downarrow$ & NLS$\uparrow$ & WER$\downarrow$ & P$\uparrow$ \\
+\midrule
+  1 & baseline/transkribus\_spanish\_sage & 92 & 0.3766 & 0.3316 & 0.6460 & 0.8779 & 0.7243 \\
+  2 & pipeline/11\_yolo\_crop\_anti\_halluc & 92 & 0.3803 & 0.3472 & 0.6301 & 0.7833 & 0.7229 \\
+  3 & pipeline/10\_yolo\_crop\_bare\_merge & 92 & 0.3813 & 0.3467 & 0.6317 & 0.7880 & 0.7185 \\
+  4 & pipeline/09\_yolo\_crop\_anti\_delete & 92 & 0.3827 & 0.3476 & 0.6303 & 0.7915 & 0.7168 \\
+  5 & pipeline/07\_yolo\_crop\_strips & 92 & 0.3856 & 0.3504 & 0.6276 & 0.7908 & 0.7195 \\
+  6 & pipeline/04b\_strips\_split\_ctx\_rezoom & 92 & 0.3890 & 0.3513 & 0.6265 & 0.8002 & 0.7130 \\
+  7 & pipeline/16\_denoise & 92 & 0.3895 & 0.3549 & 0.6217 & 0.7964 & 0.7111 \\
+  8 & pipeline/03\_strips\_page\_desc & 92 & 0.3924 & 0.3517 & 0.6257 & 0.8024 & 0.7074 \\
+  9 & pipeline/06\_strips\_no\_context & 92 & 0.3926 & 0.3528 & 0.6240 & 0.7936 & 0.7085 \\
+  10 & pipeline/08\_yolo\_crop\_noise\_warn & 92 & 0.3942 & 0.3711 & 0.6108 & 0.7629 & 0.7533 \\
+  11 & pipeline/04\_strips\_split\_context & 92 & 0.3942 & 0.3553 & 0.6225 & 0.8109 & 0.7069 \\
+  12 & pipeline/14\_clahe & 92 & 0.3981 & 0.3595 & 0.6173 & 0.8132 & 0.7060 \\
+  13 & pipeline/15\_sharpen & 92 & 0.4007 & 0.3619 & 0.6152 & 0.8142 & 0.7034 \\
+  14 & pipeline/02\_yolo\_model\_first & 92 & 0.4046 & 0.3757 & 0.6032 & 0.7852 & 0.7293 \\
+  15 & baseline/claude\_opus\_4\_6 & 92 & 0.4293 & 0.3917 & 0.5848 & 0.8533 & 0.6970 \\
+  16 & pipeline/01\_yolo\_blocks & 92 & 0.4328 & 0.3939 & 0.5866 & 0.8224 & 0.7109 \\
+  17 & pipeline/13\_yolo\_crop\_anti\_halluc\_gemini31 & 82 & 0.4640 & 0.4473 & 0.5405 & 0.8391 & 0.7717 \\
+  18 & baseline/tridis\_v2 & 92 & 0.4963 & 0.4729 & 0.5101 & 0.8077 & 0.7384 \\
+  19 & pipeline/05\_tiles\_2d & 92 & 0.5040 & 0.4409 & 0.5267 & 0.8906 & 0.6308 \\
+  20 & pipeline/12\_yolo\_crop\_anti\_halluc\_gpt54 & 90 & 0.5573 & 0.5457 & 0.4428 & 0.8183 & 0.7335 \\
+  21 & baseline/google\_cloud\_vision & 92 & 0.6038 & 0.5844 & 0.3975 & 0.9461 & 0.6310 \\
+  22 & baseline/gpt\_5\_4 & 92 & 0.6226 & 0.6123 & 0.3777 & 0.8690 & 0.5756 \\
+  23 & baseline/mistral\_large\_3 & 92 & 0.7294 & 0.6365 & 0.3311 & 1.0481 & 0.4562 \\
+  24 & baseline/gemini\_3\_1\_pro & 92 & 0.7693 & 0.7629 & 0.2307 & 0.9364 & 0.6560 \\
+  25 & baseline/qwen3\_vl\_8b & 92 & 1.4021 & 0.6715 & 0.3163 & 2.1165 & 0.4761 \\
+  26 & baseline/churro\_3b & 92 & 2.4482 & 0.5037 & 0.4540 & 2.8878 & 0.5497 \\
+\bottomrule
+\end{tabular}
+\end{table}

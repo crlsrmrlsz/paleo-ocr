@@ -1,0 +1,69 @@
+{
+  "doc_id": "CODEA-2222",
+  "dataset": "codea",
+  "date": "1635",
+  "title": "Carta de dote de Catalina Delgada, hija de Francisco Fernández de la Hoya y Lucía Delgada, vecinos de la villa de Alía, en su casamiento con Francisco Ximenes, hijo de Andrés Ximenes y María Gonzales, vecinos de Puerto de San Vicente.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Alía",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Jerónimo López",
+    "signatura": "Protocolos Notariales, legajo 1348, folios 71r-74v",
+    "palsclave": "bienes muebles, animales",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2656,
+      "height": 4047
+    },
+    "1v": {
+      "width": 2628,
+      "height": 4169
+    },
+    "2r": {
+      "width": 2661,
+      "height": 4188
+    },
+    "2v": {
+      "width": 2609,
+      "height": 4155
+    },
+    "3r": {
+      "width": 2735,
+      "height": 4169
+    },
+    "3v": {
+      "width": 2567,
+      "height": 4070
+    },
+    "4r": {
+      "width": 2619,
+      "height": 4094
+    },
+    "4v": {
+      "width": 2652,
+      "height": 4085
+    }
+  }
+}

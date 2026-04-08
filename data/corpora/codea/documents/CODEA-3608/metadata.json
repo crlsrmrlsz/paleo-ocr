@@ -1,0 +1,94 @@
+{
+  "doc_id": "CODEA-3608",
+  "dataset": "codea",
+  "date": "1574",
+  "title": "Inventario <<post mortem>> de los bienes de Isabel Díaz Montesina, tía de Pedro Díaz, beneficiado de la villa de Cheles, y vecina de la ciudad de Badajoz.",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Badajoz",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 323x218",
+    "copista": "Marcos de Herrera",
+    "signatura": "PN/17, Marcos de Herrera 1574, ff. 788r-794r (l. 28)",
+    "palsclave": "bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2649,
+      "height": 4081
+    },
+    "1v": {
+      "width": 2512,
+      "height": 4176
+    },
+    "2r": {
+      "width": 2793,
+      "height": 3881
+    },
+    "2v": {
+      "width": 2273,
+      "height": 3953
+    },
+    "3r": {
+      "width": 3001,
+      "height": 4145
+    },
+    "3v": {
+      "width": 2377,
+      "height": 3913
+    },
+    "4r": {
+      "width": 2913,
+      "height": 4001
+    },
+    "4v": {
+      "width": 2497,
+      "height": 4041
+    },
+    "5r": {
+      "width": 2817,
+      "height": 3961
+    },
+    "5v": {
+      "width": 2409,
+      "height": 4001
+    },
+    "6r": {
+      "width": 2706,
+      "height": 3961
+    },
+    "6v": {
+      "width": 2481,
+      "height": 4065
+    },
+    "7r": {
+      "width": 2985,
+      "height": 4097
+    }
+  }
+}

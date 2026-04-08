@@ -1,0 +1,64 @@
+{
+  "doc_id": "CODEA-2611",
+  "dataset": "codea",
+  "date": "1621",
+  "title": "Inventario <<post mortem>> de los bienes de María Miguel, viuda, vecina de la villa de Descargamaría.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Descargamaría",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 320x214",
+    "copista": "Joán Fernández",
+    "signatura": "PN/621, Juan Fernández 1621, ff. 238r-241r",
+    "palsclave": "bienes inmuebles",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2297,
+      "height": 3905
+    },
+    "1v": {
+      "width": 2657,
+      "height": 4033
+    },
+    "2r": {
+      "width": 2377,
+      "height": 4001
+    },
+    "2v": {
+      "width": 2657,
+      "height": 3985
+    },
+    "3r": {
+      "width": 2401,
+      "height": 4033
+    },
+    "3v": {
+      "width": 2713,
+      "height": 4121
+    },
+    "4r": {
+      "width": 2377,
+      "height": 4049
+    }
+  }
+}

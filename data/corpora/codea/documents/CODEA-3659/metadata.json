@@ -1,0 +1,59 @@
+{
+  "doc_id": "CODEA-3659",
+  "dataset": "codea",
+  "date": "1659",
+  "title": "Inventario <<post mortem>> de los bienes de Juan Alonso Archiles, marido de Ana Carrasca y yerno de Domingo Martín, vecinos todos de la villa de San Martín de Trevejo.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "humanística corriente/procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "San Martín de Trevejo",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 320x217",
+    "copista": "Antonio de Vascones",
+    "signatura": "PN/115, Antonio de Vascones 1659, ff. 69r-71v",
+    "palsclave": "bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2633,
+      "height": 4114
+    },
+    "1v": {
+      "width": 2449,
+      "height": 4154
+    },
+    "2r": {
+      "width": 2736,
+      "height": 4136
+    },
+    "2v": {
+      "width": 2537,
+      "height": 4162
+    },
+    "3r": {
+      "width": 2609,
+      "height": 4097
+    },
+    "3v": {
+      "width": 2537,
+      "height": 4082
+    }
+  }
+}

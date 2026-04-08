@@ -1,0 +1,39 @@
+{
+  "doc_id": "CODEA-2497",
+  "dataset": "codea",
+  "date": "1525",
+  "title": "Acusación contra Aldonza Fernández, difunta, por haber hecho falsas confesiones y no haber confesado todos los actos judaizantes que había realizado.",
+  "archive": "Archivo Histórico Nacional",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cuenca",
+    "poblacion": "Cuenca",
+    "tipologia": "actas y declaraciones",
+    "ambito": "judicial",
+    "soporte": "papel",
+    "copista": "El fiscal",
+    "signatura": "Inquisición, carpeta 1930, expediente 13",
+    "palsclave": "alimentación, justicia, minorías étnicas y religiosas, mujer, religión",
+    "transcriptor": "Belén Almeida Cabrejas"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1158,
+      "height": 1638
+    },
+    "1v": {
+      "width": 1155,
+      "height": 1629
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "model_name": "claude_opus_4_6",
+  "model_id": "anthropic/claude-opus-4.6",
+  "timestamp": "2026-03-19T06:59:17.311666+00:00",
+  "prompt": "Transcribe the handwritten text in this manuscript image exactly as written. Preserve original spelling. Expand abbreviations. Maintain line breaks. If illegible, write [...].",
+  "subset": "all"
+}

@@ -1,0 +1,32 @@
+{
+  "page_analyzer.analyze.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Describe this manuscript page visually. Do NOT attempt to read or transcribe\nany text — only describe what you see structurally:\n1. Script type and period (procesal, humanistic, etc.)\n2. Layout: where is the main text block, are there margin notes, signatures, symbols\n3. Image issues: reverse ink bleed, stains, tilt, scan artifacts, non-manuscript\n   content visible (table surface, book edges)\n4. Text density and abbreviation frequency (high/medium/low)\n5. Areas that should NOT be transcribed (margin annotations, later additions)\nDo NOT mention specific names, words, or text content.",
+      "fields": [
+        {
+          "prefix": "Page Image:",
+          "description": "Full manuscript page image"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Page Description:",
+          "description": "3-5 sentence structural description. NO specific text, names, or words — only layout, script type, and image quality"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.1.3",
+      "cloudpickle": "3.1"
+    }
+  }
+}

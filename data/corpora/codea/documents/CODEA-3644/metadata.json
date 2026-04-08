@@ -1,0 +1,84 @@
+{
+  "doc_id": "CODEA-3644",
+  "dataset": "codea",
+  "date": "1635",
+  "title": "Inventario y tasación de los bienes que Juan Ropero, sastre, hermano de Francisco Morales, aportó al matrimonio con María Rodríguez, su segunda mujer, hermana de Pedro Grande, vecinos ambos de la villa de Serradilla.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Serradilla",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 319x211",
+    "copista": "Pedro Piçarro",
+    "signatura": "PN/4586, Pedro Pizarro 1635, 6 ff.",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2545,
+      "height": 4218
+    },
+    "1v": {
+      "width": 2769,
+      "height": 4081
+    },
+    "2r": {
+      "width": 2505,
+      "height": 4154
+    },
+    "2v": {
+      "width": 2825,
+      "height": 4145
+    },
+    "3r": {
+      "width": 2513,
+      "height": 4178
+    },
+    "3v": {
+      "width": 2769,
+      "height": 4129
+    },
+    "4r": {
+      "width": 2577,
+      "height": 4186
+    },
+    "4v": {
+      "width": 2874,
+      "height": 4210
+    },
+    "5r": {
+      "width": 2465,
+      "height": 4138
+    },
+    "5v": {
+      "width": 2745,
+      "height": 4153
+    },
+    "6r": {
+      "width": 2394,
+      "height": 3713
+    }
+  }
+}

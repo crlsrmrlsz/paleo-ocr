@@ -1,0 +1,54 @@
+{
+  "doc_id": "CODEA-2202",
+  "dataset": "codea",
+  "date": "1606",
+  "title": "Carta de dote de María García, viuda de Francisco Hernández, en su casamiento con Martín Alonso Durán, todos vecinos de la villa de Valverde de Llerena.",
+  "archive": "Archivo Municipal Valverde de Llerena",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Valverde de Llerena",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Juan Ramos",
+    "signatura": "Protocolos notariales, folios 72r-74r",
+    "palsclave": "bienes muebles, animales, bienes inmuebles, mujer",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2576,
+      "height": 3864
+    },
+    "1v": {
+      "width": 2576,
+      "height": 3896
+    },
+    "2r": {
+      "width": 2576,
+      "height": 3864
+    },
+    "2v": {
+      "width": 2576,
+      "height": 3896
+    },
+    "3r": {
+      "width": 2576,
+      "height": 3864
+    }
+  }
+}

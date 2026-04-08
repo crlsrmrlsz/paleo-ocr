@@ -1,0 +1,64 @@
+{
+  "doc_id": "CODEA-3588",
+  "dataset": "codea",
+  "date": "1522",
+  "title": "Inventario<< post mortem >>de los bienes de Gutierre de Solís, marido de doña Francisca de Tapia, vecinos ambos de la villa de Cáceres y moradores en la de Jaraicejo.",
+  "archive": "Archivo Histórico Municipal de Cáceres",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cáceres",
+    "poblacion": "Jaraicejo",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 321 x 220",
+    "copista": "Francisco Isquierdo",
+    "signatura": "caja 16/41, exp. 19, 4 ff.",
+    "palsclave": "bienes muebles, mujer",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2698,
+      "height": 3857
+    },
+    "1v": {
+      "width": 2849,
+      "height": 4050
+    },
+    "2r": {
+      "width": 2768,
+      "height": 4096
+    },
+    "2v": {
+      "width": 2913,
+      "height": 4202
+    },
+    "3r": {
+      "width": 2912,
+      "height": 4160
+    },
+    "3v": {
+      "width": 2721,
+      "height": 4033
+    },
+    "4r": {
+      "width": 2793,
+      "height": 4065
+    }
+  }
+}

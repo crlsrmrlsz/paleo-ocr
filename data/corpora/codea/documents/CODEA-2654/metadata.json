@@ -1,0 +1,59 @@
+{
+  "doc_id": "CODEA-2654",
+  "dataset": "codea",
+  "date": "1609",
+  "title": "Carta de dote de María Hernández, hija de Alonso de Sigura y de Mari Hernández, en su casamiento con Mateo Gallego, vecinos todos del lugar de Logrosán.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Logrosán",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 320 x 218",
+    "copista": "Diego Flores",
+    "signatura": "PN/704, Diego Flores 1609, ff. 100v-103r",
+    "palsclave": "familia, mujer, bienes muebles",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2713,
+      "height": 3977
+    },
+    "1v": {
+      "width": 2193,
+      "height": 3969
+    },
+    "2r": {
+      "width": 2649,
+      "height": 3905
+    },
+    "2v": {
+      "width": 2017,
+      "height": 3913
+    },
+    "3r": {
+      "width": 2689,
+      "height": 3961
+    },
+    "3v": {
+      "width": 2033,
+      "height": 4033
+    }
+  }
+}

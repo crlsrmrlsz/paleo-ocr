@@ -1,0 +1,109 @@
+{
+  "doc_id": "CODEA-3624",
+  "dataset": "codea",
+  "date": "1601",
+  "title": "Carta de dote de María Sánchez, hija de Diego Cavallero y sobrina de Alonso García de la Cavallera, vecinos todos del lugar de Navalvillar de Ibor, en su casamiento con Juan Martín, hijo de Andrés Martín y vecino del lugar de La Avellaneda.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r",
+    "7v",
+    "8r",
+    "8v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Navalvillar de Ibor",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 317x215",
+    "copista": "Francisco Cornejo",
+    "signatura": "PN/408, Francisco Cornejo 1601, 16 ff.",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2649,
+      "height": 4017
+    },
+    "1v": {
+      "width": 2465,
+      "height": 4057
+    },
+    "2r": {
+      "width": 2697,
+      "height": 4065
+    },
+    "2v": {
+      "width": 2457,
+      "height": 4137
+    },
+    "3r": {
+      "width": 2729,
+      "height": 4169
+    },
+    "3v": {
+      "width": 2521,
+      "height": 4210
+    },
+    "4r": {
+      "width": 2697,
+      "height": 4138
+    },
+    "4v": {
+      "width": 2513,
+      "height": 4145
+    },
+    "5r": {
+      "width": 2673,
+      "height": 4138
+    },
+    "5v": {
+      "width": 2489,
+      "height": 4154
+    },
+    "6r": {
+      "width": 2657,
+      "height": 3977
+    },
+    "6v": {
+      "width": 2457,
+      "height": 4098
+    },
+    "7r": {
+      "width": 2641,
+      "height": 4041
+    },
+    "7v": {
+      "width": 2552,
+      "height": 4088
+    },
+    "8r": {
+      "width": 2809,
+      "height": 3961
+    },
+    "8v": {
+      "width": 2393,
+      "height": 4018
+    }
+  }
+}

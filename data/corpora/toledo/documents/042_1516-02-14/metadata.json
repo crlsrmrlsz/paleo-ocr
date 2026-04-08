@@ -1,0 +1,35 @@
+{
+  "doc_id": "042_1516-02-14",
+  "dataset": "toledo",
+  "date": "1516-02-14",
+  "title": "Real cédula del Príncipe Carlos por la que, tras conocer la muerte del rey Fernando el Católico, comunica al ayuntamiento de Toledo su próxima venida a España, y le manda que, mientras tanto,\n\n- bedezca al cardenal Cisneros y a su embajador el deán de Lovaina.",
+  "archive": "Archivo Municipal de Toledo",
+  "letra": "cortesana-procesal",
+  "facsimile_pages": [
+    "0001"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "normalized",
+    "format": "single-document-md"
+  },
+  "extra": {
+    "slug": "1516-02-14",
+    "source_url": "http://www.toledo.es/wp-content/uploads/2018/07/1516-02-14_d.pdf",
+    "source_page": "https://www.toledo.es/toledo-siempre/laminario-de-documentos-con-sus-transcripciones/",
+    "fondo": "Fondo del Ayuntamiento de Toledo",
+    "nivel_descripcion": "Unidad documental",
+    "productor": "Ayuntamiento de Toledo",
+    "codigo_referencia": "ES.45168.AMT/1-AS//Archivo Secreto, cajón 1, legajo 4, número 62, pieza b",
+    "fecha_original": "[c] 1516-02-14. Bruselas",
+    "volumen_soporte": "1 hoja [287 x 200 mm], papel",
+    "notas": "Firma autógrafa del príncipe Carlos.\n\nLetra cortesana-procesal. Sello de placa en el reverso. Buen estado de\n\nconservación.\n\nEl documento fue restaurado en el Instituto del Patrimonio Cultural de\n\nEspaña (IPCE) entre los años 2004 y 2006.",
+    "descriptores": "CARLOS I, TOLEDO, ARZOBISPOS DE TOLEDO,\n\nCARDENAL CISNEROS, REGENTES, SIGLO XVI"
+  },
+  "facsimile_resolution": {
+    "0001": {
+      "width": 1228,
+      "height": 1776
+    }
+  }
+}

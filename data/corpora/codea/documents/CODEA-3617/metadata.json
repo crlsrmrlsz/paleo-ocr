@@ -1,0 +1,69 @@
+{
+  "doc_id": "CODEA-3617",
+  "dataset": "codea",
+  "date": "1587",
+  "title": "Codicilo de Catalina Gonzales, mujer de Juan Barriga Rosado y madre de María Macías, vecinos todos de la villa de Brozas.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cáceres",
+    "poblacion": "Brozas",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 302x207",
+    "copista": "Francisco Hernández",
+    "signatura": "PN/3077, Francisco Hernández Serván 1587, 4 ff.",
+    "palsclave": "bienes inmuebles, bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2585,
+      "height": 3858
+    },
+    "1v": {
+      "width": 2129,
+      "height": 3801
+    },
+    "2r": {
+      "width": 2777,
+      "height": 3761
+    },
+    "2v": {
+      "width": 1977,
+      "height": 3825
+    },
+    "3r": {
+      "width": 2778,
+      "height": 3913
+    },
+    "3v": {
+      "width": 1961,
+      "height": 3737
+    },
+    "4r": {
+      "width": 2842,
+      "height": 4001
+    },
+    "4v": {
+      "width": 2091,
+      "height": 3894
+    }
+  }
+}

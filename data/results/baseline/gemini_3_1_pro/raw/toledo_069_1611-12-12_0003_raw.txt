@@ -1,0 +1,8 @@
+ `c i b d a d`.
+        *   w4: `c a b a [...] e l`. `c a b[ild] o e n  e l` -> `cabal en el`? `cab[ild]o enel`.
+        *   Transcription so far: `enel dho cibdad cab[ild]o enel` (Meaning: "In the said city council in the...")
+
+    *   Line 3:
+        *   `dho`
+        *   `con sejo` (consejo or concejo. uses an s/c interchangeable. Let's transliterate as `conSejo`) -> It's a long 's'. `consejo`.
+        *   `m i `

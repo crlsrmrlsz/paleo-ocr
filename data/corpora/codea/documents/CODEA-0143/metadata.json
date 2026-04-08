@@ -1,0 +1,39 @@
+{
+  "doc_id": "CODEA-0143",
+  "dataset": "codea",
+  "date": "1549",
+  "title": "Carta de reconocimiento de censo de Pedro Suárez de Alarcón por la compra de una huerta a Francisco de Villarroel.",
+  "archive": "Archivo Histórico Provincial de Guadalajara",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Guadalajara",
+    "poblacion": "Guadalajara",
+    "tipologia": "cartas de compraventa y contratos",
+    "ambito": "judicial",
+    "soporte": "papel",
+    "copista": "Diego de Torizes",
+    "signatura": "Diego de Torices, caja 4097/11",
+    "palsclave": "bienes inmuebles",
+    "transcriptor": "José Manuel Lucía Mejías"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2672,
+      "height": 4000
+    },
+    "1v": {
+      "width": 2672,
+      "height": 4000
+    }
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "doc_id": "046_1535-09-24-1539-05-28",
+  "dataset": "toledo",
+  "date": "1535-09-24 – 1539-05-28",
+  "title": "Registro de caballos de la muy noble y muy leal ciudad de Toledo que comenzó viernes veinte y cuatro días del mes de septiembre de MDXXXV años.",
+  "archive": "Archivo Municipal de Toledo",
+  "letra": "cortesano-procesal",
+  "facsimile_pages": [
+    "0001",
+    "0002",
+    "0003",
+    "0004",
+    "0005",
+    "0006",
+    "0007",
+    "0008",
+    "0009",
+    "0010",
+    "0011",
+    "0012",
+    "0013",
+    "0014",
+    "0015",
+    "0016",
+    "0017",
+    "0018",
+    "0019",
+    "0020",
+    "0021",
+    "0022",
+    "0023",
+    "0024",
+    "0025",
+    "0026",
+    "0027",
+    "0028",
+    "0029",
+    "0030",
+    "0031",
+    "0032",
+    "0033",
+    "0034",
+    "0035",
+    "0036",
+    "0037",
+    "0038",
+    "0039",
+    "0040",
+    "0041",
+    "0042",
+    "0043",
+    "0044",
+    "0045",
+    "0046",
+    "0047",
+    "0048",
+    "0049",
+    "0050",
+    "0051",
+    "0052",
+    "0053",
+    "0054",
+    "0055",
+    "0056"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "normalized",
+    "format": "single-document-md"
+  },
+  "extra": {
+    "slug": "1535-09-24-1539-05-28",
+    "source_url": "http://www.toledo.es/wp-content/uploads/2018/07/1535-09-24-1539-05-28_d.pdf",
+    "source_page": "https://www.toledo.es/toledo-siempre/laminario-de-documentos-con-sus-transcripciones/",
+    "fondo": "Fondo del Ayuntamiento de Toledo",
+    "nivel_descripcion": "Unidad documental",
+    "productor": "Ayuntamiento de Toledo",
+    "codigo_referencia": "ES.45168.AMT/2-FP//Caja 4",
+    "fecha_original": "[f] 1535-09-24/1539-05-28. Toledo",
+    "volumen_soporte": "1 libro = 24 hojas [folio], papel",
+    "notas": "Este libro fue donado al Archivo Municipal por Luis Pablo\n\nGómez Vidales.\n\nLetra cortesano-procesal. Buen estado de conservación.\n\nSu transcripción fue publicada, precedida de un estudio introductorio, por J. C. Galende Díaz y M. García Ruipérez, en el libro _El control de del_ _ganado equino en España durante la Edad Moderna: el Libro registro_ _de caballos de Toledo del año 1535_, Toledo: Ayuntamiento, Archivo Municipal, 2008, pp. 48 - 141.",
+    "descriptores": "TOLEDO, REGISTROS, CABALLOS, DESCRIPCIÓN, GANADERÍA, SIGLO XVI"
+  },
+  "facsimile_resolution": {
+    "0001": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0002": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0003": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0004": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0005": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0006": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0007": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0008": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0009": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0010": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0011": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0012": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0013": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0014": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0015": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0016": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0017": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0018": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0019": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0020": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0021": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0022": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0023": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0024": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0025": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0026": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0027": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0028": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0029": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0030": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0031": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0032": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0033": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0034": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0035": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0036": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0037": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0038": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0039": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0040": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0041": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0042": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0043": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0044": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0045": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0046": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0047": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0048": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0049": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0050": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0051": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0052": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0053": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0054": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0055": {
+      "width": 1275,
+      "height": 1813
+    },
+    "0056": {
+      "width": 1275,
+      "height": 1813
+    }
+  }
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "number": 7,
+    "slug": "1475-02-11",
+    "title": "1475-02-11",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1475-02-11_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1475-02-11_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1475-02-11_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1475-02-11.jpg",
+    "dir_name": "007_1475-02-11",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "007_1475-02-11",
+    "date": "1475-02-11",
+    "has_ground_truth": true,
+    "facsimile_count": 1
+  },
+  {
+    "number": 41,
+    "slug": "1515-07-20_2",
+    "title": "1515-07-20_2",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1515-07-20_2_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1515-07-20_2_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1515-07-20_2_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1515-07-20_2.jpg",
+    "dir_name": "041_1515-07-20_2",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "041_1515-07-20_2",
+    "date": "1515-07-20_2",
+    "has_ground_truth": true,
+    "facsimile_count": 1
+  },
+  {
+    "number": 42,
+    "slug": "1516-02-14",
+    "title": "1516-02-14",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1516-02-14_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1516-02-14_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1516-02-14_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1516-02-14.jpg",
+    "dir_name": "042_1516-02-14",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "042_1516-02-14",
+    "date": "1516-02-14",
+    "has_ground_truth": true,
+    "facsimile_count": 1
+  },
+  {
+    "number": 43,
+    "slug": "1516-03-21",
+    "title": "1516-03-21",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1516-03-21_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1516-03-21_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1516-03-21_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1516-03-21.jpg",
+    "dir_name": "043_1516-03-21",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "043_1516-03-21",
+    "date": "1516-03-21",
+    "has_ground_truth": true,
+    "facsimile_count": 1
+  },
+  {
+    "number": 46,
+    "slug": "1535-09-24-1539-05-28",
+    "title": "1535-09-24 – 1539-05-28",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1535-09-24-1539-05-28_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1535-09-24-1539-05-28_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1535-09-24-1539-05-28_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1535-09-24-1539-05-28.jpg",
+    "dir_name": "046_1535-09-24-1539-05-28",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "046_1535-09-24-1539-05-28",
+    "date": "1535-09-24-1539-05-28",
+    "has_ground_truth": true,
+    "facsimile_count": 56
+  },
+  {
+    "number": 55,
+    "slug": "1590-04-11",
+    "title": "1590-04-11",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1590-04-11_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1590-04-11_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1590-04-11_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1590-04-11.jpg",
+    "dir_name": "055_1590-04-11",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "055_1590-04-11",
+    "date": "1590-04-11",
+    "has_ground_truth": true,
+    "facsimile_count": 1
+  },
+  {
+    "number": 57,
+    "slug": "1600",
+    "title": "1600",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1600_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1600_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1600_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1600.jpg",
+    "dir_name": "057_1600",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "057_1600",
+    "date": "1600",
+    "has_ground_truth": true,
+    "facsimile_count": 1
+  },
+  {
+    "number": 59,
+    "slug": "1605-08-19",
+    "title": "1605-08-19",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1605-08-19_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1605-08-19_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1605-08-19_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1605-08-19.jpg",
+    "dir_name": "059_1605-08-19",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "059_1605-08-19",
+    "date": "1605-08-19",
+    "has_ground_truth": true,
+    "facsimile_count": 2
+  },
+  {
+    "number": 60,
+    "slug": "1605-10-00",
+    "title": "1605-10-00",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1605-10-00_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1605-10-00_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1605-10-00_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1605-10-00.jpg",
+    "dir_name": "060_1605-10-00",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "060_1605-10-00",
+    "date": "1605-10-00",
+    "has_ground_truth": true,
+    "facsimile_count": 2
+  },
+  {
+    "number": 63,
+    "slug": "1607-12-11",
+    "title": "1607-12-11",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1607-12-11_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1607-12-11_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1607-12-11_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1607-12-11.jpg",
+    "dir_name": "063_1607-12-11",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "063_1607-12-11",
+    "date": "1607-12-11",
+    "has_ground_truth": true,
+    "facsimile_count": 3
+  },
+  {
+    "number": 64,
+    "slug": "1607-12-18",
+    "title": "1607-12-18",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1607-12-18_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1607-12-18_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1607-12-18_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1607-12-18.jpg",
+    "dir_name": "064_1607-12-18",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "064_1607-12-18",
+    "date": "1607-12-18",
+    "has_ground_truth": true,
+    "facsimile_count": 3
+  },
+  {
+    "number": 65,
+    "slug": "1608-01-16",
+    "title": "1608-01-16",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1608-01-16_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1608-01-16_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1608-01-16_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1608-01-16.jpg",
+    "dir_name": "065_1608-01-16",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "065_1608-01-16",
+    "date": "1608-01-16",
+    "has_ground_truth": true,
+    "facsimile_count": 1
+  },
+  {
+    "number": 66,
+    "slug": "1608-06-15",
+    "title": "1608-06-15",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1608-06-15_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1608-06-15_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1608-06-15_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1608-06-15.jpg",
+    "dir_name": "066_1608-06-15",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "066_1608-06-15",
+    "date": "1608-06-15",
+    "has_ground_truth": true,
+    "facsimile_count": 1
+  },
+  {
+    "number": 67,
+    "slug": "1609-07-08",
+    "title": "1609-07-08",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1609-07-08_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1609-07-08_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1609-07-08_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1609-07-08.jpg",
+    "dir_name": "067_1609-07-08",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "067_1609-07-08",
+    "date": "1609-07-08",
+    "has_ground_truth": true,
+    "facsimile_count": 1
+  },
+  {
+    "number": 69,
+    "slug": "1611-12-12",
+    "title": "1611-12-12",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1611-12-12_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1611-12-12_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1611-12-12_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1611-12-12.jpg",
+    "dir_name": "069_1611-12-12",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "069_1611-12-12",
+    "date": "1611-12-12",
+    "has_ground_truth": true,
+    "facsimile_count": 3
+  },
+  {
+    "number": 73,
+    "slug": "1617-01-16-1617-08-26",
+    "title": "1617-01-16 – 1617-08-26",
+    "url_cd": "http://www.toledo.es/wp-content/uploads/2018/07/1617-01-16-1617-08-26_cd.pdf",
+    "url_d": "http://www.toledo.es/wp-content/uploads/2018/07/1617-01-16-1617-08-26_d.pdf",
+    "url_t": "http://www.toledo.es/wp-content/uploads/2018/07/1617-01-16-1617-08-26_t.pdf",
+    "thumbnail_url": "http://www.toledo.es/wp-content/uploads/2018/07/1617-01-16-1617-08-26.jpg",
+    "dir_name": "073_1617-01-16-1617-08-26",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "073_1617-01-16-1617-08-26",
+    "date": "1617-01-16-1617-08-26",
+    "has_ground_truth": true,
+    "facsimile_count": 38
+  },
+  {
+    "number": 82,
+    "slug": "1647-05-10",
+    "title": "1647-05-10",
+    "url_cd": "https://www.toledo.es/wp-content/uploads/2024/01/1647-05-10_cd.pdf",
+    "url_d": "https://www.toledo.es/wp-content/uploads/2024/01/1647-05-10_d.pdf",
+    "url_t": "https://www.toledo.es/wp-content/uploads/2024/01/1647-05-10_t.pdf",
+    "thumbnail_url": "https://www.toledo.es/wp-content/uploads/2024/01/1647-05-10.jpg",
+    "dir_name": "082_1647-05-10",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "082_1647-05-10",
+    "date": "1647-05-10",
+    "has_ground_truth": true,
+    "facsimile_count": 5
+  },
+  {
+    "number": 83,
+    "slug": "1647-05-12",
+    "title": "1647-05-12",
+    "url_cd": "https://www.toledo.es/wp-content/uploads/2024/01/1647-05-12_cd.pdf",
+    "url_d": "https://www.toledo.es/wp-content/uploads/2024/01/1647-05-12_d.pdf",
+    "url_t": "https://www.toledo.es/wp-content/uploads/2024/01/1647-05-12_t.pdf",
+    "thumbnail_url": "https://www.toledo.es/wp-content/uploads/2024/01/1647-05-12.jpg",
+    "dir_name": "083_1647-05-12",
+    "downloaded": true,
+    "converted": true,
+    "errors": [
+      "pdf_missing: descripcion.pdf",
+      "pdf_missing: transcripcion.pdf"
+    ],
+    "doc_id": "083_1647-05-12",
+    "date": "1647-05-12",
+    "has_ground_truth": true,
+    "facsimile_count": 3
+  }
+]

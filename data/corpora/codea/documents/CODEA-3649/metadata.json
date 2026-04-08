@@ -1,0 +1,64 @@
+{
+  "doc_id": "CODEA-3649",
+  "dataset": "codea",
+  "date": "1642",
+  "title": "Carta de dote de Joana Martín, la Mercendera, hija de Andrés Sanches Palacios y Catalina Martín, la Montera, en su casamiento con Bartolomé de Castillexo, natural de la villa de Fuente Obejuna y vecino de la de Granja de Torrehermosa.",
+  "archive": "Archivo de Protocolos de Distrito de Llerena",
+  "letra": "humanística corriente/procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Granja de Torrehermosa",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 314x222",
+    "copista": "Francisco Moreno",
+    "signatura": "Granja de Torrehermosa, Protocolos, caja 1, F. Moreno 1642, ff. 32r (l. 12)-35r",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2745,
+      "height": 4114
+    },
+    "1v": {
+      "width": 2649,
+      "height": 4138
+    },
+    "2r": {
+      "width": 2729,
+      "height": 4113
+    },
+    "2v": {
+      "width": 2681,
+      "height": 4146
+    },
+    "3r": {
+      "width": 2777,
+      "height": 4178
+    },
+    "3v": {
+      "width": 2689,
+      "height": 4185
+    },
+    "4r": {
+      "width": 2777,
+      "height": 4130
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "doc_id": "CODEA-2471",
+  "dataset": "codea",
+  "date": "1552",
+  "title": "Carta de examen concedida a Andrés de Cuéllar para ejercer como tundidor.",
+  "archive": "Archivo Histórico Provincial de Cuenca",
+  "letra": "procesal/humanística",
+  "facsimile_pages": [
+    "1r",
+    "1v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cuenca",
+    "poblacion": "Cuenca",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Cristóval de Alarcón",
+    "signatura": "P-45, f. 390",
+    "palsclave": "asuntos administrativos, cargos y oficios",
+    "transcriptor": "Delfina Vázquez Balonga"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2694,
+      "height": 1577
+    },
+    "1v": {
+      "width": 2839,
+      "height": 3968
+    }
+  }
+}

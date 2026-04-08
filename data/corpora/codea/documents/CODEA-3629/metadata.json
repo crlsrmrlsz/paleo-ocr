@@ -1,0 +1,59 @@
+{
+  "doc_id": "CODEA-3629",
+  "dataset": "codea",
+  "date": "1608",
+  "title": "Carta de dote de doña María d’Escobar, hija de Alonso Rodríguez y María Rodríguez y hermana de Alonso Rodríguez de Carvallar, regidor, en su casamiento con Gonçalo d’Espinosa Montero, escribano del concejo y vecino de la villa de Fuentes de León.",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "procesal/bastarda corriente",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Fuentes de León",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 320x217",
+    "copista": "Fernando Capote Lozano",
+    "signatura": "PN/2986, Fernando Capote Lozano 1603-1611, ff. 95r-97v",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2824,
+      "height": 4128
+    },
+    "1v": {
+      "width": 2833,
+      "height": 4178
+    },
+    "2r": {
+      "width": 2809,
+      "height": 4178
+    },
+    "2v": {
+      "width": 2817,
+      "height": 4218
+    },
+    "3r": {
+      "width": 2793,
+      "height": 4194
+    },
+    "3v": {
+      "width": 2785,
+      "height": 4153
+    }
+  }
+}

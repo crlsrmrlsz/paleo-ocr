@@ -1,0 +1,49 @@
+{
+  "doc_id": "CODEA-0206",
+  "dataset": "codea",
+  "date": "1625",
+  "title": "Provisión sobre el pleito entre Diego Garzía y Diego de Robles.",
+  "archive": "Archivo Municipal de Toledo",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Toledo",
+    "poblacion": "Toledo",
+    "tipologia": "textos legislativos",
+    "ambito": "judicial",
+    "soporte": "papel",
+    "copista": "Pedro Ruiz",
+    "signatura": "cajón 2, legajo1, nº 22",
+    "palsclave": "gobierno, justicia",
+    "transcriptor": "Cristina Castillo Martínez"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1200,
+      "height": 1600
+    },
+    "1v": {
+      "width": 1200,
+      "height": 1600
+    },
+    "2r": {
+      "width": 1200,
+      "height": 1600
+    },
+    "2v": {
+      "width": 1200,
+      "height": 1600
+    }
+  }
+}

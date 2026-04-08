@@ -1,0 +1,4762 @@
+{
+  "dspy_yolo_blocks": {
+    "pages": 42,
+    "gt_chars": 55517,
+    "hyp_chars": 52361,
+    "cer_approx": 0.468433,
+    "correct": 35813,
+    "substitutions": 10246,
+    "deletions": 9458,
+    "insertions": 6302,
+    "s_rate": 0.184556,
+    "d_rate": 0.170362,
+    "i_rate": 0.113515,
+    "garbled_segments": 61,
+    "garbled_chars": 1701,
+    "sub_categories": {
+      "other_substitution": 5921,
+      "word_boundary": 1539,
+      "visual_confusion": 1335,
+      "case": 595,
+      "cedilla": 316,
+      "paleographic_alternation": 263,
+      "diacritical": 133,
+      "punctuation": 87,
+      "abbreviation_marker": 47,
+      "modernization": 10
+    },
+    "top_50_confusions": [
+      {
+        "ref": "E",
+        "hyp": "e",
+        "count": 186
+      },
+      {
+        "ref": "a",
+        "hyp": "e",
+        "count": 169
+      },
+      {
+        "ref": "o",
+        "hyp": "e",
+        "count": 155
+      },
+      {
+        "ref": "a",
+        "hyp": "o",
+        "count": 128
+      },
+      {
+        "ref": "R",
+        "hyp": "r",
+        "count": 122
+      },
+      {
+        "ref": "e",
+        "hyp": "o",
+        "count": 112
+      },
+      {
+        "ref": "j",
+        "hyp": "i",
+        "count": 101
+      },
+      {
+        "ref": "a",
+        "hyp": " ",
+        "count": 100
+      },
+      {
+        "ref": "r",
+        "hyp": " ",
+        "count": 94
+      },
+      {
+        "ref": "o",
+        "hyp": "a",
+        "count": 94
+      },
+      {
+        "ref": "l",
+        "hyp": "e",
+        "count": 91
+      },
+      {
+        "ref": "r",
+        "hyp": "n",
+        "count": 89
+      },
+      {
+        "ref": "e",
+        "hyp": "a",
+        "count": 84
+      },
+      {
+        "ref": "s",
+        "hyp": "e",
+        "count": 82
+      },
+      {
+        "ref": "e",
+        "hyp": " ",
+        "count": 79
+      },
+      {
+        "ref": "a",
+        "hyp": "n",
+        "count": 78
+      },
+      {
+        "ref": "i",
+        "hyp": "e",
+        "count": 78
+      },
+      {
+        "ref": "o",
+        "hyp": " ",
+        "count": 76
+      },
+      {
+        "ref": "n",
+        "hyp": " ",
+        "count": 74
+      },
+      {
+        "ref": "i",
+        "hyp": " ",
+        "count": 71
+      },
+      {
+        "ref": "u",
+        "hyp": "v",
+        "count": 69
+      },
+      {
+        "ref": "d",
+        "hyp": "e",
+        "count": 68
+      },
+      {
+        "ref": "ç",
+        "hyp": "c",
+        "count": 66
+      },
+      {
+        "ref": "s",
+        "hyp": "o",
+        "count": 63
+      },
+      {
+        "ref": "l",
+        "hyp": " ",
+        "count": 63
+      },
+      {
+        "ref": "e",
+        "hyp": "i",
+        "count": 62
+      },
+      {
+        "ref": "s",
+        "hyp": " ",
+        "count": 61
+      },
+      {
+        "ref": "o",
+        "hyp": "u",
+        "count": 57
+      },
+      {
+        "ref": "u",
+        "hyp": "n",
+        "count": 55
+      },
+      {
+        "ref": " ",
+        "hyp": "n",
+        "count": 54
+      },
+      {
+        "ref": " ",
+        "hyp": "e",
+        "count": 54
+      },
+      {
+        "ref": "a",
+        "hyp": "i",
+        "count": 54
+      },
+      {
+        "ref": "o",
+        "hyp": "s",
+        "count": 53
+      },
+      {
+        "ref": "s",
+        "hyp": "r",
+        "count": 53
+      },
+      {
+        "ref": "s",
+        "hyp": "n",
+        "count": 53
+      },
+      {
+        "ref": "c",
+        "hyp": " ",
+        "count": 51
+      },
+      {
+        "ref": "t",
+        "hyp": " ",
+        "count": 51
+      },
+      {
+        "ref": "i",
+        "hyp": "a",
+        "count": 51
+      },
+      {
+        "ref": "a",
+        "hyp": "r",
+        "count": 49
+      },
+      {
+        "ref": "d",
+        "hyp": "r",
+        "count": 49
+      },
+      {
+        "ref": "o",
+        "hyp": "n",
+        "count": 46
+      },
+      {
+        "ref": "o",
+        "hyp": "i",
+        "count": 45
+      },
+      {
+        "ref": " ",
+        "hyp": "r",
+        "count": 45
+      },
+      {
+        "ref": "r",
+        "hyp": "e",
+        "count": 45
+      },
+      {
+        "ref": "c",
+        "hyp": "a",
+        "count": 44
+      },
+      {
+        "ref": "n",
+        "hyp": "m",
+        "count": 44
+      },
+      {
+        "ref": "a",
+        "hyp": "s",
+        "count": 44
+      },
+      {
+        "ref": "u",
+        "hyp": " ",
+        "count": 44
+      },
+      {
+        "ref": "d",
+        "hyp": "t",
+        "count": 44
+      },
+      {
+        "ref": "n",
+        "hyp": "e",
+        "count": 44
+      }
+    ],
+    "top_30_word_subs": [
+      {
+        "gt": "En",
+        "hyp": "en",
+        "count": 63
+      },
+      {
+        "gt": "&",
+        "hyp": "e",
+        "count": 26
+      },
+      {
+        "gt": "Reales",
+        "hyp": "reales",
+        "count": 24
+      },
+      {
+        "gt": "dela",
+        "hyp": "la",
+        "count": 18
+      },
+      {
+        "gt": "E",
+        "hyp": "e",
+        "count": 17
+      },
+      {
+        "gt": "yten",
+        "hyp": "Aten",
+        "count": 14
+      },
+      {
+        "gt": "y",
+        "hyp": "e",
+        "count": 12
+      },
+      {
+        "gt": "Reales",
+        "hyp": "y",
+        "count": 12
+      },
+      {
+        "gt": "a",
+        "hyp": "de",
+        "count": 10
+      },
+      {
+        "gt": "dicho",
+        "hyp": "de",
+        "count": 9
+      },
+      {
+        "gt": "Real",
+        "hyp": "real",
+        "count": 9
+      },
+      {
+        "gt": "que",
+        "hyp": "de",
+        "count": 8
+      },
+      {
+        "gt": "Reales",
+        "hyp": "-",
+        "count": 8
+      },
+      {
+        "gt": "Roca",
+        "hyp": "toca",
+        "count": 7
+      },
+      {
+        "gt": "un",
+        "hyp": "vn",
+        "count": 7
+      },
+      {
+        "gt": "e",
+        "hyp": "de",
+        "count": 7
+      },
+      {
+        "gt": "del",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "E",
+        "hyp": "en",
+        "count": 6
+      },
+      {
+        "gt": "çinco",
+        "hyp": "cinco",
+        "count": 6
+      },
+      {
+        "gt": "e",
+        "hyp": "o",
+        "count": 6
+      },
+      {
+        "gt": "y",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "dela",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "su",
+        "hyp": "en",
+        "count": 5
+      },
+      {
+        "gt": "en",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "es",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "El",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "Vna",
+        "hyp": "vna",
+        "count": 5
+      },
+      {
+        "gt": "La",
+        "hyp": "la",
+        "count": 5
+      },
+      {
+        "gt": "El",
+        "hyp": "el",
+        "count": 5
+      },
+      {
+        "gt": "e",
+        "hyp": "en",
+        "count": 5
+      }
+    ],
+    "top_20_word_insertions": [
+      {
+        "word": "de",
+        "count": 175
+      },
+      {
+        "word": "y",
+        "count": 88
+      },
+      {
+        "word": "e",
+        "count": 78
+      },
+      {
+        "word": "en",
+        "count": 73
+      },
+      {
+        "word": "que",
+        "count": 56
+      },
+      {
+        "word": "a",
+        "count": 48
+      },
+      {
+        "word": "reales",
+        "count": 39
+      },
+      {
+        "word": "el",
+        "count": 37
+      },
+      {
+        "word": "la",
+        "count": 34
+      },
+      {
+        "word": "con",
+        "count": 26
+      },
+      {
+        "word": "se",
+        "count": 24
+      },
+      {
+        "word": "tres",
+        "count": 19
+      },
+      {
+        "word": "del",
+        "count": 16
+      },
+      {
+        "word": "~",
+        "count": 16
+      },
+      {
+        "word": "por",
+        "count": 15
+      },
+      {
+        "word": "un",
+        "count": 15
+      },
+      {
+        "word": "U",
+        "count": 13
+      },
+      {
+        "word": "x",
+        "count": 13
+      },
+      {
+        "word": "es",
+        "count": 12
+      },
+      {
+        "word": "los",
+        "count": 11
+      }
+    ],
+    "top_20_word_deletions": [
+      {
+        "word": "de",
+        "count": 40
+      },
+      {
+        "word": "y",
+        "count": 27
+      },
+      {
+        "word": "a",
+        "count": 21
+      },
+      {
+        "word": "dos",
+        "count": 16
+      },
+      {
+        "word": "e",
+        "count": 14
+      },
+      {
+        "word": "que",
+        "count": 13
+      },
+      {
+        "word": "en",
+        "count": 12
+      },
+      {
+        "word": "En",
+        "count": 11
+      },
+      {
+        "word": "su",
+        "count": 9
+      },
+      {
+        "word": "o",
+        "count": 9
+      },
+      {
+        "word": "Reales",
+        "count": 9
+      },
+      {
+        "word": "Otra",
+        "count": 9
+      },
+      {
+        "word": "savana",
+        "count": 8
+      },
+      {
+        "word": "con",
+        "count": 7
+      },
+      {
+        "word": "tres",
+        "count": 7
+      },
+      {
+        "word": "lla",
+        "count": 7
+      },
+      {
+        "word": "buena",
+        "count": 7
+      },
+      {
+        "word": "dicho",
+        "count": 6
+      },
+      {
+        "word": "los",
+        "count": 6
+      },
+      {
+        "word": "el",
+        "count": 6
+      }
+    ]
+  },
+  "dspy_model_first": {
+    "pages": 42,
+    "gt_chars": 55517,
+    "hyp_chars": 52655,
+    "cer_approx": 0.463137,
+    "correct": 35926,
+    "substitutions": 10608,
+    "deletions": 8983,
+    "insertions": 6121,
+    "s_rate": 0.191077,
+    "d_rate": 0.161806,
+    "i_rate": 0.110255,
+    "garbled_segments": 66,
+    "garbled_chars": 1487,
+    "sub_categories": {
+      "other_substitution": 6275,
+      "word_boundary": 1555,
+      "visual_confusion": 1469,
+      "case": 535,
+      "paleographic_alternation": 257,
+      "cedilla": 234,
+      "diacritical": 146,
+      "punctuation": 77,
+      "abbreviation_marker": 51,
+      "modernization": 9
+    },
+    "top_50_confusions": [
+      {
+        "ref": "a",
+        "hyp": "e",
+        "count": 221
+      },
+      {
+        "ref": "o",
+        "hyp": "e",
+        "count": 189
+      },
+      {
+        "ref": "E",
+        "hyp": "e",
+        "count": 187
+      },
+      {
+        "ref": "a",
+        "hyp": "o",
+        "count": 150
+      },
+      {
+        "ref": "R",
+        "hyp": "r",
+        "count": 118
+      },
+      {
+        "ref": "l",
+        "hyp": "e",
+        "count": 111
+      },
+      {
+        "ref": "e",
+        "hyp": "o",
+        "count": 107
+      },
+      {
+        "ref": "ç",
+        "hyp": "c",
+        "count": 105
+      },
+      {
+        "ref": "j",
+        "hyp": "i",
+        "count": 98
+      },
+      {
+        "ref": "o",
+        "hyp": "a",
+        "count": 98
+      },
+      {
+        "ref": "a",
+        "hyp": " ",
+        "count": 94
+      },
+      {
+        "ref": "r",
+        "hyp": "n",
+        "count": 91
+      },
+      {
+        "ref": "i",
+        "hyp": "e",
+        "count": 90
+      },
+      {
+        "ref": "e",
+        "hyp": "a",
+        "count": 88
+      },
+      {
+        "ref": "a",
+        "hyp": "n",
+        "count": 87
+      },
+      {
+        "ref": "r",
+        "hyp": " ",
+        "count": 85
+      },
+      {
+        "ref": "n",
+        "hyp": " ",
+        "count": 85
+      },
+      {
+        "ref": "o",
+        "hyp": " ",
+        "count": 83
+      },
+      {
+        "ref": "s",
+        "hyp": " ",
+        "count": 83
+      },
+      {
+        "ref": "s",
+        "hyp": "e",
+        "count": 81
+      },
+      {
+        "ref": "u",
+        "hyp": "v",
+        "count": 76
+      },
+      {
+        "ref": "e",
+        "hyp": " ",
+        "count": 73
+      },
+      {
+        "ref": "c",
+        "hyp": "e",
+        "count": 62
+      },
+      {
+        "ref": "o",
+        "hyp": "u",
+        "count": 59
+      },
+      {
+        "ref": "d",
+        "hyp": "e",
+        "count": 58
+      },
+      {
+        "ref": "a",
+        "hyp": "i",
+        "count": 58
+      },
+      {
+        "ref": "s",
+        "hyp": "o",
+        "count": 56
+      },
+      {
+        "ref": "s",
+        "hyp": "n",
+        "count": 56
+      },
+      {
+        "ref": "i",
+        "hyp": " ",
+        "count": 56
+      },
+      {
+        "ref": " ",
+        "hyp": "n",
+        "count": 55
+      },
+      {
+        "ref": "c",
+        "hyp": "a",
+        "count": 55
+      },
+      {
+        "ref": "l",
+        "hyp": " ",
+        "count": 54
+      },
+      {
+        "ref": "r",
+        "hyp": "s",
+        "count": 54
+      },
+      {
+        "ref": "a",
+        "hyp": "s",
+        "count": 53
+      },
+      {
+        "ref": "e",
+        "hyp": "i",
+        "count": 53
+      },
+      {
+        "ref": "a",
+        "hyp": "r",
+        "count": 49
+      },
+      {
+        "ref": "d",
+        "hyp": "s",
+        "count": 49
+      },
+      {
+        "ref": "n",
+        "hyp": "m",
+        "count": 48
+      },
+      {
+        "ref": "s",
+        "hyp": "r",
+        "count": 48
+      },
+      {
+        "ref": " ",
+        "hyp": "r",
+        "count": 48
+      },
+      {
+        "ref": "o",
+        "hyp": "i",
+        "count": 47
+      },
+      {
+        "ref": "n",
+        "hyp": "e",
+        "count": 46
+      },
+      {
+        "ref": "i",
+        "hyp": "u",
+        "count": 46
+      },
+      {
+        "ref": "n",
+        "hyp": "s",
+        "count": 46
+      },
+      {
+        "ref": " ",
+        "hyp": "s",
+        "count": 45
+      },
+      {
+        "ref": "n",
+        "hyp": "r",
+        "count": 45
+      },
+      {
+        "ref": "d",
+        "hyp": "o",
+        "count": 44
+      },
+      {
+        "ref": "l",
+        "hyp": "s",
+        "count": 44
+      },
+      {
+        "ref": " ",
+        "hyp": "e",
+        "count": 44
+      },
+      {
+        "ref": " ",
+        "hyp": "i",
+        "count": 44
+      }
+    ],
+    "top_30_word_subs": [
+      {
+        "gt": "En",
+        "hyp": "en",
+        "count": 68
+      },
+      {
+        "gt": "Reales",
+        "hyp": "reales",
+        "count": 36
+      },
+      {
+        "gt": "&",
+        "hyp": "e",
+        "count": 25
+      },
+      {
+        "gt": "E",
+        "hyp": "e",
+        "count": 20
+      },
+      {
+        "gt": "un",
+        "hyp": "vn",
+        "count": 17
+      },
+      {
+        "gt": "Real",
+        "hyp": "real",
+        "count": 13
+      },
+      {
+        "gt": "y",
+        "hyp": "e",
+        "count": 12
+      },
+      {
+        "gt": "que",
+        "hyp": "de",
+        "count": 10
+      },
+      {
+        "gt": "dela",
+        "hyp": "la",
+        "count": 10
+      },
+      {
+        "gt": "Reales",
+        "hyp": "Y",
+        "count": 10
+      },
+      {
+        "gt": "a",
+        "hyp": "de",
+        "count": 10
+      },
+      {
+        "gt": "y",
+        "hyp": "de",
+        "count": 9
+      },
+      {
+        "gt": "e",
+        "hyp": "que",
+        "count": 9
+      },
+      {
+        "gt": "mjll",
+        "hyp": "mill",
+        "count": 8
+      },
+      {
+        "gt": "e",
+        "hyp": "de",
+        "count": 8
+      },
+      {
+        "gt": "una",
+        "hyp": "vna",
+        "count": 8
+      },
+      {
+        "gt": "de",
+        "hyp": "del",
+        "count": 7
+      },
+      {
+        "gt": "en",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "Vna",
+        "hyp": "vna",
+        "count": 6
+      },
+      {
+        "gt": "con",
+        "hyp": "vn",
+        "count": 5
+      },
+      {
+        "gt": "dela",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "E",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "a",
+        "hyp": "e",
+        "count": 5
+      },
+      {
+        "gt": "Para",
+        "hyp": "para",
+        "count": 5
+      },
+      {
+        "gt": "La",
+        "hyp": "la",
+        "count": 5
+      },
+      {
+        "gt": "Vn",
+        "hyp": "vn",
+        "count": 5
+      },
+      {
+        "gt": "çinco",
+        "hyp": "cinco",
+        "count": 5
+      },
+      {
+        "gt": "el",
+        "hyp": "que",
+        "count": 5
+      },
+      {
+        "gt": "con",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "e",
+        "hyp": "el",
+        "count": 5
+      }
+    ],
+    "top_20_word_insertions": [
+      {
+        "word": "de",
+        "count": 131
+      },
+      {
+        "word": "y",
+        "count": 91
+      },
+      {
+        "word": "e",
+        "count": 60
+      },
+      {
+        "word": "en",
+        "count": 52
+      },
+      {
+        "word": "que",
+        "count": 48
+      },
+      {
+        "word": "a",
+        "count": 31
+      },
+      {
+        "word": "del",
+        "count": 18
+      },
+      {
+        "word": "se",
+        "count": 18
+      },
+      {
+        "word": "reales",
+        "count": 17
+      },
+      {
+        "word": "vn",
+        "count": 15
+      },
+      {
+        "word": "el",
+        "count": 14
+      },
+      {
+        "word": "por",
+        "count": 13
+      },
+      {
+        "word": "mas",
+        "count": 13
+      },
+      {
+        "word": "mi",
+        "count": 12
+      },
+      {
+        "word": "vna",
+        "count": 12
+      },
+      {
+        "word": "con",
+        "count": 12
+      },
+      {
+        "word": "o",
+        "count": 11
+      },
+      {
+        "word": "dicho",
+        "count": 11
+      },
+      {
+        "word": "me",
+        "count": 11
+      },
+      {
+        "word": "lo",
+        "count": 11
+      }
+    ],
+    "top_20_word_deletions": [
+      {
+        "word": "y",
+        "count": 40
+      },
+      {
+        "word": "de",
+        "count": 38
+      },
+      {
+        "word": "a",
+        "count": 21
+      },
+      {
+        "word": "En",
+        "count": 19
+      },
+      {
+        "word": "que",
+        "count": 16
+      },
+      {
+        "word": "dos",
+        "count": 15
+      },
+      {
+        "word": "e",
+        "count": 15
+      },
+      {
+        "word": "Reales",
+        "count": 14
+      },
+      {
+        "word": "en",
+        "count": 11
+      },
+      {
+        "word": "o",
+        "count": 10
+      },
+      {
+        "word": "con",
+        "count": 9
+      },
+      {
+        "word": "dicha",
+        "count": 8
+      },
+      {
+        "word": "do",
+        "count": 8
+      },
+      {
+        "word": "di",
+        "count": 8
+      },
+      {
+        "word": "dicho",
+        "count": 7
+      },
+      {
+        "word": "los",
+        "count": 7
+      },
+      {
+        "word": "la",
+        "count": 7
+      },
+      {
+        "word": "el",
+        "count": 7
+      },
+      {
+        "word": "dela",
+        "count": 7
+      },
+      {
+        "word": "del",
+        "count": 7
+      }
+    ]
+  },
+  "dspy_strips_page_desc": {
+    "pages": 42,
+    "gt_chars": 55517,
+    "hyp_chars": 58320,
+    "cer_approx": 0.444044,
+    "correct": 38932,
+    "substitutions": 11321,
+    "deletions": 5264,
+    "insertions": 8067,
+    "s_rate": 0.20392,
+    "d_rate": 0.094818,
+    "i_rate": 0.145307,
+    "garbled_segments": 51,
+    "garbled_chars": 44,
+    "sub_categories": {
+      "other_substitution": 6612,
+      "word_boundary": 1664,
+      "visual_confusion": 1476,
+      "case": 628,
+      "paleographic_alternation": 315,
+      "cedilla": 300,
+      "diacritical": 159,
+      "punctuation": 107,
+      "abbreviation_marker": 47,
+      "modernization": 13
+    },
+    "top_50_confusions": [
+      {
+        "ref": "E",
+        "hyp": "e",
+        "count": 206
+      },
+      {
+        "ref": "a",
+        "hyp": "e",
+        "count": 204
+      },
+      {
+        "ref": "a",
+        "hyp": "o",
+        "count": 164
+      },
+      {
+        "ref": "o",
+        "hyp": "e",
+        "count": 152
+      },
+      {
+        "ref": "ç",
+        "hyp": "c",
+        "count": 128
+      },
+      {
+        "ref": "R",
+        "hyp": "r",
+        "count": 127
+      },
+      {
+        "ref": "e",
+        "hyp": "o",
+        "count": 125
+      },
+      {
+        "ref": "l",
+        "hyp": "e",
+        "count": 118
+      },
+      {
+        "ref": "o",
+        "hyp": "a",
+        "count": 115
+      },
+      {
+        "ref": "j",
+        "hyp": "i",
+        "count": 110
+      },
+      {
+        "ref": "a",
+        "hyp": " ",
+        "count": 105
+      },
+      {
+        "ref": "u",
+        "hyp": "v",
+        "count": 100
+      },
+      {
+        "ref": "s",
+        "hyp": "e",
+        "count": 97
+      },
+      {
+        "ref": "i",
+        "hyp": "e",
+        "count": 94
+      },
+      {
+        "ref": "s",
+        "hyp": " ",
+        "count": 90
+      },
+      {
+        "ref": "r",
+        "hyp": " ",
+        "count": 85
+      },
+      {
+        "ref": "n",
+        "hyp": " ",
+        "count": 84
+      },
+      {
+        "ref": "a",
+        "hyp": "n",
+        "count": 82
+      },
+      {
+        "ref": "r",
+        "hyp": "n",
+        "count": 82
+      },
+      {
+        "ref": "o",
+        "hyp": " ",
+        "count": 81
+      },
+      {
+        "ref": "e",
+        "hyp": "a",
+        "count": 79
+      },
+      {
+        "ref": "o",
+        "hyp": "u",
+        "count": 74
+      },
+      {
+        "ref": "s",
+        "hyp": "o",
+        "count": 70
+      },
+      {
+        "ref": "e",
+        "hyp": " ",
+        "count": 69
+      },
+      {
+        "ref": "d",
+        "hyp": "e",
+        "count": 67
+      },
+      {
+        "ref": " ",
+        "hyp": "e",
+        "count": 65
+      },
+      {
+        "ref": "e",
+        "hyp": "i",
+        "count": 65
+      },
+      {
+        "ref": "l",
+        "hyp": " ",
+        "count": 64
+      },
+      {
+        "ref": "i",
+        "hyp": " ",
+        "count": 63
+      },
+      {
+        "ref": "a",
+        "hyp": "i",
+        "count": 62
+      },
+      {
+        "ref": "r",
+        "hyp": "s",
+        "count": 61
+      },
+      {
+        "ref": "a",
+        "hyp": "r",
+        "count": 57
+      },
+      {
+        "ref": " ",
+        "hyp": "r",
+        "count": 56
+      },
+      {
+        "ref": "s",
+        "hyp": "l",
+        "count": 56
+      },
+      {
+        "ref": "a",
+        "hyp": "u",
+        "count": 55
+      },
+      {
+        "ref": " ",
+        "hyp": "n",
+        "count": 54
+      },
+      {
+        "ref": "n",
+        "hyp": "m",
+        "count": 52
+      },
+      {
+        "ref": "c",
+        "hyp": "a",
+        "count": 52
+      },
+      {
+        "ref": "r",
+        "hyp": "e",
+        "count": 52
+      },
+      {
+        "ref": "u",
+        "hyp": "n",
+        "count": 52
+      },
+      {
+        "ref": "s",
+        "hyp": "r",
+        "count": 50
+      },
+      {
+        "ref": "c",
+        "hyp": "e",
+        "count": 49
+      },
+      {
+        "ref": "o",
+        "hyp": "n",
+        "count": 49
+      },
+      {
+        "ref": "a",
+        "hyp": "s",
+        "count": 48
+      },
+      {
+        "ref": "u",
+        "hyp": " ",
+        "count": 48
+      },
+      {
+        "ref": "c",
+        "hyp": " ",
+        "count": 47
+      },
+      {
+        "ref": "d",
+        "hyp": "r",
+        "count": 47
+      },
+      {
+        "ref": "o",
+        "hyp": "s",
+        "count": 47
+      },
+      {
+        "ref": "u",
+        "hyp": "e",
+        "count": 46
+      },
+      {
+        "ref": "d",
+        "hyp": "s",
+        "count": 46
+      }
+    ],
+    "top_30_word_subs": [
+      {
+        "gt": "En",
+        "hyp": "en",
+        "count": 75
+      },
+      {
+        "gt": "Reales",
+        "hyp": "reales",
+        "count": 44
+      },
+      {
+        "gt": "&",
+        "hyp": "e",
+        "count": 23
+      },
+      {
+        "gt": "E",
+        "hyp": "e",
+        "count": 20
+      },
+      {
+        "gt": "un",
+        "hyp": "vn",
+        "count": 18
+      },
+      {
+        "gt": "Real",
+        "hyp": "real",
+        "count": 15
+      },
+      {
+        "gt": "yten",
+        "hyp": "Yten",
+        "count": 14
+      },
+      {
+        "gt": "de",
+        "hyp": "e",
+        "count": 11
+      },
+      {
+        "gt": "y",
+        "hyp": "e",
+        "count": 11
+      },
+      {
+        "gt": "una",
+        "hyp": "vna",
+        "count": 10
+      },
+      {
+        "gt": "del",
+        "hyp": "el",
+        "count": 7
+      },
+      {
+        "gt": "a",
+        "hyp": "de",
+        "count": 7
+      },
+      {
+        "gt": "que",
+        "hyp": "e",
+        "count": 7
+      },
+      {
+        "gt": "françisco",
+        "hyp": "francisco",
+        "count": 6
+      },
+      {
+        "gt": "en",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "dicho",
+        "hyp": "e",
+        "count": 6
+      },
+      {
+        "gt": "El",
+        "hyp": "el",
+        "count": 6
+      },
+      {
+        "gt": "y",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "mjll",
+        "hyp": "mill",
+        "count": 6
+      },
+      {
+        "gt": "lienzo",
+        "hyp": "lienço",
+        "count": 6
+      },
+      {
+        "gt": "Otra",
+        "hyp": "otra",
+        "count": 6
+      },
+      {
+        "gt": "o",
+        "hyp": "e",
+        "count": 5
+      },
+      {
+        "gt": "que",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "Con",
+        "hyp": "con",
+        "count": 5
+      },
+      {
+        "gt": "Para",
+        "hyp": "para",
+        "count": 5
+      },
+      {
+        "gt": "La",
+        "hyp": "la",
+        "count": 5
+      },
+      {
+        "gt": "e",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "enel",
+        "hyp": "que",
+        "count": 5
+      },
+      {
+        "gt": "deljenço",
+        "hyp": "lienço",
+        "count": 5
+      },
+      {
+        "gt": "E",
+        "hyp": "que",
+        "count": 5
+      }
+    ],
+    "top_20_word_insertions": [
+      {
+        "word": "de",
+        "count": 181
+      },
+      {
+        "word": "e",
+        "count": 89
+      },
+      {
+        "word": "y",
+        "count": 83
+      },
+      {
+        "word": "que",
+        "count": 78
+      },
+      {
+        "word": "en",
+        "count": 72
+      },
+      {
+        "word": "a",
+        "count": 36
+      },
+      {
+        "word": "vn",
+        "count": 26
+      },
+      {
+        "word": "por",
+        "count": 25
+      },
+      {
+        "word": "el",
+        "count": 24
+      },
+      {
+        "word": "se",
+        "count": 23
+      },
+      {
+        "word": "con",
+        "count": 23
+      },
+      {
+        "word": "del",
+        "count": 21
+      },
+      {
+        "word": "dos",
+        "count": 19
+      },
+      {
+        "word": "vna",
+        "count": 19
+      },
+      {
+        "word": "lo",
+        "count": 17
+      },
+      {
+        "word": "reales",
+        "count": 15
+      },
+      {
+        "word": "su",
+        "count": 13
+      },
+      {
+        "word": "dicho",
+        "count": 13
+      },
+      {
+        "word": "la",
+        "count": 12
+      },
+      {
+        "word": "le",
+        "count": 12
+      }
+    ],
+    "top_20_word_deletions": [
+      {
+        "word": "de",
+        "count": 20
+      },
+      {
+        "word": "a",
+        "count": 19
+      },
+      {
+        "word": "y",
+        "count": 17
+      },
+      {
+        "word": "o",
+        "count": 11
+      },
+      {
+        "word": "la",
+        "count": 9
+      },
+      {
+        "word": "lla",
+        "count": 7
+      },
+      {
+        "word": "el",
+        "count": 6
+      },
+      {
+        "word": "r",
+        "count": 6
+      },
+      {
+        "word": "vezino",
+        "count": 6
+      },
+      {
+        "word": "e",
+        "count": 6
+      },
+      {
+        "word": "di",
+        "count": 6
+      },
+      {
+        "word": "que",
+        "count": 5
+      },
+      {
+        "word": "los",
+        "count": 5
+      },
+      {
+        "word": "to",
+        "count": 5
+      },
+      {
+        "word": "En",
+        "count": 5
+      },
+      {
+        "word": "en",
+        "count": 5
+      },
+      {
+        "word": "todo",
+        "count": 4
+      },
+      {
+        "word": "con",
+        "count": 4
+      },
+      {
+        "word": "as",
+        "count": 4
+      },
+      {
+        "word": "por",
+        "count": 4
+      }
+    ]
+  },
+  "dspy_strips_split_context": {
+    "pages": 42,
+    "gt_chars": 55517,
+    "hyp_chars": 57574,
+    "cer_approx": 0.440352,
+    "correct": 38712,
+    "substitutions": 11220,
+    "deletions": 5585,
+    "insertions": 7642,
+    "s_rate": 0.2021,
+    "d_rate": 0.1006,
+    "i_rate": 0.137652,
+    "garbled_segments": 38,
+    "garbled_chars": 5,
+    "sub_categories": {
+      "other_substitution": 6595,
+      "word_boundary": 1651,
+      "visual_confusion": 1531,
+      "case": 550,
+      "paleographic_alternation": 312,
+      "cedilla": 285,
+      "diacritical": 171,
+      "punctuation": 69,
+      "abbreviation_marker": 44,
+      "modernization": 12
+    },
+    "top_50_confusions": [
+      {
+        "ref": "a",
+        "hyp": "e",
+        "count": 197
+      },
+      {
+        "ref": "E",
+        "hyp": "e",
+        "count": 196
+      },
+      {
+        "ref": "a",
+        "hyp": "o",
+        "count": 158
+      },
+      {
+        "ref": "o",
+        "hyp": "e",
+        "count": 151
+      },
+      {
+        "ref": "l",
+        "hyp": "e",
+        "count": 123
+      },
+      {
+        "ref": "e",
+        "hyp": "o",
+        "count": 121
+      },
+      {
+        "ref": "o",
+        "hyp": "a",
+        "count": 117
+      },
+      {
+        "ref": "ç",
+        "hyp": "c",
+        "count": 116
+      },
+      {
+        "ref": "u",
+        "hyp": "v",
+        "count": 104
+      },
+      {
+        "ref": "j",
+        "hyp": "i",
+        "count": 102
+      },
+      {
+        "ref": "R",
+        "hyp": "r",
+        "count": 101
+      },
+      {
+        "ref": "a",
+        "hyp": " ",
+        "count": 98
+      },
+      {
+        "ref": "i",
+        "hyp": "e",
+        "count": 97
+      },
+      {
+        "ref": "s",
+        "hyp": "e",
+        "count": 93
+      },
+      {
+        "ref": "r",
+        "hyp": "n",
+        "count": 91
+      },
+      {
+        "ref": "s",
+        "hyp": " ",
+        "count": 91
+      },
+      {
+        "ref": "e",
+        "hyp": "a",
+        "count": 88
+      },
+      {
+        "ref": "o",
+        "hyp": " ",
+        "count": 82
+      },
+      {
+        "ref": "a",
+        "hyp": "n",
+        "count": 80
+      },
+      {
+        "ref": "n",
+        "hyp": " ",
+        "count": 80
+      },
+      {
+        "ref": "e",
+        "hyp": " ",
+        "count": 79
+      },
+      {
+        "ref": "s",
+        "hyp": "o",
+        "count": 78
+      },
+      {
+        "ref": "r",
+        "hyp": " ",
+        "count": 76
+      },
+      {
+        "ref": "e",
+        "hyp": "i",
+        "count": 76
+      },
+      {
+        "ref": "o",
+        "hyp": "u",
+        "count": 75
+      },
+      {
+        "ref": " ",
+        "hyp": "n",
+        "count": 73
+      },
+      {
+        "ref": " ",
+        "hyp": "e",
+        "count": 67
+      },
+      {
+        "ref": "n",
+        "hyp": "m",
+        "count": 66
+      },
+      {
+        "ref": "a",
+        "hyp": "i",
+        "count": 62
+      },
+      {
+        "ref": "t",
+        "hyp": " ",
+        "count": 61
+      },
+      {
+        "ref": "a",
+        "hyp": "s",
+        "count": 61
+      },
+      {
+        "ref": "i",
+        "hyp": " ",
+        "count": 60
+      },
+      {
+        "ref": "r",
+        "hyp": "s",
+        "count": 59
+      },
+      {
+        "ref": "d",
+        "hyp": "e",
+        "count": 57
+      },
+      {
+        "ref": "a",
+        "hyp": "r",
+        "count": 57
+      },
+      {
+        "ref": "n",
+        "hyp": "s",
+        "count": 57
+      },
+      {
+        "ref": "l",
+        "hyp": " ",
+        "count": 55
+      },
+      {
+        "ref": " ",
+        "hyp": "r",
+        "count": 54
+      },
+      {
+        "ref": "s",
+        "hyp": "r",
+        "count": 54
+      },
+      {
+        "ref": "c",
+        "hyp": " ",
+        "count": 53
+      },
+      {
+        "ref": "c",
+        "hyp": "a",
+        "count": 52
+      },
+      {
+        "ref": "n",
+        "hyp": "r",
+        "count": 51
+      },
+      {
+        "ref": "i",
+        "hyp": "r",
+        "count": 51
+      },
+      {
+        "ref": "s",
+        "hyp": "n",
+        "count": 50
+      },
+      {
+        "ref": "u",
+        "hyp": "n",
+        "count": 50
+      },
+      {
+        "ref": "o",
+        "hyp": "i",
+        "count": 48
+      },
+      {
+        "ref": "c",
+        "hyp": "e",
+        "count": 46
+      },
+      {
+        "ref": "u",
+        "hyp": "e",
+        "count": 46
+      },
+      {
+        "ref": "e",
+        "hyp": "r",
+        "count": 46
+      },
+      {
+        "ref": "a",
+        "hyp": "u",
+        "count": 45
+      }
+    ],
+    "top_30_word_subs": [
+      {
+        "gt": "En",
+        "hyp": "en",
+        "count": 74
+      },
+      {
+        "gt": "Reales",
+        "hyp": "reales",
+        "count": 37
+      },
+      {
+        "gt": "&",
+        "hyp": "e",
+        "count": 23
+      },
+      {
+        "gt": "un",
+        "hyp": "vn",
+        "count": 22
+      },
+      {
+        "gt": "E",
+        "hyp": "e",
+        "count": 20
+      },
+      {
+        "gt": "yten",
+        "hyp": "Yten",
+        "count": 17
+      },
+      {
+        "gt": "una",
+        "hyp": "vna",
+        "count": 10
+      },
+      {
+        "gt": "y",
+        "hyp": "e",
+        "count": 9
+      },
+      {
+        "gt": "Real",
+        "hyp": "real",
+        "count": 9
+      },
+      {
+        "gt": "El",
+        "hyp": "el",
+        "count": 8
+      },
+      {
+        "gt": "Con",
+        "hyp": "con",
+        "count": 7
+      },
+      {
+        "gt": "e",
+        "hyp": "y",
+        "count": 7
+      },
+      {
+        "gt": "y",
+        "hyp": "de",
+        "count": 7
+      },
+      {
+        "gt": "con",
+        "hyp": "de",
+        "count": 7
+      },
+      {
+        "gt": "E",
+        "hyp": "en",
+        "count": 6
+      },
+      {
+        "gt": "françisco",
+        "hyp": "francisco",
+        "count": 6
+      },
+      {
+        "gt": "del",
+        "hyp": "el",
+        "count": 6
+      },
+      {
+        "gt": "que",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "de",
+        "hyp": "del",
+        "count": 6
+      },
+      {
+        "gt": "que",
+        "hyp": "por",
+        "count": 6
+      },
+      {
+        "gt": "de",
+        "hyp": "dela",
+        "count": 6
+      },
+      {
+        "gt": "a",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "dicho",
+        "hyp": "que",
+        "count": 5
+      },
+      {
+        "gt": "Roca",
+        "hyp": "Toca",
+        "count": 5
+      },
+      {
+        "gt": "Vna",
+        "hyp": "vna",
+        "count": 5
+      },
+      {
+        "gt": "Vn",
+        "hyp": "vn",
+        "count": 5
+      },
+      {
+        "gt": "el",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "o",
+        "hyp": "y",
+        "count": 5
+      },
+      {
+        "gt": "quales",
+        "hyp": "qualesquier",
+        "count": 5
+      },
+      {
+        "gt": "Reales",
+        "hyp": "pesos",
+        "count": 5
+      }
+    ],
+    "top_20_word_insertions": [
+      {
+        "word": "de",
+        "count": 206
+      },
+      {
+        "word": "y",
+        "count": 78
+      },
+      {
+        "word": "en",
+        "count": 71
+      },
+      {
+        "word": "que",
+        "count": 71
+      },
+      {
+        "word": "e",
+        "count": 69
+      },
+      {
+        "word": "a",
+        "count": 30
+      },
+      {
+        "word": "vn",
+        "count": 23
+      },
+      {
+        "word": "el",
+        "count": 23
+      },
+      {
+        "word": "por",
+        "count": 22
+      },
+      {
+        "word": "dos",
+        "count": 21
+      },
+      {
+        "word": "vna",
+        "count": 21
+      },
+      {
+        "word": "del",
+        "count": 20
+      },
+      {
+        "word": "reales",
+        "count": 19
+      },
+      {
+        "word": "no",
+        "count": 15
+      },
+      {
+        "word": "la",
+        "count": 14
+      },
+      {
+        "word": "se",
+        "count": 13
+      },
+      {
+        "word": "un",
+        "count": 13
+      },
+      {
+        "word": "lo",
+        "count": 12
+      },
+      {
+        "word": "tres",
+        "count": 11
+      },
+      {
+        "word": "mas",
+        "count": 11
+      }
+    ],
+    "top_20_word_deletions": [
+      {
+        "word": "a",
+        "count": 19
+      },
+      {
+        "word": "de",
+        "count": 19
+      },
+      {
+        "word": "y",
+        "count": 17
+      },
+      {
+        "word": "o",
+        "count": 14
+      },
+      {
+        "word": "la",
+        "count": 9
+      },
+      {
+        "word": "que",
+        "count": 7
+      },
+      {
+        "word": "los",
+        "count": 7
+      },
+      {
+        "word": "e",
+        "count": 7
+      },
+      {
+        "word": "lla",
+        "count": 7
+      },
+      {
+        "word": "&",
+        "count": 6
+      },
+      {
+        "word": "dicho",
+        "count": 6
+      },
+      {
+        "word": "E",
+        "count": 5
+      },
+      {
+        "word": "su",
+        "count": 5
+      },
+      {
+        "word": "to",
+        "count": 5
+      },
+      {
+        "word": "r",
+        "count": 5
+      },
+      {
+        "word": "ta",
+        "count": 5
+      },
+      {
+        "word": "di",
+        "count": 5
+      },
+      {
+        "word": "xo",
+        "count": 5
+      },
+      {
+        "word": "te",
+        "count": 5
+      },
+      {
+        "word": "con",
+        "count": 4
+      }
+    ]
+  },
+  "dspy_strips_split_ctx_rezoom": {
+    "pages": 42,
+    "gt_chars": 55517,
+    "hyp_chars": 57413,
+    "cer_approx": 0.438929,
+    "correct": 38855,
+    "substitutions": 10852,
+    "deletions": 5810,
+    "insertions": 7706,
+    "s_rate": 0.195472,
+    "d_rate": 0.104653,
+    "i_rate": 0.138804,
+    "garbled_segments": 39,
+    "garbled_chars": 43,
+    "sub_categories": {
+      "other_substitution": 6319,
+      "word_boundary": 1551,
+      "visual_confusion": 1507,
+      "case": 579,
+      "paleographic_alternation": 324,
+      "cedilla": 274,
+      "diacritical": 172,
+      "punctuation": 67,
+      "abbreviation_marker": 44,
+      "modernization": 15
+    },
+    "top_50_confusions": [
+      {
+        "ref": "E",
+        "hyp": "e",
+        "count": 197
+      },
+      {
+        "ref": "a",
+        "hyp": "e",
+        "count": 189
+      },
+      {
+        "ref": "o",
+        "hyp": "e",
+        "count": 165
+      },
+      {
+        "ref": "a",
+        "hyp": "o",
+        "count": 160
+      },
+      {
+        "ref": "l",
+        "hyp": "e",
+        "count": 121
+      },
+      {
+        "ref": "ç",
+        "hyp": "c",
+        "count": 119
+      },
+      {
+        "ref": "e",
+        "hyp": "o",
+        "count": 114
+      },
+      {
+        "ref": "o",
+        "hyp": "a",
+        "count": 113
+      },
+      {
+        "ref": "R",
+        "hyp": "r",
+        "count": 106
+      },
+      {
+        "ref": "j",
+        "hyp": "i",
+        "count": 102
+      },
+      {
+        "ref": "u",
+        "hyp": "v",
+        "count": 102
+      },
+      {
+        "ref": "i",
+        "hyp": "e",
+        "count": 99
+      },
+      {
+        "ref": "s",
+        "hyp": "e",
+        "count": 93
+      },
+      {
+        "ref": "a",
+        "hyp": " ",
+        "count": 90
+      },
+      {
+        "ref": "a",
+        "hyp": "n",
+        "count": 88
+      },
+      {
+        "ref": "o",
+        "hyp": " ",
+        "count": 86
+      },
+      {
+        "ref": "e",
+        "hyp": "a",
+        "count": 85
+      },
+      {
+        "ref": "s",
+        "hyp": " ",
+        "count": 84
+      },
+      {
+        "ref": "r",
+        "hyp": "n",
+        "count": 83
+      },
+      {
+        "ref": "n",
+        "hyp": " ",
+        "count": 76
+      },
+      {
+        "ref": "r",
+        "hyp": " ",
+        "count": 75
+      },
+      {
+        "ref": "n",
+        "hyp": "m",
+        "count": 73
+      },
+      {
+        "ref": "e",
+        "hyp": " ",
+        "count": 73
+      },
+      {
+        "ref": "s",
+        "hyp": "o",
+        "count": 73
+      },
+      {
+        "ref": "e",
+        "hyp": "i",
+        "count": 68
+      },
+      {
+        "ref": "o",
+        "hyp": "u",
+        "count": 64
+      },
+      {
+        "ref": " ",
+        "hyp": "n",
+        "count": 62
+      },
+      {
+        "ref": "i",
+        "hyp": " ",
+        "count": 61
+      },
+      {
+        "ref": "a",
+        "hyp": "i",
+        "count": 60
+      },
+      {
+        "ref": "r",
+        "hyp": "s",
+        "count": 57
+      },
+      {
+        "ref": "u",
+        "hyp": "n",
+        "count": 56
+      },
+      {
+        "ref": "a",
+        "hyp": "s",
+        "count": 56
+      },
+      {
+        "ref": "a",
+        "hyp": "r",
+        "count": 55
+      },
+      {
+        "ref": " ",
+        "hyp": "e",
+        "count": 55
+      },
+      {
+        "ref": "c",
+        "hyp": "a",
+        "count": 55
+      },
+      {
+        "ref": "t",
+        "hyp": " ",
+        "count": 54
+      },
+      {
+        "ref": "n",
+        "hyp": "r",
+        "count": 54
+      },
+      {
+        "ref": "i",
+        "hyp": "r",
+        "count": 53
+      },
+      {
+        "ref": " ",
+        "hyp": "s",
+        "count": 52
+      },
+      {
+        "ref": "c",
+        "hyp": " ",
+        "count": 52
+      },
+      {
+        "ref": "a",
+        "hyp": "u",
+        "count": 52
+      },
+      {
+        "ref": "d",
+        "hyp": "e",
+        "count": 51
+      },
+      {
+        "ref": "n",
+        "hyp": "s",
+        "count": 51
+      },
+      {
+        "ref": "u",
+        "hyp": "i",
+        "count": 51
+      },
+      {
+        "ref": " ",
+        "hyp": "r",
+        "count": 50
+      },
+      {
+        "ref": "l",
+        "hyp": " ",
+        "count": 50
+      },
+      {
+        "ref": "c",
+        "hyp": "e",
+        "count": 47
+      },
+      {
+        "ref": "s",
+        "hyp": "r",
+        "count": 47
+      },
+      {
+        "ref": "y",
+        "hyp": "e",
+        "count": 46
+      },
+      {
+        "ref": "o",
+        "hyp": "i",
+        "count": 44
+      }
+    ],
+    "top_30_word_subs": [
+      {
+        "gt": "En",
+        "hyp": "en",
+        "count": 69
+      },
+      {
+        "gt": "Reales",
+        "hyp": "reales",
+        "count": 38
+      },
+      {
+        "gt": "&",
+        "hyp": "e",
+        "count": 23
+      },
+      {
+        "gt": "un",
+        "hyp": "vn",
+        "count": 22
+      },
+      {
+        "gt": "yten",
+        "hyp": "Yten",
+        "count": 17
+      },
+      {
+        "gt": "E",
+        "hyp": "e",
+        "count": 15
+      },
+      {
+        "gt": "y",
+        "hyp": "e",
+        "count": 9
+      },
+      {
+        "gt": "que",
+        "hyp": "de",
+        "count": 9
+      },
+      {
+        "gt": "Real",
+        "hyp": "real",
+        "count": 9
+      },
+      {
+        "gt": "o",
+        "hyp": "e",
+        "count": 8
+      },
+      {
+        "gt": "El",
+        "hyp": "el",
+        "count": 8
+      },
+      {
+        "gt": "E",
+        "hyp": "en",
+        "count": 7
+      },
+      {
+        "gt": "de",
+        "hyp": "dela",
+        "count": 7
+      },
+      {
+        "gt": "quales",
+        "hyp": "qualesquier",
+        "count": 7
+      },
+      {
+        "gt": "a",
+        "hyp": "de",
+        "count": 7
+      },
+      {
+        "gt": "una",
+        "hyp": "vna",
+        "count": 7
+      },
+      {
+        "gt": "françisco",
+        "hyp": "francisco",
+        "count": 6
+      },
+      {
+        "gt": "mj",
+        "hyp": "mi",
+        "count": 6
+      },
+      {
+        "gt": "de",
+        "hyp": "del",
+        "count": 6
+      },
+      {
+        "gt": "Con",
+        "hyp": "con",
+        "count": 6
+      },
+      {
+        "gt": "Reales",
+        "hyp": "pesos",
+        "count": 6
+      },
+      {
+        "gt": "con",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "lienzo",
+        "hyp": "lienço",
+        "count": 6
+      },
+      {
+        "gt": "del",
+        "hyp": "el",
+        "count": 5
+      },
+      {
+        "gt": "de",
+        "hyp": "e",
+        "count": 5
+      },
+      {
+        "gt": "del",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "dicho",
+        "hyp": "que",
+        "count": 5
+      },
+      {
+        "gt": "Roca",
+        "hyp": "Toca",
+        "count": 5
+      },
+      {
+        "gt": "Vna",
+        "hyp": "vna",
+        "count": 5
+      },
+      {
+        "gt": "Vn",
+        "hyp": "vn",
+        "count": 5
+      }
+    ],
+    "top_20_word_insertions": [
+      {
+        "word": "de",
+        "count": 212
+      },
+      {
+        "word": "y",
+        "count": 81
+      },
+      {
+        "word": "e",
+        "count": 76
+      },
+      {
+        "word": "en",
+        "count": 69
+      },
+      {
+        "word": "que",
+        "count": 68
+      },
+      {
+        "word": "a",
+        "count": 29
+      },
+      {
+        "word": "por",
+        "count": 24
+      },
+      {
+        "word": "vn",
+        "count": 24
+      },
+      {
+        "word": "el",
+        "count": 21
+      },
+      {
+        "word": "dos",
+        "count": 20
+      },
+      {
+        "word": "del",
+        "count": 19
+      },
+      {
+        "word": "vna",
+        "count": 18
+      },
+      {
+        "word": "no",
+        "count": 16
+      },
+      {
+        "word": "reales",
+        "count": 16
+      },
+      {
+        "word": "se",
+        "count": 14
+      },
+      {
+        "word": "lo",
+        "count": 13
+      },
+      {
+        "word": "con",
+        "count": 13
+      },
+      {
+        "word": "un",
+        "count": 13
+      },
+      {
+        "word": "la",
+        "count": 12
+      },
+      {
+        "word": "dicho",
+        "count": 12
+      }
+    ],
+    "top_20_word_deletions": [
+      {
+        "word": "y",
+        "count": 19
+      },
+      {
+        "word": "de",
+        "count": 18
+      },
+      {
+        "word": "a",
+        "count": 17
+      },
+      {
+        "word": "la",
+        "count": 11
+      },
+      {
+        "word": "o",
+        "count": 11
+      },
+      {
+        "word": "e",
+        "count": 9
+      },
+      {
+        "word": "que",
+        "count": 7
+      },
+      {
+        "word": "los",
+        "count": 7
+      },
+      {
+        "word": "dicho",
+        "count": 7
+      },
+      {
+        "word": "&",
+        "count": 6
+      },
+      {
+        "word": "E",
+        "count": 6
+      },
+      {
+        "word": "to",
+        "count": 6
+      },
+      {
+        "word": "ta",
+        "count": 6
+      },
+      {
+        "word": "dicha",
+        "count": 5
+      },
+      {
+        "word": "lo",
+        "count": 5
+      },
+      {
+        "word": "r",
+        "count": 5
+      },
+      {
+        "word": "el",
+        "count": 5
+      },
+      {
+        "word": "vezino",
+        "count": 5
+      },
+      {
+        "word": "en",
+        "count": 5
+      },
+      {
+        "word": "En",
+        "count": 5
+      }
+    ]
+  },
+  "dspy_tiles_2d": {
+    "pages": 42,
+    "gt_chars": 55517,
+    "hyp_chars": 57831,
+    "cer_approx": 0.569519,
+    "correct": 33343,
+    "substitutions": 15044,
+    "deletions": 7130,
+    "insertions": 9444,
+    "s_rate": 0.27098,
+    "d_rate": 0.128429,
+    "i_rate": 0.17011,
+    "garbled_segments": 32,
+    "garbled_chars": 322,
+    "sub_categories": {
+      "other_substitution": 9239,
+      "word_boundary": 2601,
+      "visual_confusion": 2003,
+      "case": 419,
+      "cedilla": 281,
+      "paleographic_alternation": 196,
+      "diacritical": 136,
+      "punctuation": 116,
+      "abbreviation_marker": 42,
+      "modernization": 11
+    },
+    "top_50_confusions": [
+      {
+        "ref": "a",
+        "hyp": "e",
+        "count": 297
+      },
+      {
+        "ref": "o",
+        "hyp": "e",
+        "count": 237
+      },
+      {
+        "ref": "a",
+        "hyp": "o",
+        "count": 226
+      },
+      {
+        "ref": "a",
+        "hyp": " ",
+        "count": 161
+      },
+      {
+        "ref": "e",
+        "hyp": "o",
+        "count": 154
+      },
+      {
+        "ref": "o",
+        "hyp": "a",
+        "count": 151
+      },
+      {
+        "ref": "e",
+        "hyp": "a",
+        "count": 150
+      },
+      {
+        "ref": "n",
+        "hyp": " ",
+        "count": 147
+      },
+      {
+        "ref": "r",
+        "hyp": " ",
+        "count": 144
+      },
+      {
+        "ref": "s",
+        "hyp": " ",
+        "count": 139
+      },
+      {
+        "ref": "E",
+        "hyp": "e",
+        "count": 137
+      },
+      {
+        "ref": "l",
+        "hyp": "e",
+        "count": 129
+      },
+      {
+        "ref": "e",
+        "hyp": " ",
+        "count": 126
+      },
+      {
+        "ref": "i",
+        "hyp": "e",
+        "count": 122
+      },
+      {
+        "ref": "s",
+        "hyp": "e",
+        "count": 119
+      },
+      {
+        "ref": " ",
+        "hyp": "e",
+        "count": 116
+      },
+      {
+        "ref": "o",
+        "hyp": " ",
+        "count": 108
+      },
+      {
+        "ref": "a",
+        "hyp": "s",
+        "count": 106
+      },
+      {
+        "ref": "i",
+        "hyp": " ",
+        "count": 99
+      },
+      {
+        "ref": "l",
+        "hyp": " ",
+        "count": 98
+      },
+      {
+        "ref": "ç",
+        "hyp": "c",
+        "count": 97
+      },
+      {
+        "ref": "s",
+        "hyp": "n",
+        "count": 97
+      },
+      {
+        "ref": "s",
+        "hyp": "o",
+        "count": 94
+      },
+      {
+        "ref": "R",
+        "hyp": "r",
+        "count": 91
+      },
+      {
+        "ref": "r",
+        "hyp": "n",
+        "count": 88
+      },
+      {
+        "ref": "a",
+        "hyp": "n",
+        "count": 85
+      },
+      {
+        "ref": " ",
+        "hyp": "n",
+        "count": 83
+      },
+      {
+        "ref": "o",
+        "hyp": "i",
+        "count": 80
+      },
+      {
+        "ref": " ",
+        "hyp": "r",
+        "count": 79
+      },
+      {
+        "ref": "d",
+        "hyp": "e",
+        "count": 78
+      },
+      {
+        "ref": "a",
+        "hyp": "i",
+        "count": 78
+      },
+      {
+        "ref": "n",
+        "hyp": "s",
+        "count": 77
+      },
+      {
+        "ref": "c",
+        "hyp": " ",
+        "count": 75
+      },
+      {
+        "ref": "d",
+        "hyp": "s",
+        "count": 75
+      },
+      {
+        "ref": " ",
+        "hyp": "l",
+        "count": 74
+      },
+      {
+        "ref": "i",
+        "hyp": "o",
+        "count": 74
+      },
+      {
+        "ref": "u",
+        "hyp": "v",
+        "count": 74
+      },
+      {
+        "ref": "e",
+        "hyp": "i",
+        "count": 72
+      },
+      {
+        "ref": "n",
+        "hyp": "r",
+        "count": 71
+      },
+      {
+        "ref": "n",
+        "hyp": "e",
+        "count": 71
+      },
+      {
+        "ref": "s",
+        "hyp": "r",
+        "count": 71
+      },
+      {
+        "ref": "o",
+        "hyp": "u",
+        "count": 70
+      },
+      {
+        "ref": "e",
+        "hyp": "n",
+        "count": 70
+      },
+      {
+        "ref": "d",
+        "hyp": " ",
+        "count": 70
+      },
+      {
+        "ref": "r",
+        "hyp": "s",
+        "count": 70
+      },
+      {
+        "ref": "d",
+        "hyp": "u",
+        "count": 65
+      },
+      {
+        "ref": "r",
+        "hyp": "e",
+        "count": 64
+      },
+      {
+        "ref": " ",
+        "hyp": "s",
+        "count": 63
+      },
+      {
+        "ref": "i",
+        "hyp": "a",
+        "count": 63
+      },
+      {
+        "ref": "u",
+        "hyp": "e",
+        "count": 62
+      }
+    ],
+    "top_30_word_subs": [
+      {
+        "gt": "En",
+        "hyp": "en",
+        "count": 48
+      },
+      {
+        "gt": "Reales",
+        "hyp": "reales",
+        "count": 36
+      },
+      {
+        "gt": "un",
+        "hyp": "vn",
+        "count": 19
+      },
+      {
+        "gt": "de",
+        "hyp": "e",
+        "count": 13
+      },
+      {
+        "gt": "E",
+        "hyp": "e",
+        "count": 12
+      },
+      {
+        "gt": "&",
+        "hyp": "e",
+        "count": 9
+      },
+      {
+        "gt": "dicho",
+        "hyp": "que",
+        "count": 9
+      },
+      {
+        "gt": "una",
+        "hyp": "vna",
+        "count": 9
+      },
+      {
+        "gt": "y",
+        "hyp": "e",
+        "count": 8
+      },
+      {
+        "gt": "e",
+        "hyp": "en",
+        "count": 8
+      },
+      {
+        "gt": "e",
+        "hyp": "de",
+        "count": 8
+      },
+      {
+        "gt": "Real",
+        "hyp": "real",
+        "count": 8
+      },
+      {
+        "gt": "de",
+        "hyp": "que",
+        "count": 7
+      },
+      {
+        "gt": "que",
+        "hyp": "e",
+        "count": 7
+      },
+      {
+        "gt": "yten",
+        "hyp": "Yten",
+        "count": 7
+      },
+      {
+        "gt": "es",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "E",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "Vn",
+        "hyp": "vn",
+        "count": 6
+      },
+      {
+        "gt": "a",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "dos",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "vna",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "a",
+        "hyp": "e",
+        "count": 5
+      },
+      {
+        "gt": "por",
+        "hyp": "e",
+        "count": 5
+      },
+      {
+        "gt": "çinco",
+        "hyp": "cinco",
+        "count": 5
+      },
+      {
+        "gt": "y",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "de",
+        "hyp": "y",
+        "count": 5
+      },
+      {
+        "gt": "e",
+        "hyp": "que",
+        "count": 5
+      },
+      {
+        "gt": "&",
+        "hyp": "de",
+        "count": 4
+      },
+      {
+        "gt": "le",
+        "hyp": "de",
+        "count": 4
+      },
+      {
+        "gt": "çenso",
+        "hyp": "censo",
+        "count": 4
+      }
+    ],
+    "top_20_word_insertions": [
+      {
+        "word": "de",
+        "count": 201
+      },
+      {
+        "word": "y",
+        "count": 91
+      },
+      {
+        "word": "e",
+        "count": 86
+      },
+      {
+        "word": "que",
+        "count": 85
+      },
+      {
+        "word": "en",
+        "count": 51
+      },
+      {
+        "word": "a",
+        "count": 47
+      },
+      {
+        "word": "con",
+        "count": 30
+      },
+      {
+        "word": "el",
+        "count": 26
+      },
+      {
+        "word": "o",
+        "count": 25
+      },
+      {
+        "word": "se",
+        "count": 23
+      },
+      {
+        "word": "dos",
+        "count": 21
+      },
+      {
+        "word": "del",
+        "count": 19
+      },
+      {
+        "word": "vna",
+        "count": 17
+      },
+      {
+        "word": "vn",
+        "count": 16
+      },
+      {
+        "word": "me",
+        "count": 16
+      },
+      {
+        "word": "es",
+        "count": 14
+      },
+      {
+        "word": "la",
+        "count": 14
+      },
+      {
+        "word": "tres",
+        "count": 14
+      },
+      {
+        "word": "r",
+        "count": 14
+      },
+      {
+        "word": "dicho",
+        "count": 13
+      }
+    ],
+    "top_20_word_deletions": [
+      {
+        "word": "y",
+        "count": 26
+      },
+      {
+        "word": "de",
+        "count": 23
+      },
+      {
+        "word": "que",
+        "count": 12
+      },
+      {
+        "word": "a",
+        "count": 12
+      },
+      {
+        "word": "o",
+        "count": 12
+      },
+      {
+        "word": "çi",
+        "count": 9
+      },
+      {
+        "word": "dicho",
+        "count": 8
+      },
+      {
+        "word": "E",
+        "count": 7
+      },
+      {
+        "word": "en",
+        "count": 7
+      },
+      {
+        "word": "En",
+        "count": 7
+      },
+      {
+        "word": "di",
+        "count": 7
+      },
+      {
+        "word": "la",
+        "count": 6
+      },
+      {
+        "word": "&",
+        "count": 5
+      },
+      {
+        "word": "los",
+        "count": 5
+      },
+      {
+        "word": "El",
+        "count": 5
+      },
+      {
+        "word": "dos",
+        "count": 5
+      },
+      {
+        "word": "vezino",
+        "count": 5
+      },
+      {
+        "word": "lla",
+        "count": 5
+      },
+      {
+        "word": "te",
+        "count": 5
+      },
+      {
+        "word": "va",
+        "count": 5
+      }
+    ]
+  },
+  "dspy_strips_no_context": {
+    "pages": 42,
+    "gt_chars": 55517,
+    "hyp_chars": 58959,
+    "cer_approx": 0.457824,
+    "correct": 38958,
+    "substitutions": 11143,
+    "deletions": 5416,
+    "insertions": 8858,
+    "s_rate": 0.200713,
+    "d_rate": 0.097556,
+    "i_rate": 0.159555,
+    "garbled_segments": 51,
+    "garbled_chars": 31,
+    "sub_categories": {
+      "other_substitution": 6532,
+      "word_boundary": 1594,
+      "visual_confusion": 1539,
+      "case": 575,
+      "paleographic_alternation": 311,
+      "cedilla": 284,
+      "diacritical": 164,
+      "punctuation": 86,
+      "abbreviation_marker": 50,
+      "modernization": 8
+    },
+    "top_50_confusions": [
+      {
+        "ref": "a",
+        "hyp": "e",
+        "count": 195
+      },
+      {
+        "ref": "E",
+        "hyp": "e",
+        "count": 195
+      },
+      {
+        "ref": "a",
+        "hyp": "o",
+        "count": 190
+      },
+      {
+        "ref": "o",
+        "hyp": "e",
+        "count": 145
+      },
+      {
+        "ref": "e",
+        "hyp": "o",
+        "count": 130
+      },
+      {
+        "ref": "R",
+        "hyp": "r",
+        "count": 118
+      },
+      {
+        "ref": "l",
+        "hyp": "e",
+        "count": 115
+      },
+      {
+        "ref": "j",
+        "hyp": "i",
+        "count": 114
+      },
+      {
+        "ref": "ç",
+        "hyp": "c",
+        "count": 114
+      },
+      {
+        "ref": "o",
+        "hyp": "a",
+        "count": 109
+      },
+      {
+        "ref": "s",
+        "hyp": "e",
+        "count": 106
+      },
+      {
+        "ref": "a",
+        "hyp": " ",
+        "count": 102
+      },
+      {
+        "ref": "r",
+        "hyp": "n",
+        "count": 99
+      },
+      {
+        "ref": "u",
+        "hyp": "v",
+        "count": 93
+      },
+      {
+        "ref": "i",
+        "hyp": "e",
+        "count": 88
+      },
+      {
+        "ref": "a",
+        "hyp": "n",
+        "count": 83
+      },
+      {
+        "ref": "s",
+        "hyp": " ",
+        "count": 82
+      },
+      {
+        "ref": "e",
+        "hyp": "a",
+        "count": 81
+      },
+      {
+        "ref": "n",
+        "hyp": " ",
+        "count": 74
+      },
+      {
+        "ref": " ",
+        "hyp": "e",
+        "count": 72
+      },
+      {
+        "ref": "o",
+        "hyp": "u",
+        "count": 71
+      },
+      {
+        "ref": " ",
+        "hyp": "n",
+        "count": 71
+      },
+      {
+        "ref": "d",
+        "hyp": "e",
+        "count": 71
+      },
+      {
+        "ref": "s",
+        "hyp": "o",
+        "count": 70
+      },
+      {
+        "ref": "o",
+        "hyp": " ",
+        "count": 66
+      },
+      {
+        "ref": "e",
+        "hyp": "i",
+        "count": 66
+      },
+      {
+        "ref": "a",
+        "hyp": "r",
+        "count": 65
+      },
+      {
+        "ref": "r",
+        "hyp": " ",
+        "count": 65
+      },
+      {
+        "ref": "a",
+        "hyp": "u",
+        "count": 65
+      },
+      {
+        "ref": "a",
+        "hyp": "i",
+        "count": 62
+      },
+      {
+        "ref": "e",
+        "hyp": " ",
+        "count": 62
+      },
+      {
+        "ref": "n",
+        "hyp": "r",
+        "count": 61
+      },
+      {
+        "ref": " ",
+        "hyp": "s",
+        "count": 58
+      },
+      {
+        "ref": "c",
+        "hyp": "a",
+        "count": 57
+      },
+      {
+        "ref": "i",
+        "hyp": " ",
+        "count": 57
+      },
+      {
+        "ref": "r",
+        "hyp": "e",
+        "count": 55
+      },
+      {
+        "ref": "r",
+        "hyp": "s",
+        "count": 54
+      },
+      {
+        "ref": "u",
+        "hyp": "n",
+        "count": 53
+      },
+      {
+        "ref": "l",
+        "hyp": " ",
+        "count": 52
+      },
+      {
+        "ref": "n",
+        "hyp": "m",
+        "count": 52
+      },
+      {
+        "ref": " ",
+        "hyp": "r",
+        "count": 52
+      },
+      {
+        "ref": "s",
+        "hyp": "r",
+        "count": 51
+      },
+      {
+        "ref": "i",
+        "hyp": "o",
+        "count": 51
+      },
+      {
+        "ref": "u",
+        "hyp": "i",
+        "count": 49
+      },
+      {
+        "ref": "a",
+        "hyp": "s",
+        "count": 48
+      },
+      {
+        "ref": "t",
+        "hyp": " ",
+        "count": 47
+      },
+      {
+        "ref": " ",
+        "hyp": "i",
+        "count": 47
+      },
+      {
+        "ref": "n",
+        "hyp": "s",
+        "count": 46
+      },
+      {
+        "ref": "i",
+        "hyp": "a",
+        "count": 45
+      },
+      {
+        "ref": "l",
+        "hyp": "c",
+        "count": 45
+      }
+    ],
+    "top_30_word_subs": [
+      {
+        "gt": "En",
+        "hyp": "en",
+        "count": 65
+      },
+      {
+        "gt": "Reales",
+        "hyp": "reales",
+        "count": 34
+      },
+      {
+        "gt": "E",
+        "hyp": "e",
+        "count": 21
+      },
+      {
+        "gt": "&",
+        "hyp": "e",
+        "count": 18
+      },
+      {
+        "gt": "un",
+        "hyp": "vn",
+        "count": 15
+      },
+      {
+        "gt": "Real",
+        "hyp": "real",
+        "count": 13
+      },
+      {
+        "gt": "yten",
+        "hyp": "Yten",
+        "count": 12
+      },
+      {
+        "gt": "una",
+        "hyp": "vna",
+        "count": 11
+      },
+      {
+        "gt": "a",
+        "hyp": "de",
+        "count": 8
+      },
+      {
+        "gt": "Reales",
+        "hyp": "~",
+        "count": 8
+      },
+      {
+        "gt": "que",
+        "hyp": "de",
+        "count": 7
+      },
+      {
+        "gt": "o",
+        "hyp": "e",
+        "count": 7
+      },
+      {
+        "gt": "de",
+        "hyp": "del",
+        "count": 7
+      },
+      {
+        "gt": "y",
+        "hyp": "e",
+        "count": 7
+      },
+      {
+        "gt": "El",
+        "hyp": "el",
+        "count": 7
+      },
+      {
+        "gt": "y",
+        "hyp": "de",
+        "count": 6
+      },
+      {
+        "gt": "a",
+        "hyp": "que",
+        "count": 6
+      },
+      {
+        "gt": "otra",
+        "hyp": "que",
+        "count": 5
+      },
+      {
+        "gt": "es",
+        "hyp": "e",
+        "count": 5
+      },
+      {
+        "gt": "mjll",
+        "hyp": "mill",
+        "count": 5
+      },
+      {
+        "gt": "que",
+        "hyp": "e",
+        "count": 5
+      },
+      {
+        "gt": "E",
+        "hyp": "en",
+        "count": 5
+      },
+      {
+        "gt": "Con",
+        "hyp": "con",
+        "count": 5
+      },
+      {
+        "gt": "La",
+        "hyp": "la",
+        "count": 5
+      },
+      {
+        "gt": "Vna",
+        "hyp": "vna",
+        "count": 5
+      },
+      {
+        "gt": "vn",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "de",
+        "hyp": "e",
+        "count": 5
+      },
+      {
+        "gt": "e",
+        "hyp": "en",
+        "count": 5
+      },
+      {
+        "gt": "maravedies",
+        "hyp": "maravedis",
+        "count": 5
+      },
+      {
+        "gt": "de",
+        "hyp": "a",
+        "count": 4
+      }
+    ],
+    "top_20_word_insertions": [
+      {
+        "word": "de",
+        "count": 183
+      },
+      {
+        "word": "y",
+        "count": 100
+      },
+      {
+        "word": "que",
+        "count": 83
+      },
+      {
+        "word": "e",
+        "count": 79
+      },
+      {
+        "word": "en",
+        "count": 59
+      },
+      {
+        "word": "el",
+        "count": 33
+      },
+      {
+        "word": "se",
+        "count": 27
+      },
+      {
+        "word": "dicho",
+        "count": 23
+      },
+      {
+        "word": "por",
+        "count": 23
+      },
+      {
+        "word": "a",
+        "count": 21
+      },
+      {
+        "word": "con",
+        "count": 21
+      },
+      {
+        "word": "reales",
+        "count": 21
+      },
+      {
+        "word": "la",
+        "count": 19
+      },
+      {
+        "word": "vn",
+        "count": 18
+      },
+      {
+        "word": "del",
+        "count": 16
+      },
+      {
+        "word": "tres",
+        "count": 15
+      },
+      {
+        "word": "lo",
+        "count": 15
+      },
+      {
+        "word": "les",
+        "count": 14
+      },
+      {
+        "word": "dos",
+        "count": 14
+      },
+      {
+        "word": "vna",
+        "count": 14
+      }
+    ],
+    "top_20_word_deletions": [
+      {
+        "word": "y",
+        "count": 24
+      },
+      {
+        "word": "de",
+        "count": 14
+      },
+      {
+        "word": "a",
+        "count": 13
+      },
+      {
+        "word": "la",
+        "count": 12
+      },
+      {
+        "word": "o",
+        "count": 11
+      },
+      {
+        "word": "que",
+        "count": 10
+      },
+      {
+        "word": "&",
+        "count": 9
+      },
+      {
+        "word": "con",
+        "count": 7
+      },
+      {
+        "word": "por",
+        "count": 7
+      },
+      {
+        "word": "en",
+        "count": 6
+      },
+      {
+        "word": "ta",
+        "count": 6
+      },
+      {
+        "word": "lla",
+        "count": 6
+      },
+      {
+        "word": "E",
+        "count": 5
+      },
+      {
+        "word": "dicha",
+        "count": 5
+      },
+      {
+        "word": "del",
+        "count": 5
+      },
+      {
+        "word": "mjs",
+        "count": 5
+      },
+      {
+        "word": "los",
+        "count": 5
+      },
+      {
+        "word": "r",
+        "count": 5
+      },
+      {
+        "word": "dos",
+        "count": 5
+      },
+      {
+        "word": "çi",
+        "count": 5
+      }
+    ]
+  },
+  "dspy_yolo_crop_strips": {
+    "pages": 42,
+    "gt_chars": 55517,
+    "hyp_chars": 57268,
+    "cer_approx": 0.446998,
+    "correct": 38618,
+    "substitutions": 10733,
+    "deletions": 6166,
+    "insertions": 7917,
+    "s_rate": 0.193328,
+    "d_rate": 0.111065,
+    "i_rate": 0.142605,
+    "garbled_segments": 44,
+    "garbled_chars": 84,
+    "sub_categories": {
+      "other_substitution": 6208,
+      "word_boundary": 1605,
+      "visual_confusion": 1450,
+      "case": 592,
+      "paleographic_alternation": 295,
+      "cedilla": 282,
+      "diacritical": 173,
+      "punctuation": 71,
+      "abbreviation_marker": 46,
+      "modernization": 11
+    },
+    "top_50_confusions": [
+      {
+        "ref": "E",
+        "hyp": "e",
+        "count": 192
+      },
+      {
+        "ref": "a",
+        "hyp": "e",
+        "count": 169
+      },
+      {
+        "ref": "a",
+        "hyp": "o",
+        "count": 155
+      },
+      {
+        "ref": "o",
+        "hyp": "e",
+        "count": 148
+      },
+      {
+        "ref": "l",
+        "hyp": "e",
+        "count": 124
+      },
+      {
+        "ref": "R",
+        "hyp": "r",
+        "count": 123
+      },
+      {
+        "ref": "a",
+        "hyp": " ",
+        "count": 115
+      },
+      {
+        "ref": "e",
+        "hyp": "o",
+        "count": 115
+      },
+      {
+        "ref": "ç",
+        "hyp": "c",
+        "count": 109
+      },
+      {
+        "ref": "o",
+        "hyp": "a",
+        "count": 109
+      },
+      {
+        "ref": "j",
+        "hyp": "i",
+        "count": 106
+      },
+      {
+        "ref": "s",
+        "hyp": "e",
+        "count": 99
+      },
+      {
+        "ref": "u",
+        "hyp": "v",
+        "count": 96
+      },
+      {
+        "ref": "r",
+        "hyp": "n",
+        "count": 91
+      },
+      {
+        "ref": "a",
+        "hyp": "n",
+        "count": 83
+      },
+      {
+        "ref": "s",
+        "hyp": " ",
+        "count": 82
+      },
+      {
+        "ref": "r",
+        "hyp": " ",
+        "count": 78
+      },
+      {
+        "ref": "e",
+        "hyp": " ",
+        "count": 78
+      },
+      {
+        "ref": "i",
+        "hyp": "e",
+        "count": 77
+      },
+      {
+        "ref": "o",
+        "hyp": " ",
+        "count": 72
+      },
+      {
+        "ref": "e",
+        "hyp": "a",
+        "count": 67
+      },
+      {
+        "ref": " ",
+        "hyp": "n",
+        "count": 66
+      },
+      {
+        "ref": "a",
+        "hyp": "i",
+        "count": 65
+      },
+      {
+        "ref": "n",
+        "hyp": "r",
+        "count": 63
+      },
+      {
+        "ref": "r",
+        "hyp": "s",
+        "count": 63
+      },
+      {
+        "ref": "n",
+        "hyp": " ",
+        "count": 62
+      },
+      {
+        "ref": "s",
+        "hyp": "o",
+        "count": 61
+      },
+      {
+        "ref": "s",
+        "hyp": "r",
+        "count": 61
+      },
+      {
+        "ref": "u",
+        "hyp": "n",
+        "count": 60
+      },
+      {
+        "ref": "i",
+        "hyp": " ",
+        "count": 60
+      },
+      {
+        "ref": "d",
+        "hyp": "e",
+        "count": 58
+      },
+      {
+        "ref": "e",
+        "hyp": "i",
+        "count": 57
+      },
+      {
+        "ref": "l",
+        "hyp": " ",
+        "count": 54
+      },
+      {
+        "ref": " ",
+        "hyp": "s",
+        "count": 53
+      },
+      {
+        "ref": " ",
+        "hyp": "r",
+        "count": 53
+      },
+      {
+        "ref": "a",
+        "hyp": "s",
+        "count": 53
+      },
+      {
+        "ref": "n",
+        "hyp": "m",
+        "count": 52
+      },
+      {
+        "ref": "o",
+        "hyp": "u",
+        "count": 50
+      },
+      {
+        "ref": " ",
+        "hyp": "e",
+        "count": 49
+      },
+      {
+        "ref": " ",
+        "hyp": "l",
+        "count": 49
+      },
+      {
+        "ref": " ",
+        "hyp": "i",
+        "count": 49
+      },
+      {
+        "ref": "a",
+        "hyp": "r",
+        "count": 48
+      },
+      {
+        "ref": "d",
+        "hyp": "r",
+        "count": 47
+      },
+      {
+        "ref": "i",
+        "hyp": "u",
+        "count": 46
+      },
+      {
+        "ref": "c",
+        "hyp": "a",
+        "count": 46
+      },
+      {
+        "ref": "c",
+        "hyp": " ",
+        "count": 43
+      },
+      {
+        "ref": "i",
+        "hyp": "a",
+        "count": 43
+      },
+      {
+        "ref": "r",
+        "hyp": "e",
+        "count": 43
+      },
+      {
+        "ref": "u",
+        "hyp": "i",
+        "count": 43
+      },
+      {
+        "ref": "o",
+        "hyp": "s",
+        "count": 43
+      }
+    ],
+    "top_30_word_subs": [
+      {
+        "gt": "En",
+        "hyp": "en",
+        "count": 65
+      },
+      {
+        "gt": "Reales",
+        "hyp": "reales",
+        "count": 34
+      },
+      {
+        "gt": "&",
+        "hyp": "e",
+        "count": 27
+      },
+      {
+        "gt": "un",
+        "hyp": "vn",
+        "count": 18
+      },
+      {
+        "gt": "yten",
+        "hyp": "Yten",
+        "count": 17
+      },
+      {
+        "gt": "E",
+        "hyp": "e",
+        "count": 16
+      },
+      {
+        "gt": "una",
+        "hyp": "vna",
+        "count": 12
+      },
+      {
+        "gt": "Real",
+        "hyp": "real",
+        "count": 12
+      },
+      {
+        "gt": "a",
+        "hyp": "de",
+        "count": 8
+      },
+      {
+        "gt": "Reales",
+        "hyp": "~",
+        "count": 8
+      },
+      {
+        "gt": "que",
+        "hyp": "e",
+        "count": 7
+      },
+      {
+        "gt": "y",
+        "hyp": "e",
+        "count": 7
+      },
+      {
+        "gt": "de",
+        "hyp": "dela",
+        "count": 7
+      },
+      {
+        "gt": "mjll",
+        "hyp": "mill",
+        "count": 6
+      },
+      {
+        "gt": "e",
+        "hyp": "en",
+        "count": 6
+      },
+      {
+        "gt": "lienzo",
+        "hyp": "lienço",
+        "count": 6
+      },
+      {
+        "gt": "en",
+        "hyp": "e",
+        "count": 5
+      },
+      {
+        "gt": "dela",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "es",
+        "hyp": "e",
+        "count": 5
+      },
+      {
+        "gt": "de",
+        "hyp": "e",
+        "count": 5
+      },
+      {
+        "gt": "al",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "Con",
+        "hyp": "con",
+        "count": 5
+      },
+      {
+        "gt": "Roca",
+        "hyp": "Toca",
+        "count": 5
+      },
+      {
+        "gt": "Para",
+        "hyp": "para",
+        "count": 5
+      },
+      {
+        "gt": "El",
+        "hyp": "el",
+        "count": 5
+      },
+      {
+        "gt": "Vn",
+        "hyp": "vn",
+        "count": 5
+      },
+      {
+        "gt": "Vna",
+        "hyp": "vna",
+        "count": 5
+      },
+      {
+        "gt": "el",
+        "hyp": "de",
+        "count": 5
+      },
+      {
+        "gt": "quales",
+        "hyp": "qualesquier",
+        "count": 5
+      },
+      {
+        "gt": "e",
+        "hyp": "de",
+        "count": 5
+      }
+    ],
+    "top_20_word_insertions": [
+      {
+        "word": "de",
+        "count": 147
+      },
+      {
+        "word": "y",
+        "count": 97
+      },
+      {
+        "word": "que",
+        "count": 82
+      },
+      {
+        "word": "e",
+        "count": 72
+      },
+      {
+        "word": "en",
+        "count": 48
+      },
+      {
+        "word": "el",
+        "count": 30
+      },
+      {
+        "word": "con",
+        "count": 25
+      },
+      {
+        "word": "se",
+        "count": 24
+      },
+      {
+        "word": "a",
+        "count": 23
+      },
+      {
+        "word": "vn",
+        "count": 22
+      },
+      {
+        "word": "por",
+        "count": 22
+      },
+      {
+        "word": "lo",
+        "count": 21
+      },
+      {
+        "word": "dicho",
+        "count": 21
+      },
+      {
+        "word": "del",
+        "count": 19
+      },
+      {
+        "word": "reales",
+        "count": 19
+      },
+      {
+        "word": "dos",
+        "count": 17
+      },
+      {
+        "word": "su",
+        "count": 15
+      },
+      {
+        "word": "vna",
+        "count": 15
+      },
+      {
+        "word": "no",
+        "count": 13
+      },
+      {
+        "word": "mi",
+        "count": 12
+      }
+    ],
+    "top_20_word_deletions": [
+      {
+        "word": "y",
+        "count": 25
+      },
+      {
+        "word": "de",
+        "count": 22
+      },
+      {
+        "word": "a",
+        "count": 22
+      },
+      {
+        "word": "e",
+        "count": 22
+      },
+      {
+        "word": "o",
+        "count": 19
+      },
+      {
+        "word": "que",
+        "count": 18
+      },
+      {
+        "word": "la",
+        "count": 12
+      },
+      {
+        "word": "dos",
+        "count": 11
+      },
+      {
+        "word": "el",
+        "count": 10
+      },
+      {
+        "word": "dicho",
+        "count": 10
+      },
+      {
+        "word": "los",
+        "count": 8
+      },
+      {
+        "word": "con",
+        "count": 8
+      },
+      {
+        "word": "lo",
+        "count": 8
+      },
+      {
+        "word": "da",
+        "count": 8
+      },
+      {
+        "word": "en",
+        "count": 7
+      },
+      {
+        "word": "por",
+        "count": 7
+      },
+      {
+        "word": "Reales",
+        "count": 7
+      },
+      {
+        "word": "dicha",
+        "count": 6
+      },
+      {
+        "word": "bienes",
+        "count": 6
+      },
+      {
+        "word": "E",
+        "count": 6
+      }
+    ]
+  }
+}

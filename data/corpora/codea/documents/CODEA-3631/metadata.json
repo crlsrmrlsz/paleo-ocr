@@ -1,0 +1,64 @@
+{
+  "doc_id": "CODEA-3631",
+  "dataset": "codea",
+  "date": "1614",
+  "title": "Inventario <<post mortem>> de los bienes de Pedro Gonzales, marido de María Sánchez y padre de Pedro Gonzales, vecinos todos de la villa de Valverde del Fresno.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Valverde del Fresno",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 305x214",
+    "copista": "Francisco Gómez",
+    "signatura": "PN/968, Francisco Gómez 1614, 4 ff.",
+    "palsclave": "bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2753,
+      "height": 4017
+    },
+    "1v": {
+      "width": 2513,
+      "height": 4082
+    },
+    "2r": {
+      "width": 2825,
+      "height": 3969
+    },
+    "2v": {
+      "width": 2633,
+      "height": 4073
+    },
+    "3r": {
+      "width": 2737,
+      "height": 4025
+    },
+    "3v": {
+      "width": 2561,
+      "height": 4009
+    },
+    "4r": {
+      "width": 2761,
+      "height": 3945
+    }
+  }
+}

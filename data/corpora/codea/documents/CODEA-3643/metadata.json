@@ -1,0 +1,44 @@
+{
+  "doc_id": "CODEA-3643",
+  "dataset": "codea",
+  "date": "1633",
+  "title": "Carta de dote de Juana Gonzales, hija de Alonso Gonzales Peña y María Rodrigues, en su casamiento con Francisco Sánchez, vecinos todos de la villa de Corte de Peleas.",
+  "archive": "Archivo de Protocolos de Distrito de Almendralejo",
+  "letra": "procesal/humanística cursiva",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Corte de Peleas",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Gil Díaz de la Peña",
+    "signatura": "Villalba de los Barros, caja 1, Gil Díaz de la Peña 1630-1654, ff. 163r-164r",
+    "palsclave": "bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2673,
+      "height": 4017
+    },
+    "1v": {
+      "width": 2713,
+      "height": 4170
+    },
+    "2r": {
+      "width": 2617,
+      "height": 4025
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "doc_id": "CODEA-3606",
+  "dataset": "codea",
+  "date": "1571",
+  "title": "Inventario <<post mortem>> de los bienes que Gaspar de Ribera, vecino de la villa de Villacastín, tenía en la de Monroy.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cáceres",
+    "poblacion": "Monroy",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 321x226",
+    "copista": "Hernando Pizarro",
+    "signatura": "PN/2064, Hernando Pizarro 1571, ff. 61r-62v",
+    "palsclave": "bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2906,
+      "height": 4017
+    },
+    "1v": {
+      "width": 2809,
+      "height": 4033
+    },
+    "2r": {
+      "width": 2888,
+      "height": 4040
+    },
+    "2v": {
+      "width": 2770,
+      "height": 4001
+    }
+  }
+}

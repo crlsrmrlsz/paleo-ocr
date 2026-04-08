@@ -1,0 +1,39 @@
+{
+  "doc_id": "CODEA-3488",
+  "dataset": "codea",
+  "date": "1512",
+  "title": "Carta privada de la condesa doña Brianda Manrique de Lara a Francisco Jiménez de Cisneros lamentándose de no poder realizar una gestión y anunciándole que a su petición mandó dar doscientos pinos a una persona.",
+  "archive": "Archivo Histórico Nacional",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Huesca",
+    "poblacion": "Huesca",
+    "tipologia": "cartas privadas",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "La condesa doña Brianda",
+    "signatura": "UNIVERSIDADES,748,N.91",
+    "palsclave": "agricultura, clero",
+    "transcriptor": "Belén Almeida Cabrejas"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1036,
+      "height": 1580
+    },
+    "1v": {
+      "width": 1050,
+      "height": 1596
+    }
+  }
+}

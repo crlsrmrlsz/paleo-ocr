@@ -1,0 +1,59 @@
+{
+  "doc_id": "CODEA-2612",
+  "dataset": "codea",
+  "date": "1636",
+  "title": "Carta de dote de Catalina Simón, viuda de Diego García Guerrero, en su casamiento con Pedro Gonçales Chamorro, vecinos todos del lugar de La Albuera.",
+  "archive": "Archivo Histórico Municipal de Zafra",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "La Albuera",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Diego Martín",
+    "signatura": "FN, Protocolos, prt. sin catalogar, ff. 135r-137v",
+    "palsclave": "bienes muebles, animales, bienes inmuebles, alimentación",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2553,
+      "height": 4090
+    },
+    "1v": {
+      "width": 2641,
+      "height": 4017
+    },
+    "2r": {
+      "width": 2505,
+      "height": 4033
+    },
+    "2v": {
+      "width": 2577,
+      "height": 3985
+    },
+    "3r": {
+      "width": 2489,
+      "height": 3961
+    },
+    "3v": {
+      "width": 2689,
+      "height": 4001
+    }
+  }
+}

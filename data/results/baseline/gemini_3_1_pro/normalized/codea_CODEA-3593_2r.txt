@@ -1,0 +1,8 @@
+q me mz l[..] a r[ilegible]v a [ilegible] o l r se pena do`
+Wait, the prompt says "Expand abbreviations." This means a lot of interpreting `q` as `que`, `dº` as `dito`, etc.
+
+Let's do a serious pass, line by line, on the full image, combining visual evidence with knowledge of Portuguese paleography.
+
+Line 1: Top right: `iii U m[aravedi]s`. Let's stick with that.
+Left marginalia list:
+Line 2:** `r Maria ave[ir]a /. m e dia m`. That `media...` word looks like `medianera` or

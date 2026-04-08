@@ -1,0 +1,69 @@
+{
+  "doc_id": "CODEA-3618",
+  "dataset": "codea",
+  "date": "1590",
+  "title": "Inventario y tasación de los bienes que Diego Alonso Cubero aportó al matrimonio con Catalina García, vecinos ambos de la villa de Berlanga.",
+  "archive": "Archivo de Protocolos de Distrito de Llerena",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Berlanga",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 323x210",
+    "copista": "Francisco Pablos",
+    "signatura": "Berlanga, Protocolos, caja 3, Francisco Pablos 1590-1591, ff. 442r-445v",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2625,
+      "height": 4185
+    },
+    "1v": {
+      "width": 2681,
+      "height": 4210
+    },
+    "2r": {
+      "width": 2617,
+      "height": 4161
+    },
+    "2v": {
+      "width": 2674,
+      "height": 4145
+    },
+    "3r": {
+      "width": 2673,
+      "height": 4121
+    },
+    "3v": {
+      "width": 2649,
+      "height": 4145
+    },
+    "4r": {
+      "width": 2713,
+      "height": 4218
+    },
+    "4v": {
+      "width": 2601,
+      "height": 4081
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "doc_id": "CODEA-3604",
+  "dataset": "codea",
+  "date": "1566",
+  "title": "Carta de dote de doña Isabel de Erevías, hija de Alonso Sanches Hidalgo y doña María de Erevías, en su casamiento con Juan Gutiérrez Burgos, vecinos todos de la villa de Zafra.",
+  "archive": "Archivo Histórico Municipal de Zafra",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Zafra",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 310x209",
+    "copista": "Rodrigo de Paz",
+    "signatura": "FN, Protocolos, Zafra, Rodrigo de Paz Tinoco 1564-1566, ff. 248r-251v",
+    "palsclave": "bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2904,
+      "height": 4224
+    },
+    "1v": {
+      "width": 2609,
+      "height": 4113
+    },
+    "2r": {
+      "width": 2705,
+      "height": 4049
+    },
+    "2v": {
+      "width": 2601,
+      "height": 4082
+    },
+    "3r": {
+      "width": 2865,
+      "height": 3985
+    },
+    "3v": {
+      "width": 2665,
+      "height": 4065
+    },
+    "4r": {
+      "width": 3017,
+      "height": 3857
+    },
+    "4v": {
+      "width": 2658,
+      "height": 4202
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "doc_id": "CODEA-1347",
+  "dataset": "codea",
+  "date": "1521",
+  "title": "Declaración / certificación del escribano Antonio de Sepúlveda en la que da cuenta del otorgamiento de poder que hace Íñigo de Santiago a dos procuradores.",
+  "archive": "Archivo General de Simancas",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "[Segovia]",
+    "poblacion": "s.l.",
+    "tipologia": "certificaciones",
+    "ambito": "municipal",
+    "soporte": "papel",
+    "copista": "Antonio de Sepúlveda",
+    "signatura": "Patronato Real, 6-46, folio 58",
+    "palsclave": "cargos y oficios",
+    "transcriptor": "Cristina Castillo Martínez"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1066,
+      "height": 1512
+    }
+  }
+}

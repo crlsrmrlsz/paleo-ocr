@@ -1,0 +1,6 @@
+ is better based on context. Let's stick to `r` as it's a common variant form of terminal `r`.
+            *   Let's check the abbreviation `sup^o`. `supco`? Usually `sup~o` means `suplico`. Here it looks like `supo` with an abbreviated `lic` mark above. I will expand to `suplico`.
+        *   *Line 8:* `la obra, y al autor ; como le tengo suplicado en la epistola dedicatoria, q~`
+            *   `la obra, y al autor ;` -> clear.
+            *   `como le tengo suplicado en la epistola dedicatoria ,` -> clear.
+            *   `q

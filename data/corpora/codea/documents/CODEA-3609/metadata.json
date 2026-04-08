@@ -1,0 +1,84 @@
+{
+  "doc_id": "CODEA-3609",
+  "dataset": "codea",
+  "date": "1578",
+  "title": "Carta de dote de Beatriz López, hija de Luis Gonzales Marco y Luzía Velázquez, en su casamiento con Alvar Sánchez Ramírez, vecinos todos de la villa de Zafra.",
+  "archive": "Archivo Histórico Municipal de Zafra",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Zafra",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 313x218",
+    "copista": "Rodrigo de Paz",
+    "signatura": "FN, Protocolos, Zafra, Rodrigo de Paz Tinoco 1577-1578, ff. 553r-558r",
+    "palsclave": "bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2601,
+      "height": 4073
+    },
+    "1v": {
+      "width": 2465,
+      "height": 4218
+    },
+    "2r": {
+      "width": 2681,
+      "height": 4129
+    },
+    "2v": {
+      "width": 2561,
+      "height": 4218
+    },
+    "3r": {
+      "width": 2681,
+      "height": 4161
+    },
+    "3v": {
+      "width": 2465,
+      "height": 4033
+    },
+    "4r": {
+      "width": 2889,
+      "height": 3954
+    },
+    "4v": {
+      "width": 2449,
+      "height": 4057
+    },
+    "5r": {
+      "width": 3026,
+      "height": 4089
+    },
+    "5v": {
+      "width": 2577,
+      "height": 4105
+    },
+    "6r": {
+      "width": 2985,
+      "height": 4049
+    }
+  }
+}

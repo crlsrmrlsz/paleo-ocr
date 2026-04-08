@@ -1,0 +1,34 @@
+{
+  "doc_id": "CODEA-2973",
+  "dataset": "codea",
+  "date": "1572",
+  "title": "Acta de la sesión del ayuntamiento de la villa de Albacete en la que se acuerda prohibir a los moriscos beber en las tabernas bajo diferentes penas y su publicación por pregón.",
+  "archive": "Archivo Histórico Provincial de Albacete",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Albacete",
+    "poblacion": "Albacete",
+    "tipologia": "actas y declaraciones",
+    "ambito": "municipal",
+    "soporte": "papel",
+    "copista": "Gerónimo de Arboleda",
+    "signatura": "Libro de Actas del Ayuntamiento de Albacete, 4509, f. 236",
+    "palsclave": "criminalidad, minorías étnicas y religiosas",
+    "transcriptor": "María Agujetas Ortiz"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1110,
+      "height": 960
+    }
+  }
+}

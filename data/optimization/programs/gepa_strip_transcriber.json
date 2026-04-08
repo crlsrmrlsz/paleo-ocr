@@ -1,0 +1,32 @@
+{
+  "transcribe.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Transcribe the main text in this manuscript strip.\n\n- Expand abbreviations silently: dho → dicho, q → que (no angle brackets)\n- Preserve original spelling: u/v, i/j, ç/z, x/j, ss/s as written\n- Do NOT modernize: dixo stays dixo (not dijo)\n- Preserve word boundaries as written: deladicha, quese\n- Output plain text only, no markers or brackets",
+      "fields": [
+        {
+          "prefix": "Block Image:",
+          "description": "Cropped image of a manuscript region at high resolution"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Transcription:",
+          "description": "Plain text transcription, original spelling preserved, abbreviations expanded silently"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.1.3",
+      "cloudpickle": "3.1"
+    }
+  }
+}

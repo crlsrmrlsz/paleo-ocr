@@ -1,0 +1,35 @@
+{
+  "doc_id": "043_1516-03-21",
+  "dataset": "toledo",
+  "date": "1516-03-21",
+  "title": "Real cédula del rey Carlos I por la que comunica a la ciudad de Toledo que ha decidido tomar el título de Rey por los motivos que de su parte les daría el cardenal de España y su embajador, a los que debía dar entera fe y creencia.",
+  "archive": "Archivo Municipal de Toledo",
+  "letra": "cortesana-procesal",
+  "facsimile_pages": [
+    "0001"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "normalized",
+    "format": "single-document-md"
+  },
+  "extra": {
+    "slug": "1516-03-21",
+    "source_url": "http://www.toledo.es/wp-content/uploads/2018/07/1516-03-21_d.pdf",
+    "source_page": "https://www.toledo.es/toledo-siempre/laminario-de-documentos-con-sus-transcripciones/",
+    "fondo": "Fondo del Ayuntamiento de Toledo",
+    "nivel_descripcion": "Unidad documental",
+    "productor": "Ayuntamiento de Toledo",
+    "codigo_referencia": "ES.45168.AMT/1-AS//Archivo Secreto, cajón 1, legajo 4, número 62, pieza e",
+    "fecha_original": "[c] 1516-03-21. Bruselas",
+    "volumen_soporte": "1 hoja [286 x 214 mm], papel",
+    "notas": "Firma autógrafa del Rey.\n\nLetra cortesana-procesal. Buen estado de conservación.\n\nEl documento fue restaurado en el Instituto del Patrimonio Cultural de\n\nEspaña (IPCE) entre los años 2004 y 2006.\n\nEste documento figura también transcrito en la obra de J. C. Galende y M. J. Salamanca, _Una escritura para la modernidad : La letra_ _cortesana_ (Cagliari, 2012), en concreto en su p. 294.",
+    "descriptores": "CARLOS I, REYES DE ESPAÑA, SIGLO XVI, INTITULACIÓN"
+  },
+  "facsimile_resolution": {
+    "0001": {
+      "width": 1310,
+      "height": 1737
+    }
+  }
+}

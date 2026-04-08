@@ -1,0 +1,49 @@
+{
+  "doc_id": "CODEA-3651",
+  "dataset": "codea",
+  "date": "1646",
+  "title": "Carta de dote de María Sánchez, hija de Salvador García y María Sanches, vecinos todos de la villa de Alcuéscar, en su casamiento con Alonso Hernández Montanchego.",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "humanística corriente/ procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Alcuéscar",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 321x218",
+    "copista": "Pedro Sánchez",
+    "signatura": "PN/4516, Pedro Sánchez 1599-1646, 2 ff.",
+    "palsclave": "bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2769,
+      "height": 4089
+    },
+    "1v": {
+      "width": 2673,
+      "height": 4210
+    },
+    "2r": {
+      "width": 2817,
+      "height": 4218
+    },
+    "2v": {
+      "width": 2897,
+      "height": 4201
+    }
+  }
+}

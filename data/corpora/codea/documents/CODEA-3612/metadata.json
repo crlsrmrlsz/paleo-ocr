@@ -1,0 +1,64 @@
+{
+  "doc_id": "CODEA-3612",
+  "dataset": "codea",
+  "date": "1581",
+  "title": "Inventario <<post mortem>> de los bienes de Juan Sánchez, hermano de Rodrigo Sánchez, que le quedaron a Ana Ortiz, hija suya y de Inés Martín, vecinos todos del lugar de Valverde de Burguillos (en el documento hay un folio arrancado entre el 31 y el 32).",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Valverde de Burguillos",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 318x217",
+    "copista": "Joán Simón",
+    "signatura": "PN/3475, ff. 29r-32r",
+    "palsclave": "bienes inmuebles, bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2769,
+      "height": 4057
+    },
+    "1v": {
+      "width": 2697,
+      "height": 3985
+    },
+    "2r": {
+      "width": 2657,
+      "height": 4033
+    },
+    "2v": {
+      "width": 2753,
+      "height": 4129
+    },
+    "3r": {
+      "width": 2697,
+      "height": 4001
+    },
+    "3v": {
+      "width": 2977,
+      "height": 4025
+    },
+    "4r": {
+      "width": 2737,
+      "height": 3993
+    }
+  }
+}

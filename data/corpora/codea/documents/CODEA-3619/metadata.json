@@ -1,0 +1,104 @@
+{
+  "doc_id": "CODEA-3619",
+  "dataset": "codea",
+  "date": "1593",
+  "title": "Inventario de los bienes que Pedro Albarrán de las Zorreras y Ana Corcoz, su segunda mujer, vecinos ambos del lugar de Guijo de Granadilla, aportaron al matrimonio.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r",
+    "7v",
+    "8r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cáceres",
+    "poblacion": "Guijo de Granadilla",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 322x225",
+    "copista": "Bartolomé Hernández",
+    "signatura": "PN/3071, Bartolomé Hernández 1597, 15 ff.",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2561,
+      "height": 3993
+    },
+    "1v": {
+      "width": 2705,
+      "height": 4145
+    },
+    "2r": {
+      "width": 2521,
+      "height": 3945
+    },
+    "2v": {
+      "width": 2809,
+      "height": 4145
+    },
+    "3r": {
+      "width": 2585,
+      "height": 3945
+    },
+    "3v": {
+      "width": 2753,
+      "height": 4161
+    },
+    "4r": {
+      "width": 2593,
+      "height": 3993
+    },
+    "4v": {
+      "width": 2737,
+      "height": 4105
+    },
+    "5r": {
+      "width": 2545,
+      "height": 3921
+    },
+    "5v": {
+      "width": 2729,
+      "height": 4033
+    },
+    "6r": {
+      "width": 2569,
+      "height": 3977
+    },
+    "6v": {
+      "width": 2801,
+      "height": 4106
+    },
+    "7r": {
+      "width": 2505,
+      "height": 4042
+    },
+    "7v": {
+      "width": 2850,
+      "height": 4161
+    },
+    "8r": {
+      "width": 2601,
+      "height": 4073
+    }
+  }
+}

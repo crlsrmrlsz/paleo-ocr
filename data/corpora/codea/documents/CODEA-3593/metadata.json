@@ -1,0 +1,49 @@
+{
+  "doc_id": "CODEA-3593",
+  "dataset": "codea",
+  "date": "1536",
+  "title": "Carta de dote de Leonor Rodríguez, hija de Anrique de Sosa, en su casamiento con Hernando de Peñaranda, vecinos todos de la ciudad de Plasencia.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cáceres",
+    "poblacion": "Plasencia",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 316 x 216",
+    "copista": "Andrés García",
+    "signatura": "PN/772, Andrés García 1536, 2 ff.",
+    "palsclave": "mujer, familia, bienes muebles",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2721,
+      "height": 3961
+    },
+    "1v": {
+      "width": 2569,
+      "height": 3985
+    },
+    "2r": {
+      "width": 2665,
+      "height": 3842
+    },
+    "2v": {
+      "width": 2745,
+      "height": 4193
+    }
+  }
+}

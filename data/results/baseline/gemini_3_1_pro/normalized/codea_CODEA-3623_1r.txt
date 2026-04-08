@@ -1,0 +1,3 @@
+` in the first item looks like `de buen~`. The second is `~ otro alfamar de buen~`.
+Let's re-read I1 and I2 carefully.
+I1: tilde symbol (`~`). `v n a l ~ f a m a r e d u e n ~`. No. `v n a / l s a m a r e d e y n e n`. No. `vnal/s/famar debueno`. "Un alfamar de bueno" ? Doesn't make sense. How about `vna llama de...`? No. The letter after 'v' is 'n', then 'a'. Then there's an 'l'. `v n a l`. A separate

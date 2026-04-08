@@ -1,0 +1,35 @@
+{
+  "doc_id": "007_1475-02-11",
+  "dataset": "toledo",
+  "date": "1475-02-11",
+  "title": "Carta misiva de los reyes Fernando V e Isabel I por la que mandan a la ciudad de Toledo que ayude a los frailes de San Francisco de la Observancia en la edificación de un nuevo monasterio en el solar\n\nde las casas que fueron del duque de Alba.",
+  "archive": "Archivo Municipal de Toledo",
+  "letra": "cortesana - procesada",
+  "facsimile_pages": [
+    "0001"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "normalized",
+    "format": "single-document-md"
+  },
+  "extra": {
+    "slug": "1475-02-11",
+    "source_url": "http://www.toledo.es/wp-content/uploads/2018/07/1475-02-11_d.pdf",
+    "source_page": "https://www.toledo.es/toledo-siempre/laminario-de-documentos-con-sus-transcripciones/",
+    "fondo": "Fondo del Ayuntamiento de Toledo",
+    "nivel_descripcion": "Unidad documental",
+    "productor": "Ayuntamiento de Toledo",
+    "codigo_referencia": "ES.45168.AMT/1-AS//Archivo Secreto, cajón 1, legajo 4, número 64, pieza l",
+    "fecha_original": "[c] 1475-02-11. Segovia",
+    "volumen_soporte": "1 hoja [225 x 220 mm], papel",
+    "notas": "Firma autógrafa del Rey y de la Reina.\n\nLetra cortesana - procesada. Buen estado de conservación.\n\nEl documento fue restaurado en el Instituto del Patrimonio Cultural de\n\nEspaña (IPCE) entre los años 2004 y 2006.\n\nEste documento figura también transcrito en la obra de J. C. Galende y M. J. Salamanca, _Una escritura para la modernidad : La letra_ _cortesana_ (Cagliari, 2012), en concreto en su p. 165.",
+    "descriptores": "SIGLO XV, REYES CATÓLICOS, MONASTERIOS, SAN\n\nJUAN DE LOS REYES, OBRAS, ORDEN DE SAN FRANCISCO, FRANCISCANOS, ÓRDENES RELIGIOSAS"
+  },
+  "facsimile_resolution": {
+    "0001": {
+      "width": 1331,
+      "height": 1377
+    }
+  }
+}

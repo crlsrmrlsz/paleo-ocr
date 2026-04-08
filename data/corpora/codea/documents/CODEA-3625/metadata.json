@@ -1,0 +1,64 @@
+{
+  "doc_id": "CODEA-3625",
+  "dataset": "codea",
+  "date": "1602",
+  "title": "Carta de dote de María de Mora, viuda de Martín Donaire, en su casamiento con Pedro Martín Llorente, vecino de la villa de Capilla.",
+  "archive": "Archivo de Protocolos de Distrito de Puebla de Alcocer",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Capilla",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 322x215",
+    "copista": "Joán de la Iglessia Victoria",
+    "signatura": "Capilla, caja 1, Juan de la Iglesia Victoria 1602, ff. 46v (l. 30)-49v (l. 15)",
+    "palsclave": "bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2665,
+      "height": 4041
+    },
+    "1v": {
+      "width": 2657,
+      "height": 3969
+    },
+    "2r": {
+      "width": 2513,
+      "height": 3945
+    },
+    "2v": {
+      "width": 2722,
+      "height": 4097
+    },
+    "3r": {
+      "width": 2625,
+      "height": 4114
+    },
+    "3v": {
+      "width": 2777,
+      "height": 4154
+    },
+    "4r": {
+      "width": 2601,
+      "height": 3977
+    }
+  }
+}

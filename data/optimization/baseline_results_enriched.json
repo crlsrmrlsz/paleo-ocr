@@ -1,0 +1,265 @@
+{
+  "model": "openrouter/anthropic/claude-opus-4.6",
+  "results": [
+    {
+      "page_id": "codea_CODEA-2562_1r",
+      "cer": 1.0,
+      "score": 0.0
+    },
+    {
+      "page_id": "codea_CODEA-2562_1v",
+      "cer": 0.6914498141263941,
+      "score": 0.30855018587360594
+    },
+    {
+      "page_id": "codea_CODEA-2562_2r",
+      "cer": 0.76484375,
+      "score": 0.23515624999999996
+    },
+    {
+      "page_id": "codea_CODEA-2562_2v",
+      "cer": 0.5517241379310345,
+      "score": 0.4482758620689655
+    },
+    {
+      "page_id": "codea_CODEA-2562_3r",
+      "cer": 1.0,
+      "score": 0.0
+    },
+    {
+      "page_id": "codea_CODEA-2571_1r",
+      "cer": 0.4630911188004614,
+      "score": 0.5369088811995386
+    },
+    {
+      "page_id": "codea_CODEA-2571_1v",
+      "cer": 0.6842663836561422,
+      "score": 0.31573361634385777
+    },
+    {
+      "page_id": "codea_CODEA-2571_2r",
+      "cer": 0.6148936170212767,
+      "score": 0.38510638297872335
+    },
+    {
+      "page_id": "codea_CODEA-2571_2v",
+      "cer": 0.5804708606715554,
+      "score": 0.4195291393284446
+    },
+    {
+      "page_id": "codea_CODEA-2571_3r",
+      "cer": 0.5170399221032133,
+      "score": 0.48296007789678674
+    },
+    {
+      "page_id": "codea_CODEA-2571_3v",
+      "cer": 0.33753943217665616,
+      "score": 0.6624605678233438
+    },
+    {
+      "page_id": "codea_CODEA-2571_4r",
+      "cer": 0.3805093046033301,
+      "score": 0.6194906953966699
+    },
+    {
+      "page_id": "codea_CODEA-2571_4v",
+      "cer": 1.0,
+      "score": 0.0
+    },
+    {
+      "page_id": "codea_CODEA-3607_1r",
+      "cer": 0.6078154425612052,
+      "score": 0.39218455743879477
+    },
+    {
+      "page_id": "codea_CODEA-3607_1v",
+      "cer": null,
+      "error": "litellm.BadRequestError: OpenrouterException - {\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\\"type\\\":\\\"error\\\",\\\"error\\\":{\\\"type\\\":\\\"invalid_request_error\\\",\\\"message\\\":\\\"messages.0.content.1.image.source.base64: image exceeds 5 MB maximum: 5490168 bytes > 5242880 bytes\\\"},\\\"request_id\\\":\\\"req_011CZRDVMg2Xd8wwo4hp2tTG\\\"}\",\"provider_name\":\"Azure\",\"is_byok\":false}},\"user_id\":\"user_370fOIVITjU9j4S9QRgFwJfzfsV\"}"
+    },
+    {
+      "page_id": "codea_CODEA-3607_2r",
+      "cer": 0.27591706539074967,
+      "score": 0.7240829346092503
+    },
+    {
+      "page_id": "codea_CODEA-3607_2v",
+      "cer": 0.2714078374455733,
+      "score": 0.7285921625544267
+    },
+    {
+      "page_id": "codea_CODEA-3607_3r",
+      "cer": null,
+      "error": "litellm.BadRequestError: OpenrouterException - {\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\\"type\\\":\\\"error\\\",\\\"error\\\":{\\\"type\\\":\\\"invalid_request_error\\\",\\\"message\\\":\\\"messages.0.content.1.image.source.base64: image exceeds 5 MB maximum: 5435868 bytes > 5242880 bytes\\\"},\\\"request_id\\\":\\\"req_011CZRDbXxa7pzQL2H7qrywr\\\"}\",\"provider_name\":\"Azure\",\"is_byok\":false}},\"user_id\":\"user_370fOIVITjU9j4S9QRgFwJfzfsV\"}"
+    },
+    {
+      "page_id": "codea_CODEA-3607_3v",
+      "cer": 0.36113575865128666,
+      "score": 0.6388642413487133
+    },
+    {
+      "page_id": "codea_CODEA-3607_4r",
+      "cer": 0.4214953271028037,
+      "score": 0.5785046728971963
+    },
+    {
+      "page_id": "codea_CODEA-3607_4v",
+      "cer": 0.35663716814159296,
+      "score": 0.643362831858407
+    },
+    {
+      "page_id": "codea_CODEA-3607_5r",
+      "cer": 0.5069069069069069,
+      "score": 0.4930930930930931
+    },
+    {
+      "page_id": "codea_CODEA-3607_5v",
+      "cer": null,
+      "error": "litellm.BadRequestError: OpenrouterException - Provider returned error"
+    },
+    {
+      "page_id": "codea_CODEA-3614_1r",
+      "cer": 0.3980582524271845,
+      "score": 0.6019417475728155
+    },
+    {
+      "page_id": "codea_CODEA-3614_1v",
+      "cer": 0.43822843822843827,
+      "score": 0.5617715617715617
+    },
+    {
+      "page_id": "codea_CODEA-3614_2r",
+      "cer": 0.5042944785276073,
+      "score": 0.49570552147239266
+    },
+    {
+      "page_id": "codea_CODEA-3614_2v",
+      "cer": 0.38351254480286734,
+      "score": 0.6164874551971327
+    },
+    {
+      "page_id": "codea_CODEA-3614_3r",
+      "cer": 0.29118329466357307,
+      "score": 0.7088167053364269
+    },
+    {
+      "page_id": "codea_CODEA-3614_3v",
+      "cer": 0.2569659442724459,
+      "score": 0.7430340557275541
+    },
+    {
+      "page_id": "codea_CODEA-3614_4r",
+      "cer": 0.35906862745098045,
+      "score": 0.6409313725490196
+    },
+    {
+      "page_id": "codea_CODEA-3614_4v",
+      "cer": 0.41891891891891886,
+      "score": 0.5810810810810811
+    },
+    {
+      "page_id": "codea_CODEA-3614_5r",
+      "cer": 0.3712121212121212,
+      "score": 0.6287878787878788
+    },
+    {
+      "page_id": "codea_CODEA-3614_5v",
+      "cer": 0.3247282608695652,
+      "score": 0.6752717391304348
+    },
+    {
+      "page_id": "codea_CODEA-3614_6r",
+      "cer": 0.33875739644970415,
+      "score": 0.6612426035502958
+    },
+    {
+      "page_id": "codea_CODEA-3614_6v",
+      "cer": 0.3571428571428572,
+      "score": 0.6428571428571428
+    },
+    {
+      "page_id": "codea_CODEA-3614_7r",
+      "cer": 1.0,
+      "score": 0.0
+    },
+    {
+      "page_id": "codea_CODEA-3624_1r",
+      "cer": 0.6781731279872544,
+      "score": 0.3218268720127456
+    },
+    {
+      "page_id": "codea_CODEA-3624_1v",
+      "cer": 0.45578778135048226,
+      "score": 0.5442122186495177
+    },
+    {
+      "page_id": "codea_CODEA-3624_2r",
+      "cer": 0.5664556962025317,
+      "score": 0.43354430379746833
+    },
+    {
+      "page_id": "codea_CODEA-3624_2v",
+      "cer": 0.554989816700611,
+      "score": 0.445010183299389
+    },
+    {
+      "page_id": "codea_CODEA-3624_3r",
+      "cer": 0.4990059642147118,
+      "score": 0.5009940357852882
+    },
+    {
+      "page_id": "codea_CODEA-3624_3v",
+      "cer": 0.3968978102189781,
+      "score": 0.6031021897810219
+    },
+    {
+      "page_id": "codea_CODEA-3624_4r",
+      "cer": 0.6001908396946565,
+      "score": 0.3998091603053435
+    },
+    {
+      "page_id": "codea_CODEA-3624_4v",
+      "cer": 0.4708209693372898,
+      "score": 0.5291790306627102
+    },
+    {
+      "page_id": "codea_CODEA-3624_5r",
+      "cer": 0.6335403726708074,
+      "score": 0.36645962732919257
+    },
+    {
+      "page_id": "codea_CODEA-3624_5v",
+      "cer": 0.4208984375,
+      "score": 0.5791015625
+    },
+    {
+      "page_id": "codea_CODEA-3624_6r",
+      "cer": 0.5225464190981433,
+      "score": 0.47745358090185674
+    },
+    {
+      "page_id": "codea_CODEA-3624_6v",
+      "cer": 1.0,
+      "score": 0.0
+    },
+    {
+      "page_id": "codea_CODEA-3624_7r",
+      "cer": 0.40583333333333327,
+      "score": 0.5941666666666667
+    },
+    {
+      "page_id": "codea_CODEA-3624_7v",
+      "cer": 0.4552319309600863,
+      "score": 0.5447680690399137
+    },
+    {
+      "page_id": "codea_CODEA-3624_8r",
+      "cer": null,
+      "error": "litellm.BadRequestError: OpenrouterException - {\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\\"type\\\":\\\"error\\\",\\\"error\\\":{\\\"type\\\":\\\"invalid_request_error\\\",\\\"message\\\":\\\"messages.0.content.1.image.source.base64: image exceeds 5 MB maximum: 5271960 bytes > 5242880 bytes\\\"},\\\"request_id\\\":\\\"req_011CZRExcFk3DDmvWJCFSEvX\\\"}\",\"provider_name\":\"Azure\",\"is_byok\":false}},\"user_id\":\"user_370fOIVITjU9j4S9QRgFwJfzfsV\"}"
+    },
+    {
+      "page_id": "codea_CODEA-3624_8v",
+      "cer": 0.6055226824457594,
+      "score": 0.39447731755424065
+    }
+  ]
+}

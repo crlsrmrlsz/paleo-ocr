@@ -1,0 +1,99 @@
+{
+  "doc_id": "CODEA-3630",
+  "dataset": "codea",
+  "date": "1611",
+  "title": "Carta de dote de doña Elvira, hija de Juan Sánchez Verjano e Isabel Menacha, en su casamiento con Alonso de la Barrera Benavides, vecinos todos de la villa de Almendral.",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r",
+    "7v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Almendral",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 319x211",
+    "copista": "Pedro Vázquez",
+    "signatura": "PN/1042, Pedro Vázquez 1610-1611, ff. 183r-190v",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2529,
+      "height": 4153
+    },
+    "1v": {
+      "width": 2529,
+      "height": 4210
+    },
+    "2r": {
+      "width": 2609,
+      "height": 4114
+    },
+    "2v": {
+      "width": 2465,
+      "height": 4121
+    },
+    "3r": {
+      "width": 2537,
+      "height": 4113
+    },
+    "3v": {
+      "width": 2401,
+      "height": 4073
+    },
+    "4r": {
+      "width": 2561,
+      "height": 4081
+    },
+    "4v": {
+      "width": 2441,
+      "height": 4065
+    },
+    "5r": {
+      "width": 2569,
+      "height": 4065
+    },
+    "5v": {
+      "width": 2433,
+      "height": 3961
+    },
+    "6r": {
+      "width": 2521,
+      "height": 4049
+    },
+    "6v": {
+      "width": 2529,
+      "height": 4177
+    },
+    "7r": {
+      "width": 2521,
+      "height": 4082
+    },
+    "7v": {
+      "width": 2513,
+      "height": 4065
+    }
+  }
+}

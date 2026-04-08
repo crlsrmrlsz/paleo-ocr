@@ -1,0 +1,229 @@
+{
+  "doc_id": "CODEA-3589",
+  "dataset": "codea",
+  "date": "1527",
+  "title": "Inventario de los oficios de la zapatería, la pellejería, la carnicería, la acemilería, el horno, la obra, la herrería, la tejeduría, la cocina, la bodega, la ropería, la hospedería, la enfermería y la mayordomía del Monasterio de Santa María de Guadalupe.",
+  "archive": "Archivo del Monasterio de Guadalupe",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r",
+    "7v",
+    "8r",
+    "8v",
+    "9r",
+    "9v",
+    "10r",
+    "10v",
+    "11r",
+    "11v",
+    "12r",
+    "12v",
+    "13r",
+    "13v",
+    "14r",
+    "14v",
+    "15r",
+    "15v",
+    "16r",
+    "16v",
+    "17r",
+    "17v",
+    "18r",
+    "18v",
+    "19r",
+    "19v",
+    "20r",
+    "20v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cáceres",
+    "poblacion": "Guadalupe",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "eclesiástico",
+    "soporte": "papel, 215 x 161",
+    "copista": "Fray Juan de Logrosán/fray Juan de San Fulgencio/fray Diego de Cáceres",
+    "signatura": "leg. 43, carp. I, doc. 1, ff. 2r-35v (5r-10v en blanco)",
+    "palsclave": "bienes muebles, clero",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "10r": {
+      "width": 2825,
+      "height": 3737
+    },
+    "10v": {
+      "width": 2665,
+      "height": 3665
+    },
+    "11r": {
+      "width": 2817,
+      "height": 3769
+    },
+    "11v": {
+      "width": 2649,
+      "height": 3689
+    },
+    "12r": {
+      "width": 2801,
+      "height": 3849
+    },
+    "12v": {
+      "width": 2649,
+      "height": 3929
+    },
+    "13r": {
+      "width": 2745,
+      "height": 3881
+    },
+    "13v": {
+      "width": 2737,
+      "height": 3777
+    },
+    "14r": {
+      "width": 2689,
+      "height": 3817
+    },
+    "14v": {
+      "width": 2593,
+      "height": 3649
+    },
+    "15r": {
+      "width": 2617,
+      "height": 3785
+    },
+    "15v": {
+      "width": 2585,
+      "height": 3593
+    },
+    "16r": {
+      "width": 2681,
+      "height": 3705
+    },
+    "16v": {
+      "width": 2449,
+      "height": 3457
+    },
+    "17r": {
+      "width": 2561,
+      "height": 3625
+    },
+    "17v": {
+      "width": 2569,
+      "height": 3521
+    },
+    "18r": {
+      "width": 2561,
+      "height": 3745
+    },
+    "18v": {
+      "width": 2673,
+      "height": 3761
+    },
+    "19r": {
+      "width": 2529,
+      "height": 3745
+    },
+    "19v": {
+      "width": 2546,
+      "height": 3657
+    },
+    "1r": {
+      "width": 2777,
+      "height": 3650
+    },
+    "1v": {
+      "width": 2593,
+      "height": 3649
+    },
+    "20r": {
+      "width": 2513,
+      "height": 3713
+    },
+    "20v": {
+      "width": 2778,
+      "height": 3897
+    },
+    "2r": {
+      "width": 2914,
+      "height": 3601
+    },
+    "2v": {
+      "width": 2753,
+      "height": 3745
+    },
+    "3r": {
+      "width": 2785,
+      "height": 3633
+    },
+    "3v": {
+      "width": 2697,
+      "height": 3681
+    },
+    "4r": {
+      "width": 2929,
+      "height": 3793
+    },
+    "4v": {
+      "width": 2730,
+      "height": 3905
+    },
+    "5r": {
+      "width": 2785,
+      "height": 3593
+    },
+    "5v": {
+      "width": 2577,
+      "height": 3593
+    },
+    "6r": {
+      "width": 2938,
+      "height": 3801
+    },
+    "6v": {
+      "width": 2738,
+      "height": 3817
+    },
+    "7r": {
+      "width": 2873,
+      "height": 3825
+    },
+    "7v": {
+      "width": 2705,
+      "height": 3761
+    },
+    "8r": {
+      "width": 2953,
+      "height": 3833
+    },
+    "8v": {
+      "width": 2697,
+      "height": 3777
+    },
+    "9r": {
+      "width": 2777,
+      "height": 3617
+    },
+    "9v": {
+      "width": 2801,
+      "height": 3833
+    }
+  }
+}

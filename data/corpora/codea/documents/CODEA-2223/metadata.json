@@ -1,0 +1,49 @@
+{
+  "doc_id": "CODEA-2223",
+  "dataset": "codea",
+  "date": "1637",
+  "title": "Inventario de los pertrechos de las minas de Montemolín que Juan Ximénez de Ibarra recibe del capitán don Nicolás de Cardona.",
+  "archive": "Archivo Histórico Municipal de Montemolín",
+  "letra": "procesal/bastarda corriente",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Montemolín",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Alonso Rodríguez",
+    "signatura": "legajo 56, carpeta 25, 4 folios",
+    "palsclave": "bienes muebles, obras y urbanismo, cargos y oficios, cultura",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2839,
+      "height": 4126
+    },
+    "1v": {
+      "width": 2670,
+      "height": 3986
+    },
+    "2r": {
+      "width": 2680,
+      "height": 3967
+    },
+    "2v": {
+      "width": 2815,
+      "height": 4051
+    }
+  }
+}

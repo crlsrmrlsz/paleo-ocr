@@ -1,0 +1,34 @@
+{
+  "doc_id": "CODEA-1433",
+  "dataset": "codea",
+  "date": "1503",
+  "title": "Carta de Pedro de Luján, vecino del Berraco, aldea de Ávila, en la que pide que se ordene que la ciudad de Ávila devuelva a varios pueblos un arca donde tenían guardadas sus sentencias y privilegios.",
+  "archive": "Archivo General de Simancas",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "[Ávila]",
+    "poblacion": "s.l.",
+    "tipologia": "actas y declaraciones",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "---",
+    "signatura": "Patronato Real, 6-54, folio 149",
+    "palsclave": "gobierno, asuntos administrativos",
+    "transcriptor": "Rocío Díaz Moreno"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1052,
+      "height": 1534
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "doc_id": "CODEA-3611",
+  "dataset": "codea",
+  "date": "1579",
+  "title": "Inventario de los bienes de Juan Calbo, difunto, y su mujer, Inés Gonzales, padres de Juana Gonzales, vecinos todos del lugar de Casas de Millán.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cáceres",
+    "poblacion": "Casas de Millán",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 321x221",
+    "copista": "Juan Marcos",
+    "signatura": "PN/1521, Juan Marcos Rodríguez 1579, 4 ff.",
+    "palsclave": "bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2689,
+      "height": 3865
+    },
+    "1v": {
+      "width": 2473,
+      "height": 3969
+    },
+    "2r": {
+      "width": 2777,
+      "height": 3905
+    },
+    "2v": {
+      "width": 2569,
+      "height": 4081
+    },
+    "3r": {
+      "width": 2697,
+      "height": 3881
+    },
+    "3v": {
+      "width": 2545,
+      "height": 3977
+    },
+    "4r": {
+      "width": 2713,
+      "height": 3873
+    }
+  }
+}

@@ -1,0 +1,10 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<transcription>
+<line><![CDATA[falio B a quien cunda cada va dar y qu-]]></line>
+<line><![CDATA[ando no cudiere que pagara por su per fona]]></line>
+<line><![CDATA[y bienes todos los maravedis que valieren los bienes]]></line>
+<line><![CDATA[de que no diere cuenta y mas todas las]]></line>
+<line><![CDATA[costas que sobre ello se siguieren y porque la]]></line>
+<line><![CDATA[rre[g/s]olvero sus bienes representa no parece]]></line>
+<line><![CDATA[

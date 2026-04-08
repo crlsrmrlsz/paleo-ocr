@@ -1,0 +1,55 @@
+{
+  "doc_id": "082_1647-05-10",
+  "dataset": "toledo",
+  "date": "1647-05-10",
+  "title": "Acta relativa al acuerdo adoptado por la ciudad de Toledo, en sesión celebrada por su Ayuntamiento el 10 de mayo de 1647, sobre los actos a llevar a cabo para recibir los dos retratos, uno de San Francisco y otro de Santa Clara, regalados por fray Juan de Napolés, general de la Orden de San Francisco.",
+  "archive": "Archivo Municipal de Toledo",
+  "letra": "bastarda con influencia procesal",
+  "facsimile_pages": [
+    "0001",
+    "0002",
+    "0003",
+    "0004",
+    "0005"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "normalized",
+    "format": "single-document-md"
+  },
+  "extra": {
+    "slug": "1647-05-10",
+    "source_url": "https://www.toledo.es/wp-content/uploads/2024/01/1647-05-10_d.pdf",
+    "source_page": "https://www.toledo.es/toledo-siempre/laminario-de-documentos-con-sus-transcripciones/",
+    "fondo": "Fondo del Ayuntamiento de Toledo",
+    "nivel_descripcion": "Unidad documental",
+    "productor": "Ayuntamiento de Toledo",
+    "codigo_referencia": "ES.45168.AMT/1-1.01//H-Libro A-67, f.\n\n271v-273v",
+    "fecha_original": "[c] 1647-05-10. Toledo",
+    "volumen_soporte": "3 hojas [folio], papel sellado",
+    "notas": "En esa sesión municipal se trataron también otros asuntos por lo que esta descripción afecta solo a uno de los puntos que figuraban en su convocatoria.\n\nEl texto se incluye dentro del libro de acuerdos municipales que recoge las actas de las sesiones celebradas entre el 7 de enero de 1647 y el 28\n\nde febrero de 1648.\n\nLetra bastarda con influencia procesal. Buen estado de conservación.",
+    "descriptores": "SIGLO XVII, TOLEDO, ACTAS MUNICIPALES,\n\nACUERDOS, ORDEN DE SAN FRANCISCO, RETRATOS, PINTURA"
+  },
+  "facsimile_resolution": {
+    "0001": {
+      "width": 1200,
+      "height": 1799
+    },
+    "0002": {
+      "width": 1197,
+      "height": 1802
+    },
+    "0003": {
+      "width": 1200,
+      "height": 1799
+    },
+    "0004": {
+      "width": 1197,
+      "height": 1802
+    },
+    "0005": {
+      "width": 1200,
+      "height": 1799
+    }
+  }
+}

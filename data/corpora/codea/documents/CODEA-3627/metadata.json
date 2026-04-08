@@ -1,0 +1,149 @@
+{
+  "doc_id": "CODEA-3627",
+  "dataset": "codea",
+  "date": "1604",
+  "title": "Inventario <<post mortem>> de los bienes que el capitán Alonso Mendo tenía en el lugar de Madroñera y en la ciudad de Trujillo (no se conservan los dos últimos folios del documento).",
+  "archive": "Archivo de Protocolos de Distrito de Trujillo",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r",
+    "7v",
+    "8r",
+    "8v",
+    "9r",
+    "9v",
+    "10r",
+    "10v",
+    "11r",
+    "11v",
+    "12r",
+    "12v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Trujillo",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 317x217",
+    "copista": "Joán de Lucio",
+    "signatura": "Trujillo, caja 39, Juan de Lucio 1604, ff. 645r-656v",
+    "palsclave": "bienes inmuebles, bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "10r": {
+      "width": 2769,
+      "height": 4218
+    },
+    "10v": {
+      "width": 2705,
+      "height": 4137
+    },
+    "11r": {
+      "width": 2761,
+      "height": 4210
+    },
+    "11v": {
+      "width": 2665,
+      "height": 4058
+    },
+    "12r": {
+      "width": 2737,
+      "height": 4202
+    },
+    "12v": {
+      "width": 3138,
+      "height": 4097
+    },
+    "1r": {
+      "width": 2737,
+      "height": 4113
+    },
+    "1v": {
+      "width": 2745,
+      "height": 4218
+    },
+    "2r": {
+      "width": 2673,
+      "height": 4065
+    },
+    "2v": {
+      "width": 2737,
+      "height": 4113
+    },
+    "3r": {
+      "width": 2713,
+      "height": 4161
+    },
+    "3v": {
+      "width": 2825,
+      "height": 4129
+    },
+    "4r": {
+      "width": 2849,
+      "height": 4218
+    },
+    "4v": {
+      "width": 2825,
+      "height": 4145
+    },
+    "5r": {
+      "width": 2761,
+      "height": 4218
+    },
+    "5v": {
+      "width": 2673,
+      "height": 4210
+    },
+    "6r": {
+      "width": 2745,
+      "height": 4162
+    },
+    "6v": {
+      "width": 2761,
+      "height": 4218
+    },
+    "7r": {
+      "width": 2713,
+      "height": 4218
+    },
+    "7v": {
+      "width": 2753,
+      "height": 4178
+    },
+    "8r": {
+      "width": 2785,
+      "height": 4218
+    },
+    "8v": {
+      "width": 2753,
+      "height": 4218
+    },
+    "9r": {
+      "width": 2721,
+      "height": 4218
+    },
+    "9v": {
+      "width": 2809,
+      "height": 4218
+    }
+  }
+}

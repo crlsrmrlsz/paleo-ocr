@@ -1,0 +1,79 @@
+{
+  "doc_id": "CODEA-3607",
+  "dataset": "codea",
+  "date": "1571",
+  "title": "Inventario <<post mortem>> de los bienes de Lorenço Blanco Barriga, hermano de Hernando Viejo Barriga y tío de Diego Chacón, y su mujer, Leonor Çapata, hermana de Sancho Çapata y Francisco de los Pies, vecinos todos de la villa de Villagarcía de la Torre.",
+  "archive": "Archivo de Protocolos de Distrito de Llerena",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Villagarcía de la Torre",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 316x218",
+    "copista": "Luis Gonzales",
+    "signatura": "Villagarcía, Protocolos, caja 1, L. González y A. Martín 1570-1571, ff. 55r-60r",
+    "palsclave": "bienes inmuebles, bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2513,
+      "height": 4066
+    },
+    "1v": {
+      "width": 2816,
+      "height": 4224
+    },
+    "2r": {
+      "width": 2769,
+      "height": 4218
+    },
+    "2v": {
+      "width": 2633,
+      "height": 4218
+    },
+    "3r": {
+      "width": 2785,
+      "height": 4153
+    },
+    "3v": {
+      "width": 2697,
+      "height": 4105
+    },
+    "4r": {
+      "width": 2777,
+      "height": 4218
+    },
+    "4v": {
+      "width": 2729,
+      "height": 4033
+    },
+    "5r": {
+      "width": 2633,
+      "height": 4097
+    },
+    "5v": {
+      "width": 2753,
+      "height": 4210
+    }
+  }
+}

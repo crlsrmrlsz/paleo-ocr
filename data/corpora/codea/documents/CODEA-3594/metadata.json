@@ -1,0 +1,94 @@
+{
+  "doc_id": "CODEA-3594",
+  "dataset": "codea",
+  "date": "1541",
+  "title": "Carta de dote de Isabel Rodrigues, hija de Juan García Ronquillo y Catalina Gómez, en su casamiento con Juan Salguero, vecinos todos de la villa de Fregenal de la Sierra (se omite la partija de los bienes de Juan García Ronquillo, inserta en los ff. 89r-98v).",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Fregenal de la Sierra",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 319 x 214",
+    "copista": "Rodrigo Tello",
+    "signatura": "PN/2966, Rodrigo Tello 1539-1543, ff. 86r-102r",
+    "palsclave": "mujer, bienes muebles",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2849,
+      "height": 4089
+    },
+    "1v": {
+      "width": 2913,
+      "height": 4178
+    },
+    "2r": {
+      "width": 2801,
+      "height": 4097
+    },
+    "2v": {
+      "width": 2753,
+      "height": 3985
+    },
+    "3r": {
+      "width": 2761,
+      "height": 3985
+    },
+    "3v": {
+      "width": 2769,
+      "height": 3969
+    },
+    "4r": {
+      "width": 2697,
+      "height": 4057
+    },
+    "4v": {
+      "width": 2825,
+      "height": 4033
+    },
+    "5r": {
+      "width": 2721,
+      "height": 4105
+    },
+    "5v": {
+      "width": 2665,
+      "height": 3913
+    },
+    "6r": {
+      "width": 2649,
+      "height": 4049
+    },
+    "6v": {
+      "width": 2761,
+      "height": 4041
+    },
+    "7r": {
+      "width": 2649,
+      "height": 4177
+    }
+  }
+}

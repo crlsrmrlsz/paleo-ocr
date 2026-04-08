@@ -1,0 +1,69 @@
+{
+  "doc_id": "CODEA-3622",
+  "dataset": "codea",
+  "date": "1597",
+  "title": "Carta de dote de Isabel Álbarez, hija de Pedro Díaz y Engracia Sánchez, vecinos todos de la villa de Burguillos del Cerro, en su casamiento con Juan de Bolaños San Vicente.",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Burguillos del Cerro",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 321x215",
+    "copista": "Juan de Pareja",
+    "signatura": "PN/2524, Juan de Pareja 1596-1597, 8 ff.",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2737,
+      "height": 4129
+    },
+    "1v": {
+      "width": 2673,
+      "height": 4129
+    },
+    "2r": {
+      "width": 2649,
+      "height": 4049
+    },
+    "2v": {
+      "width": 2601,
+      "height": 4113
+    },
+    "3r": {
+      "width": 2745,
+      "height": 4145
+    },
+    "3v": {
+      "width": 2609,
+      "height": 4057
+    },
+    "4r": {
+      "width": 2641,
+      "height": 4073
+    },
+    "4v": {
+      "width": 2633,
+      "height": 4049
+    }
+  }
+}

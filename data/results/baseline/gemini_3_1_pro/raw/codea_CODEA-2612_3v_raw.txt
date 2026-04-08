@@ -1,0 +1,3 @@
+r`. Yes. I'll write `mneser`.
+            *   Let's re-evaluate "na manẽra". The tilde implies a missing letter. The missing letter is 'e'. So writing `manera` *is* expanding the abbreviation. Okay.
+            *   So line 2: `o tras las que na manera n que meneser` (or `mneserc`?). Let's look at the provided transcription again. It has `o tras las que na manr̃a n q̃ mneser`. I need to follow the rules: expand abbreviations, maintain original spelling. "na" and "n" are phonetic spellings. So `o tras las que na manera n que meneser`. Let's adjust to be more faithful

@@ -1,0 +1,35 @@
+{
+  "doc_id": "041_1515-07-20_2",
+  "dataset": "toledo",
+  "date": "1515-07-20_2",
+  "title": "Real cédula de Fernando, el Católico, por la que ordena a los contadores mayores que no cobren derechos a los procuradores en Cortes por razón de los finiquitos de la cobranza del Servicio con que\n\nlos Reinos sirven a la reina doña Juana.",
+  "archive": "Archivo Municipal de Toledo",
+  "letra": "cortesana-procesal",
+  "facsimile_pages": [
+    "0001"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "normalized",
+    "format": "single-document-md"
+  },
+  "extra": {
+    "slug": "1515-07-20_2",
+    "source_url": "http://www.toledo.es/wp-content/uploads/2018/07/1515-07-20_2_d.pdf",
+    "source_page": "https://www.toledo.es/toledo-siempre/laminario-de-documentos-con-sus-transcripciones/",
+    "fondo": "Fondo del Ayuntamiento de Toledo",
+    "nivel_descripcion": "Unidad documental",
+    "productor": "Ayuntamiento de Toledo",
+    "codigo_referencia": "ES.45168.AMT/1-AS//Archivo Secreto, cajón 8, legajo 2, número 5",
+    "fecha_original": "[c] 1515-07-20. Burgos",
+    "volumen_soporte": "1 hoja [312 x 220 mm], papel",
+    "notas": "Firma autógrafa del Rey.\n\nLetra cortesana-procesal. Buen estado de conservación.\n\nEl documento fue restaurado en el Instituto del Patrimonio Cultural de\n\nEspaña (IPCE) entre los años 2004 y 2006.\n\nEste documento figura también transcrito en la obra de J. C. Galende y M. J. Salamanca, _Una escritura para la modernidad : La letra_ _cortesana_ (Cagliari, 2012), en concreto en su p. 288.",
+    "descriptores": "CORTES, BURGOS, PROCURADORES, IMPUESTOS,\n\nJUANA I, SIGLO XVI"
+  },
+  "facsimile_resolution": {
+    "0001": {
+      "width": 1326,
+      "height": 1872
+    }
+  }
+}

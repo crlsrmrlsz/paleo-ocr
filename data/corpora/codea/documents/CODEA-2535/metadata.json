@@ -1,0 +1,39 @@
+{
+  "doc_id": "CODEA-2535",
+  "dataset": "codea",
+  "date": "1496",
+  "title": "Pedimiento del fiscal, información y mandamiento para prender del proceso de fe a Juana Fernández, la Brisela, acusada de judaizar.",
+  "archive": "Archivo Histórico Nacional",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XV",
+    "provincia": "Guadalajara",
+    "poblacion": "Molina de Aragón",
+    "tipologia": "actas y declaraciones",
+    "ambito": "judicial",
+    "soporte": "papel",
+    "copista": "---",
+    "signatura": "Inquisición, 1930, Exp. 21, ff. 2r-2v",
+    "palsclave": "alimentación, justicia, minorías étnicas y religiosas, religión",
+    "transcriptor": "Belén Almeida Cabrejas"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1141,
+      "height": 1596
+    },
+    "1v": {
+      "width": 1135,
+      "height": 1584
+    }
+  }
+}

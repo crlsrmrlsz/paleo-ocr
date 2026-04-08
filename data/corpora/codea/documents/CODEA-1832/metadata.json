@@ -1,0 +1,34 @@
+{
+  "doc_id": "CODEA-1832",
+  "dataset": "codea",
+  "date": "1605",
+  "title": "Sentencia ante la solicitud de los propietarios de huertas de Arganda del Rey.",
+  "archive": "Archivo Municipal de Arganda del Rey",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Madrid",
+    "poblacion": "Arganda del Rey",
+    "tipologia": "actas y declaraciones",
+    "ambito": "judicial",
+    "soporte": "papel",
+    "copista": "Diego Pantoja",
+    "signatura": "12800030001, f. 1v",
+    "palsclave": "agricultura, justicia",
+    "transcriptor": "Delfina Vázquez Balonga"
+  },
+  "facsimile_resolution": {
+    "1v": {
+      "width": 678,
+      "height": 962
+    }
+  }
+}

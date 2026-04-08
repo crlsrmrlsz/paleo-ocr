@@ -1,0 +1,39 @@
+{
+  "doc_id": "CODEA-2027",
+  "dataset": "codea",
+  "date": "1602",
+  "title": "Poder de la marquesa de Falces",
+  "archive": "Archivo Histórico Provincial de Soria",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Soria",
+    "poblacion": "Ágreda",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Pedro de Frutos",
+    "signatura": "1555",
+    "palsclave": "asuntos administrativos, cargos y oficios",
+    "transcriptor": "Pedro Sánchez-Prieto Borja"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 3000,
+      "height": 4000
+    },
+    "1v": {
+      "width": 3000,
+      "height": 4000
+    }
+  }
+}

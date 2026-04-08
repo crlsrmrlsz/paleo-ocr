@@ -1,0 +1,39 @@
+{
+  "doc_id": "CODEA-3484",
+  "dataset": "codea",
+  "date": "1512",
+  "title": "Carta privada de doña Francisca de Vardeceno a fray Francisco Jiménez de Cisneros, cardenal de España, pidiéndole que nombre padre custodio a fray Juan de Marquina.",
+  "archive": "Archivo Histórico Nacional",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "s.p.",
+    "poblacion": "s.l.",
+    "tipologia": "cartas privadas",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Doña Francisca de Vardeceno",
+    "signatura": "UNIVERSIDADES,748,N.97",
+    "palsclave": "cargos y oficios, clero, favores",
+    "transcriptor": "Belén Almeida Cabrejas"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 944,
+      "height": 1410
+    },
+    "1v": {
+      "width": 964,
+      "height": 1420
+    }
+  }
+}

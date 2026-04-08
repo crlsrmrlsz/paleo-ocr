@@ -1,0 +1,44 @@
+{
+  "doc_id": "CODEA-2498",
+  "dataset": "codea",
+  "date": "1492",
+  "title": "Declaración de Aldonça Ferrández por la que confiesa haber realizado actos relacionados con la religión judaica.",
+  "archive": "Archivo Histórico Nacional",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XV",
+    "provincia": "Cuenca",
+    "poblacion": "Cuenca",
+    "tipologia": "actas y declaraciones",
+    "ambito": "judicial",
+    "soporte": "papel",
+    "copista": "---",
+    "signatura": "Inquisición, carpeta 1930, expediente 13",
+    "palsclave": "alimentación, justicia, minorías étnicas y religiosas, mujer, religión",
+    "transcriptor": "Belén Almeida Cabrejas"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1166,
+      "height": 1618
+    },
+    "1v": {
+      "width": 1180,
+      "height": 1590
+    },
+    "2r": {
+      "width": 1178,
+      "height": 1607
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "doc_id": "CODEA-3592",
+  "dataset": "codea",
+  "date": "1535",
+  "title": "Inventario <<post mortem>> de los bienes de Alonso Gonzales Giraldo, hijo de Herrand Gonzales Perero y marido de Isabel Gómez, vecinos todos de la villa de Fregenal de la Sierra.",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Fregenal de la Sierra",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 323 x 215",
+    "copista": "Rodrigo Tello",
+    "signatura": "PN/2965, Rodrigo Tello 1530-1538, ff. 87r-89v",
+    "palsclave": "bienes muebles, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2641,
+      "height": 4049
+    },
+    "1v": {
+      "width": 2777,
+      "height": 3993
+    },
+    "2r": {
+      "width": 2705,
+      "height": 4074
+    },
+    "2v": {
+      "width": 2697,
+      "height": 4170
+    },
+    "3r": {
+      "width": 2697,
+      "height": 4178
+    },
+    "3v": {
+      "width": 2849,
+      "height": 4186
+    }
+  }
+}

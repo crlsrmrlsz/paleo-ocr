@@ -1,0 +1,134 @@
+{
+  "doc_id": "CODEA-3639",
+  "dataset": "codea",
+  "date": "1623",
+  "title": "Carta de dote de doña Francisca de Billalba Villalobos, hija de Pedro Ortiz Villalobos y María Ortiz y vecina de la villa de Almendralejo, en su casamiento con don Juan de Alvarado y Tovar, vecino de la ciudad de Badajoz.",
+  "archive": "Archivo de Protocolos de Distrito de Almendralejo",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r",
+    "8r",
+    "8v",
+    "9r",
+    "9v",
+    "10r",
+    "10v",
+    "11r",
+    "11v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Almendralejo",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 317x217",
+    "copista": "Alonso Ortiz Cabeça",
+    "signatura": "Almendralejo, caja 8a, Alonso Ortiz Cabeza 1623, 11 ff.",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "10r": {
+      "width": 2689,
+      "height": 4210
+    },
+    "10v": {
+      "width": 2872,
+      "height": 4224
+    },
+    "11r": {
+      "width": 2809,
+      "height": 4218
+    },
+    "11v": {
+      "width": 2873,
+      "height": 4210
+    },
+    "1r": {
+      "width": 2529,
+      "height": 3969
+    },
+    "1v": {
+      "width": 2889,
+      "height": 4218
+    },
+    "2r": {
+      "width": 2721,
+      "height": 4210
+    },
+    "2v": {
+      "width": 2832,
+      "height": 4224
+    },
+    "3r": {
+      "width": 2609,
+      "height": 4210
+    },
+    "3v": {
+      "width": 2824,
+      "height": 4224
+    },
+    "4r": {
+      "width": 2697,
+      "height": 4210
+    },
+    "4v": {
+      "width": 2809,
+      "height": 4218
+    },
+    "5r": {
+      "width": 2617,
+      "height": 4161
+    },
+    "5v": {
+      "width": 2777,
+      "height": 4218
+    },
+    "6r": {
+      "width": 2713,
+      "height": 4218
+    },
+    "6v": {
+      "width": 2840,
+      "height": 4224
+    },
+    "7r": {
+      "width": 2609,
+      "height": 4185
+    },
+    "8r": {
+      "width": 2753,
+      "height": 4210
+    },
+    "8v": {
+      "width": 2785,
+      "height": 4218
+    },
+    "9r": {
+      "width": 2801,
+      "height": 4210
+    },
+    "9v": {
+      "width": 2840,
+      "height": 4224
+    }
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "page_id": "codea_CODEA-0177_1r",
+    "doc_id": "CODEA-0177",
+    "page": "1r",
+    "image_path": "data/corpora/codea/documents/CODEA-0177/facsimiles/1r.jpg",
+    "gt_path": "data/corpora/codea/documents/CODEA-0177/ground_truth/paleographic_1r.txt"
+  },
+  {
+    "page_id": "codea_CODEA-0177_1v",
+    "doc_id": "CODEA-0177",
+    "page": "1v",
+    "image_path": "data/corpora/codea/documents/CODEA-0177/facsimiles/1v.jpg",
+    "gt_path": "data/corpora/codea/documents/CODEA-0177/ground_truth/paleographic_1v.txt"
+  },
+  {
+    "page_id": "codea_CODEA-2535_1r",
+    "doc_id": "CODEA-2535",
+    "page": "1r",
+    "image_path": "data/corpora/codea/documents/CODEA-2535/facsimiles/1r.jpg",
+    "gt_path": "data/corpora/codea/documents/CODEA-2535/ground_truth/paleographic_1r.txt"
+  },
+  {
+    "page_id": "codea_CODEA-2535_1v",
+    "doc_id": "CODEA-2535",
+    "page": "1v",
+    "image_path": "data/corpora/codea/documents/CODEA-2535/facsimiles/1v.jpg",
+    "gt_path": "data/corpora/codea/documents/CODEA-2535/ground_truth/paleographic_1v.txt"
+  },
+  {
+    "page_id": "codea_CODEA-0205_1r",
+    "doc_id": "CODEA-0205",
+    "page": "1r",
+    "image_path": "data/corpora/codea/documents/CODEA-0205/facsimiles/1r.jpg",
+    "gt_path": "data/corpora/codea/documents/CODEA-0205/ground_truth/paleographic_1r.txt"
+  },
+  {
+    "page_id": "codea_CODEA-0205_1v",
+    "doc_id": "CODEA-0205",
+    "page": "1v",
+    "image_path": "data/corpora/codea/documents/CODEA-0205/facsimiles/1v.jpg",
+    "gt_path": "data/corpora/codea/documents/CODEA-0205/ground_truth/paleographic_1v.txt"
+  },
+  {
+    "page_id": "codea_CODEA-0205_2r",
+    "doc_id": "CODEA-0205",
+    "page": "2r",
+    "image_path": "data/corpora/codea/documents/CODEA-0205/facsimiles/2r.jpg",
+    "gt_path": "data/corpora/codea/documents/CODEA-0205/ground_truth/paleographic_2r.txt"
+  },
+  {
+    "page_id": "codea_CODEA-0205_2v",
+    "doc_id": "CODEA-0205",
+    "page": "2v",
+    "image_path": "data/corpora/codea/documents/CODEA-0205/facsimiles/2v.jpg",
+    "gt_path": "data/corpora/codea/documents/CODEA-0205/ground_truth/paleographic_2v.txt"
+  },
+  {
+    "page_id": "codea_CODEA-0206_1r",
+    "doc_id": "CODEA-0206",
+    "page": "1r",
+    "image_path": "data/corpora/codea/documents/CODEA-0206/facsimiles/1r.jpg",
+    "gt_path": "data/corpora/codea/documents/CODEA-0206/ground_truth/paleographic_1r.txt"
+  },
+  {
+    "page_id": "codea_CODEA-0206_1v",
+    "doc_id": "CODEA-0206",
+    "page": "1v",
+    "image_path": "data/corpora/codea/documents/CODEA-0206/facsimiles/1v.jpg",
+    "gt_path": "data/corpora/codea/documents/CODEA-0206/ground_truth/paleographic_1v.txt"
+  },
+  {
+    "page_id": "codea_CODEA-0206_2r",
+    "doc_id": "CODEA-0206",
+    "page": "2r",
+    "image_path": "data/corpora/codea/documents/CODEA-0206/facsimiles/2r.jpg",
+    "gt_path": "data/corpora/codea/documents/CODEA-0206/ground_truth/paleographic_2r.txt"
+  },
+  {
+    "page_id": "codea_CODEA-0206_2v",
+    "doc_id": "CODEA-0206",
+    "page": "2v",
+    "image_path": "data/corpora/codea/documents/CODEA-0206/facsimiles/2v.jpg",
+    "gt_path": "data/corpora/codea/documents/CODEA-0206/ground_truth/paleographic_2v.txt"
+  }
+]

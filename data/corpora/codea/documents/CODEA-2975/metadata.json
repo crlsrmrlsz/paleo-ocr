@@ -1,0 +1,34 @@
+{
+  "doc_id": "CODEA-2975",
+  "dataset": "codea",
+  "date": "1570",
+  "title": "Acta de la realización del pregón en la villa de Albacete para que la población tuviera conocimiento de la llegada de los moriscos y las condiciones con que se les debía acoger.",
+  "archive": "Archivo Histórico Provincial de Albacete",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Albacete",
+    "poblacion": "Albacete",
+    "tipologia": "actas y declaraciones",
+    "ambito": "municipal",
+    "soporte": "papel",
+    "copista": "Gerónimo de Arboleda",
+    "signatura": "Libro de Actas del Ayuntamiento de Albacete, 4509, f. 52",
+    "palsclave": "clero, minorías étnicas y religiosas",
+    "transcriptor": "María Agujetas Ortiz"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 960,
+      "height": 992
+    }
+  }
+}

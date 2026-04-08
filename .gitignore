@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# Internal work data
+docs/
+
+# Large downloaded files (not LFS-tracked)
+data/corpora/toledo/documents/**/*.pdf
+data/corpora/toledo/index.pdf
+
+# Generated comparison HTML (large, regenerate with scripts/review/)
+data/visualization/error_comparison*.html
+
+# Logs
+*.log
+
+# API response JSONs (large, not needed for evaluation)
+data/results/*/api_responses/
+
+# Derived upload packages
+data/colab_upload/
+
+# Intermediate/temporary
+intermediate/
+.ipynb_checkpoints/
+.pytest_cache/
+.superpowers/
+
+# Claude Code workspace
+.claude/
+CLAUDE.md
+
+# Test fixtures and results (downloaded/generated)
+tests/fixtures/
+tests/results.xml

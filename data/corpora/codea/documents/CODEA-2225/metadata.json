@@ -1,0 +1,49 @@
+{
+  "doc_id": "CODEA-2225",
+  "dataset": "codea",
+  "date": "1644",
+  "title": "Inventario de los bienes que Pedro Fernández Corredor heredó de su hermano Bernardo.",
+  "archive": "Archivo Provincial de Puebla de Alcocer",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Talavera la Vieja",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Fernando Altopaso",
+    "signatura": "Protocolos notariales, legajo 2725, 4 folios",
+    "palsclave": "bienes muebles, bienes inmuebles, animales, ganadería",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2423,
+      "height": 4113
+    },
+    "1v": {
+      "width": 2788,
+      "height": 4056
+    },
+    "2r": {
+      "width": 2375,
+      "height": 4202
+    },
+    "2v": {
+      "width": 2815,
+      "height": 4108
+    }
+  }
+}

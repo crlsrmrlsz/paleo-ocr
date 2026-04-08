@@ -1,0 +1,49 @@
+{
+  "doc_id": "CODEA-3601",
+  "dataset": "codea",
+  "date": "1557",
+  "title": "Inventario de los bienes de Miguel Gómez, difunto, y su mujer, Catalina Díaz, vecinos ambos de la villa de Serrejón.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cáceres",
+    "poblacion": "Serrejón",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 320x220",
+    "copista": "Alonso Sánchez",
+    "signatura": "PN/2379, Francisco Alonso Sánchez 1556-1558, 2 ff.",
+    "palsclave": "bienes inmuebles, bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2713,
+      "height": 4106
+    },
+    "1v": {
+      "width": 2385,
+      "height": 4049
+    },
+    "2r": {
+      "width": 2481,
+      "height": 3953
+    },
+    "2v": {
+      "width": 2441,
+      "height": 3935
+    }
+  }
+}

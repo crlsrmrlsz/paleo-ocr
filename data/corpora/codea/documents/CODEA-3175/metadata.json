@@ -1,0 +1,39 @@
+{
+  "doc_id": "CODEA-3175",
+  "dataset": "codea",
+  "date": "1594",
+  "title": "Testimonio de la entrega realizada por el Juan de Silva Ribera, marqués de Montemayor, de una escritura notarial en causa propia para cobrar una deuda contraída por Juan Zapata de Porres, canónigo y tesorero de la catedral de Cuenca.",
+  "archive": "Archivo Histórico de la Nobleza",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Toledo",
+    "poblacion": "Villaseca de la Sagra",
+    "tipologia": "actas y declaraciones",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Cosme Correas",
+    "signatura": "BAENA, C.18, D.125",
+    "palsclave": "economía, clero",
+    "transcriptor": "María Agujetas Ortiz"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1126,
+      "height": 1615
+    },
+    "1v": {
+      "width": 1126,
+      "height": 1624
+    }
+  }
+}

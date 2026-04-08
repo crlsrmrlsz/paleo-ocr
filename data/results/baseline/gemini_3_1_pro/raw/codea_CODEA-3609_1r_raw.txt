@@ -1,0 +1,7 @@
+(ns?) por`. This is very hard to uncouple.
+                Let's try a different approach. Focus on the main text structures that are repeating and clear. The item list is much cleaner. I will return to the header block later, spending more time on the shapes. I will type what looks most plausible based on standard phrasing while preserving letter shapes.
+
+        *   Let's re-attack the header, literal transcription with brackets for expansions:
+            `ss53` (top right)
+            `En la v(ill)a d(e) (?) ffran(cis)co d(?)s del mees d(e) junj(o) d(e) mjll e`
+            `q(ui)nj(ent)os

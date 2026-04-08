@@ -1,0 +1,39 @@
+{
+  "doc_id": "CODEA-2972",
+  "dataset": "codea",
+  "date": "1572",
+  "title": "Acta de la sesión del ayuntamiento de la villa de Albacete en la que se acuerda tomar medidas sanitarias con las prostitutas moriscas.",
+  "archive": "Archivo Histórico Provincial de Albacete",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Albacete",
+    "poblacion": "Albacete",
+    "tipologia": "actas y declaraciones",
+    "ambito": "municipal",
+    "soporte": "papel",
+    "copista": "---",
+    "signatura": "Libro de Actas del Ayuntamiento de Albacete, 4509, ff. 199v-200r",
+    "palsclave": "orden social, mujer, minorías étnicas y religiosas, salud y enfermedad",
+    "transcriptor": "María Agujetas Ortiz"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1230,
+      "height": 291
+    },
+    "1v": {
+      "width": 952,
+      "height": 338
+    }
+  }
+}

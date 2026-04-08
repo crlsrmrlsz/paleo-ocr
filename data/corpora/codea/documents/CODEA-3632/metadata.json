@@ -1,0 +1,84 @@
+{
+  "doc_id": "CODEA-3632",
+  "dataset": "codea",
+  "date": "1615",
+  "title": "Inventario <<post mortem>> de los bienes de María Sánchez, mujer de Juan de Utrera y vecina del lugar de Guijo de Coria.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Guijo de Coria",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 319x206",
+    "copista": "Bartolomé Sánchez",
+    "signatura": "PN/2366, Bartolomé Sánchez 1615, 6 ff.",
+    "palsclave": "bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2353,
+      "height": 4210
+    },
+    "1v": {
+      "width": 2553,
+      "height": 4049
+    },
+    "2r": {
+      "width": 2441,
+      "height": 4041
+    },
+    "2v": {
+      "width": 2753,
+      "height": 4057
+    },
+    "3r": {
+      "width": 2433,
+      "height": 4009
+    },
+    "3v": {
+      "width": 2689,
+      "height": 4017
+    },
+    "4r": {
+      "width": 2353,
+      "height": 4106
+    },
+    "4v": {
+      "width": 2617,
+      "height": 4017
+    },
+    "5r": {
+      "width": 2497,
+      "height": 4041
+    },
+    "5v": {
+      "width": 2721,
+      "height": 4106
+    },
+    "6r": {
+      "width": 2369,
+      "height": 4026
+    }
+  }
+}

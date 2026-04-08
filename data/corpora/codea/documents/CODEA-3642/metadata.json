@@ -1,0 +1,64 @@
+{
+  "doc_id": "CODEA-3642",
+  "dataset": "codea",
+  "date": "1633",
+  "title": "Carta de dote de Ana Gómez, hija de Mateo Pérez, regidor, y María Gómez, vecinos de la villa de Oliva de Mérida, en su casamiento con Juan Gallego, hijo de Juan Gallego y María Gutiérrez, vecinos de la de Valdetorres.",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "procesal encadenada/bastarda redonda",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Oliva de Mérida",
+    "tipologia": "certificaciones",
+    "ambito": "particular",
+    "soporte": "papel, 328x229",
+    "copista": "Alonso Gutiérrez Ortiz",
+    "signatura": "PN/4658, Alonso Gutiérrez Ortiz 1616-1638, 4 ff.",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2601,
+      "height": 4137
+    },
+    "1v": {
+      "width": 2545,
+      "height": 4017
+    },
+    "2r": {
+      "width": 2649,
+      "height": 4137
+    },
+    "2v": {
+      "width": 2681,
+      "height": 4202
+    },
+    "3r": {
+      "width": 2641,
+      "height": 4194
+    },
+    "3v": {
+      "width": 2577,
+      "height": 4178
+    },
+    "4r": {
+      "width": 2609,
+      "height": 4121
+    }
+  }
+}

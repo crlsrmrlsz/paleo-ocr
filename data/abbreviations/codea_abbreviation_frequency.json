@@ -1,0 +1,6348 @@
+{
+  "total_pages_analyzed": 64,
+  "total_pages_requested": 64,
+  "missing_pages": [],
+  "total_characters": 89746,
+  "total_abbreviation_instances": 2105,
+  "unique_expansion_patterns": 485,
+  "unique_abbreviated_word_forms": 799,
+  "abbreviation_patterns": {
+    "ic": {
+      "count": 235,
+      "example_words": [
+        "adicha",
+        "dich",
+        "dicha",
+        "dicharreal",
+        "dichas",
+        "dichaçiudad",
+        "dicho",
+        "dichodiames",
+        "dichodiegolopez",
+        "dichojuan",
+        "dichononbre",
+        "dichos",
+        "dichositio",
+        "efetodeldicho",
+        "estedichodia"
+      ],
+      "pattern_examples": [
+        "d[ic]ho",
+        "d[ic]has",
+        "d[ic]ha",
+        "d[ic]hos",
+        "d[ic]haçiudad",
+        "eld[ic]ho",
+        "d[ic]harreal",
+        "ad[ic]ha",
+        "d[ic]h",
+        "delad[ic]ha"
+      ],
+      "description": "Expansion of 'ic' hidden under abbreviation mark"
+    },
+    "n": {
+      "count": 219,
+      "example_words": [
+        "abracaron",
+        "absueluan",
+        "anno",
+        "annos",
+        "ansy",
+        "ante",
+        "antecama",
+        "antes",
+        "arepiente",
+        "avdiençia",
+        "ayunauan",
+        "ayunavan",
+        "besaron",
+        "bien",
+        "calderon"
+      ],
+      "pattern_examples": [
+        "renu[n]çian",
+        "e[n]",
+        "an[n]o",
+        "an[n]os",
+        "e[n]los",
+        "sen[n]ores",
+        "qujere[n]",
+        "ximo[n]",
+        "sen[n]or",
+        "ynformaçio[n]"
+      ],
+      "description": "Expansion of 'n' hidden under abbreviation mark"
+    },
+    "ue": {
+      "count": 217,
+      "example_words": [
+        "aquel",
+        "aquella",
+        "dixoque",
+        "duque",
+        "mjguel",
+        "pequeña",
+        "pequeño",
+        "pequeños",
+        "porque",
+        "que",
+        "quebenjan",
+        "quedi",
+        "queella",
+        "queesta",
+        "queestaua"
+      ],
+      "pattern_examples": [
+        "q[ue]",
+        "q[ue]lo",
+        "q[ue]la",
+        "q[ue]le",
+        "q[ue]lla",
+        "q[ue]llas",
+        "dixoq[ue]",
+        "req[ue]rian",
+        "q[ue]ria",
+        "q[ue]benjan"
+      ],
+      "description": "Expansion of 'ue' hidden under abbreviation mark"
+    },
+    "e": {
+      "count": 201,
+      "example_words": [
+        "ante",
+        "antelos",
+        "as",
+        "asantandres",
+        "ayune",
+        "bachiller",
+        "bienes",
+        "calcones",
+        "calçones",
+        "candiles",
+        "costumbre",
+        "del",
+        "dela",
+        "delo",
+        "dende"
+      ],
+      "pattern_examples": [
+        "t[e]stigos",
+        "t[e]stimonjo",
+        "d[e]l",
+        "lop[e]z",
+        "d[e]sta",
+        "ynqujsidor[e]s",
+        "par[e]sçio",
+        "present[e]",
+        "bachill[e]r",
+        "gom[e]s"
+      ],
+      "description": "Expansion of 'e' hidden under abbreviation mark"
+    },
+    "eales": {
+      "count": 72,
+      "example_words": [
+        "quatroreales",
+        "reales",
+        "tresreales"
+      ],
+      "pattern_examples": [
+        "r[eales]",
+        "tresr[eales]",
+        "quatror[eales]"
+      ],
+      "description": "Expansion of 'eales' hidden under abbreviation mark"
+    },
+    "er": {
+      "count": 49,
+      "example_words": [
+        "aver",
+        "bachiller",
+        "clerigo",
+        "diçernjda",
+        "fazer",
+        "fernande",
+        "general",
+        "muger",
+        "oseruançia",
+        "perdon",
+        "pero",
+        "personas",
+        "prender",
+        "ver",
+        "verdad"
+      ],
+      "pattern_examples": [
+        "cl[er]igo",
+        "v[er]dad",
+        "gen[er]al",
+        "faz[er]",
+        "diç[er]njda",
+        "p[er]don",
+        "p[er]o",
+        "v[er]",
+        "prend[er]",
+        "os[er]uançia"
+      ],
+      "description": "Expansion of 'er' hidden under abbreviation mark"
+    },
+    "aravedis": {
+      "count": 29,
+      "example_words": [
+        "dozemaravedis",
+        "etemaravedis",
+        "maravedis",
+        "ochomaravedis",
+        "seismaravedis"
+      ],
+      "pattern_examples": [
+        "m[aravedis]",
+        "enochom[aravedis]",
+        "dozem[aravedis]",
+        "ochom[aravedis]",
+        "enseism[aravedis]",
+        "etem[aravedis]"
+      ],
+      "description": "Expansion of 'aravedis' hidden under abbreviation mark"
+    },
+    "eal": {
+      "count": 27,
+      "example_words": [
+        "real"
+      ],
+      "pattern_examples": [
+        "r[eal]",
+        "enr[eal]"
+      ],
+      "description": "Expansion of 'eal' hidden under abbreviation mark"
+    },
+    "uest": {
+      "count": 22,
+      "example_words": [
+        "anuestra",
+        "nuestra",
+        "nuestro",
+        "nuestros",
+        "vuestra",
+        "vuestro",
+        "vuestros"
+      ],
+      "pattern_examples": [
+        "v[uest]ros",
+        "v[uest]ro",
+        "n[uest]ro",
+        "n[uest]ra",
+        "an[uest]ra",
+        "n[uest]ros",
+        "v[uest]ra"
+      ],
+      "description": "Expansion of 'uest' hidden under abbreviation mark"
+    },
+    "r": {
+      "count": 21,
+      "example_words": [
+        "açertada",
+        "carçel",
+        "dar",
+        "dexar",
+        "gueomar",
+        "leonor",
+        "mandar",
+        "março",
+        "muger",
+        "por",
+        "presençia",
+        "proçeso",
+        "puerto",
+        "sar",
+        "secrestar"
+      ],
+      "pattern_examples": [
+        "po[r]",
+        "secresta[r]",
+        "p[r]oçeso",
+        "va[r]co",
+        "p[r]esençia",
+        "da[r]",
+        "sa[r]",
+        "ca[r]çel",
+        "se[r]",
+        "dexa[r]"
+      ],
+      "description": "Expansion of 'r' hidden under abbreviation mark"
+    },
+    "icho": {
+      "count": 20,
+      "example_words": [
+        "dicho",
+        "dichoalguazil"
+      ],
+      "pattern_examples": [
+        "d[icho]",
+        "eld[icho]",
+        "ald[icho]",
+        "d[icho]alguazil"
+      ],
+      "description": "Expansion of 'icho' hidden under abbreviation mark"
+    },
+    "ar": {
+      "count": 20,
+      "example_words": [
+        "para",
+        "parte"
+      ],
+      "pattern_examples": [
+        "p[ar]a",
+        "p[ar]te"
+      ],
+      "description": "Expansion of 'ar' hidden under abbreviation mark"
+    },
+    "es": {
+      "count": 19,
+      "example_words": [
+        "bienes",
+        "cajones",
+        "confisyones",
+        "esençiones",
+        "ihesu",
+        "jhesu",
+        "jnqujsidores",
+        "noches",
+        "tes",
+        "yglesia",
+        "yglesis"
+      ],
+      "pattern_examples": [
+        "ygl[es]ia",
+        "jh[es]u",
+        "t[es]",
+        "esençion[es]",
+        "ih[es]u",
+        "noch[es]",
+        "jnqujsidor[es]",
+        "confisyon[es]",
+        "bien[es]",
+        "ygl[es]is"
+      ],
+      "description": "Expansion of 'es' hidden under abbreviation mark"
+    },
+    "an": {
+      "count": 18,
+      "example_words": [
+        "juan",
+        "juandela",
+        "santa"
+      ],
+      "pattern_examples": [
+        "s[an]ta",
+        "ju[an]",
+        "ju[an]dela"
+      ],
+      "description": "Expansion of 'an' hidden under abbreviation mark"
+    },
+    "ichos": {
+      "count": 17,
+      "example_words": [
+        "dichos"
+      ],
+      "pattern_examples": [
+        "d[ichos]"
+      ],
+      "description": "Expansion of 'ichos' hidden under abbreviation mark"
+    },
+    "ie": {
+      "count": 17,
+      "example_words": [
+        "contierras",
+        "detierras",
+        "tierras"
+      ],
+      "pattern_examples": [
+        "t[ie]rras",
+        "cont[ie]rras",
+        "det[ie]rras"
+      ],
+      "description": "Expansion of 'ie' hidden under abbreviation mark"
+    },
+    "erecho": {
+      "count": 16,
+      "example_words": [
+        "aderecho",
+        "derecho",
+        "derechos"
+      ],
+      "pattern_examples": [
+        "d[erecho]",
+        "d[erecho]s",
+        "ad[erecho]"
+      ],
+      "description": "Expansion of 'erecho' hidden under abbreviation mark"
+    },
+    "eale": {
+      "count": 16,
+      "example_words": [
+        "reales",
+        "realesy"
+      ],
+      "pattern_examples": [
+        "r[eale]s",
+        "r[eale]sy"
+      ],
+      "description": "Expansion of 'eale' hidden under abbreviation mark"
+    },
+    "estigo": {
+      "count": 15,
+      "example_words": [
+        "testigo",
+        "testigos",
+        "timoniotestigos"
+      ],
+      "pattern_examples": [
+        "t[estigo]s",
+        "t[estigo]",
+        "timoniot[estigo]s"
+      ],
+      "description": "Expansion of 'estigo' hidden under abbreviation mark"
+    },
+    "ezino": {
+      "count": 14,
+      "example_words": [
+        "vezino",
+        "vezinos"
+      ],
+      "pattern_examples": [
+        "v[ezino]",
+        "v[ezino]s"
+      ],
+      "description": "Expansion of 'ezino' hidden under abbreviation mark"
+    },
+    "errande": {
+      "count": 13,
+      "example_words": [
+        "ferrande",
+        "ferrandez"
+      ],
+      "pattern_examples": [
+        "f[errande]",
+        "f[errande]z"
+      ],
+      "description": "Expansion of 'errande' hidden under abbreviation mark"
+    },
+    "aravedi": {
+      "count": 12,
+      "example_words": [
+        "bentamaravedis",
+        "maravedis",
+        "sietemaravedis"
+      ],
+      "pattern_examples": [
+        "m[aravedi]s",
+        "sietem[aravedi]s",
+        "bentam[aravedi]s"
+      ],
+      "description": "Expansion of 'aravedi' hidden under abbreviation mark"
+    },
+    "re": {
+      "count": 12,
+      "example_words": [
+        "preguntada",
+        "prender",
+        "presa",
+        "presentes",
+        "presento",
+        "presençia",
+        "preujllejos",
+        "preçio",
+        "syenpre"
+      ],
+      "pattern_examples": [
+        "p[re]sentes",
+        "p[re]ujllejos",
+        "p[re]çio",
+        "p[re]sento",
+        "p[re]sa",
+        "p[re]nder",
+        "syenp[re]",
+        "p[re]guntada",
+        "p[re]sençia"
+      ],
+      "description": "Expansion of 're' hidden under abbreviation mark"
+    },
+    "ua": {
+      "count": 12,
+      "example_words": [
+        "guazil",
+        "qual",
+        "quando",
+        "quanto"
+      ],
+      "pattern_examples": [
+        "q[ua]nto",
+        "alg[ua]zil",
+        "elq[ua]l",
+        "q[ua]l",
+        "q[ua]ndo"
+      ],
+      "description": "Expansion of 'ua' hidden under abbreviation mark"
+    },
+    "edio": {
+      "count": 12,
+      "example_words": [
+        "deramedio",
+        "medio",
+        "medior",
+        "remedio"
+      ],
+      "pattern_examples": [
+        "m[edio]",
+        "enm[edio]",
+        "m[edio]r",
+        "deram[edio]",
+        "rem[edio]"
+      ],
+      "description": "Expansion of 'edio' hidden under abbreviation mark"
+    },
+    "tra": {
+      "count": 12,
+      "example_words": [
+        "contra",
+        "contraynes"
+      ],
+      "pattern_examples": [
+        "con[tra]",
+        "con[tra]ynes"
+      ],
+      "description": "Expansion of 'tra' hidden under abbreviation mark"
+    },
+    "a": {
+      "count": 11,
+      "example_words": [
+        "estaua",
+        "forma",
+        "paso",
+        "qual",
+        "quales"
+      ],
+      "pattern_examples": [
+        "p[a]so",
+        "estau[a]",
+        "enform[a]",
+        "qu[a]les",
+        "losqu[a]les",
+        "qu[a]l"
+      ],
+      "description": "Expansion of 'a' hidden under abbreviation mark"
+    },
+    "ego": {
+      "count": 11,
+      "example_words": [
+        "decavanasdiego",
+        "diego",
+        "diegocha",
+        "djego",
+        "ydiego"
+      ],
+      "pattern_examples": [
+        "di[ego]",
+        "di[ego]cha",
+        "ydi[ego]",
+        "decavanasdi[ego]",
+        "dj[ego]"
+      ],
+      "description": "Expansion of 'ego' hidden under abbreviation mark"
+    },
+    "reguntada": {
+      "count": 11,
+      "example_words": [
+        "preguntada"
+      ],
+      "pattern_examples": [
+        "p[reguntada]"
+      ],
+      "description": "Expansion of 'reguntada' hidden under abbreviation mark"
+    },
+    "ento": {
+      "count": 10,
+      "example_words": [
+        "casamjento",
+        "casamyento",
+        "conplimjento",
+        "damiento",
+        "mandamjento",
+        "myento",
+        "pedimjento"
+      ],
+      "pattern_examples": [
+        "dami[ento]",
+        "pedimj[ento]",
+        "mandamj[ento]",
+        "conplimj[ento]",
+        "my[ento]",
+        "casamy[ento]",
+        "casamj[ento]"
+      ],
+      "description": "Expansion of 'ento' hidden under abbreviation mark"
+    },
+    "edro": {
+      "count": 9,
+      "example_words": [
+        "pedro"
+      ],
+      "pattern_examples": [
+        "p[edro]"
+      ],
+      "description": "Expansion of 'edro' hidden under abbreviation mark"
+    },
+    "ara": {
+      "count": 9,
+      "example_words": [
+        "para"
+      ],
+      "pattern_examples": [
+        "p[ara]"
+      ],
+      "description": "Expansion of 'ara' hidden under abbreviation mark"
+    },
+    "nore": {
+      "count": 9,
+      "example_words": [
+        "sennores"
+      ],
+      "pattern_examples": [
+        "sen[nore]s"
+      ],
+      "description": "Expansion of 'nore' hidden under abbreviation mark"
+    },
+    "ui": {
+      "count": 7,
+      "example_words": [
+        "jnqui",
+        "jnquisitor",
+        "quinze",
+        "ynqui",
+        "ynquisydor"
+      ],
+      "pattern_examples": [
+        "ynq[ui]sydor",
+        "ynq[ui]",
+        "q[ui]nze",
+        "jnq[ui]",
+        "jnq[ui]sitor"
+      ],
+      "description": "Expansion of 'ui' hidden under abbreviation mark"
+    },
+    "niento": {
+      "count": 6,
+      "example_words": [
+        "quinientos",
+        "qujnientos",
+        "ujnientos"
+      ],
+      "pattern_examples": [
+        "quj[niento]s",
+        "qui[niento]s",
+        "uj[niento]s"
+      ],
+      "description": "Expansion of 'niento' hidden under abbreviation mark"
+    },
+    "m": {
+      "count": 6,
+      "example_words": [
+        "nombre",
+        "setiembre"
+      ],
+      "pattern_examples": [
+        "no[m]bre",
+        "setie[m]bre"
+      ],
+      "description": "Expansion of 'm' hidden under abbreviation mark"
+    },
+    "uisydore": {
+      "count": 6,
+      "example_words": [
+        "jnquisydores",
+        "ynquisydores"
+      ],
+      "pattern_examples": [
+        "ynq[uisydore]s",
+        "jnq[uisydore]s"
+      ],
+      "description": "Expansion of 'uisydore' hidden under abbreviation mark"
+    },
+    "uenon": {
+      "count": 6,
+      "example_words": [
+        "quenon",
+        "quenonse"
+      ],
+      "pattern_examples": [
+        "q[uenon]",
+        "q[uenon]se"
+      ],
+      "description": "Expansion of 'uenon' hidden under abbreviation mark"
+    },
+    "oa": {
+      "count": 6,
+      "example_words": [
+        "joan"
+      ],
+      "pattern_examples": [
+        "j[oa]n"
+      ],
+      "description": "Expansion of 'oa' hidden under abbreviation mark"
+    },
+    "as": {
+      "count": 6,
+      "example_words": [
+        "mas",
+        "onestas",
+        "pespuntadas"
+      ],
+      "pattern_examples": [
+        "onest[as]",
+        "m[as]",
+        "pespuntad[as]"
+      ],
+      "description": "Expansion of 'as' hidden under abbreviation mark"
+    },
+    "anega": {
+      "count": 6,
+      "example_words": [
+        "fanegas"
+      ],
+      "pattern_examples": [
+        "f[anega]s"
+      ],
+      "description": "Expansion of 'anega' hidden under abbreviation mark"
+    },
+    "odrigue": {
+      "count": 5,
+      "example_words": [
+        "rodriguez",
+        "rrodriguez"
+      ],
+      "pattern_examples": [
+        "r[odrigue]z",
+        "rr[odrigue]z"
+      ],
+      "description": "Expansion of 'odrigue' hidden under abbreviation mark"
+    },
+    "nde": {
+      "count": 5,
+      "example_words": [
+        "comunjondelos",
+        "deposiçionde",
+        "juande",
+        "juandel",
+        "juandela"
+      ],
+      "pattern_examples": [
+        "jua[nde]",
+        "deposiçio[nde]",
+        "jua[nde]l",
+        "jua[nde]la",
+        "comunjo[nde]los"
+      ],
+      "description": "Expansion of 'nde' hidden under abbreviation mark"
+    },
+    "nque": {
+      "count": 5,
+      "example_words": [
+        "amonestaronque",
+        "dixeronque",
+        "venjanque"
+      ],
+      "pattern_examples": [
+        "dixero[nque]",
+        "venja[nque]",
+        "amonestaro[nque]"
+      ],
+      "description": "Expansion of 'nque' hidden under abbreviation mark"
+    },
+    "ezina": {
+      "count": 5,
+      "example_words": [
+        "vezina"
+      ],
+      "pattern_examples": [
+        "v[ezina]"
+      ],
+      "description": "Expansion of 'ezina' hidden under abbreviation mark"
+    },
+    "tenc": {
+      "count": 5,
+      "example_words": [
+        "sentencja"
+      ],
+      "pattern_examples": [
+        "sen[tenc]ja",
+        "ensen[tenc]ja"
+      ],
+      "description": "Expansion of 'tenc' hidden under abbreviation mark"
+    },
+    "edia": {
+      "count": 5,
+      "example_words": [
+        "media"
+      ],
+      "pattern_examples": [
+        "m[edia]"
+      ],
+      "description": "Expansion of 'edia' hidden under abbreviation mark"
+    },
+    "cri": {
+      "count": 4,
+      "example_words": [
+        "escripto",
+        "escriptura",
+        "escriuano"
+      ],
+      "pattern_examples": [
+        "es[cri]ptura",
+        "es[cri]pto",
+        "es[cri]uano"
+      ],
+      "description": "Expansion of 'cri' hidden under abbreviation mark"
+    },
+    "ente": {
+      "count": 4,
+      "example_words": [
+        "benavente",
+        "mente",
+        "presente"
+      ],
+      "pattern_examples": [
+        "benav[ente]",
+        "m[ente]",
+        "pres[ente]"
+      ],
+      "description": "Expansion of 'ente' hidden under abbreviation mark"
+    },
+    "çisco": {
+      "count": 4,
+      "example_words": [
+        "françisco",
+        "françiscocornejo"
+      ],
+      "pattern_examples": [
+        "fran[çisco]",
+        "fran[çisco]cornejo"
+      ],
+      "description": "Expansion of 'çisco' hidden under abbreviation mark"
+    },
+    "icha": {
+      "count": 4,
+      "example_words": [
+        "dicha"
+      ],
+      "pattern_examples": [
+        "d[icha]",
+        "lad[icha]",
+        "delad[icha]"
+      ],
+      "description": "Expansion of 'icha' hidden under abbreviation mark"
+    },
+    "sion": {
+      "count": 4,
+      "example_words": [
+        "prouision"
+      ],
+      "pattern_examples": [
+        "proui[sion]"
+      ],
+      "description": "Expansion of 'sion' hidden under abbreviation mark"
+    },
+    "erec": {
+      "count": 4,
+      "example_words": [
+        "derecho"
+      ],
+      "pattern_examples": [
+        "d[erec]ho"
+      ],
+      "description": "Expansion of 'erec' hidden under abbreviation mark"
+    },
+    "ro": {
+      "count": 4,
+      "example_words": [
+        "promutor",
+        "proçeso"
+      ],
+      "pattern_examples": [
+        "p[ro]mutor",
+        "p[ro]çeso"
+      ],
+      "description": "Expansion of 'ro' hidden under abbreviation mark"
+    },
+    "enciado": {
+      "count": 4,
+      "example_words": [
+        "liçenciado",
+        "ljcenciado"
+      ],
+      "pattern_examples": [
+        "liç[enciado]",
+        "ljc[enciado]"
+      ],
+      "description": "Expansion of 'enciado' hidden under abbreviation mark"
+    },
+    "nos": {
+      "count": 4,
+      "example_words": [
+        "annos"
+      ],
+      "pattern_examples": [
+        "an[nos]"
+      ],
+      "description": "Expansion of 'nos' hidden under abbreviation mark"
+    },
+    "ri": {
+      "count": 4,
+      "example_words": [
+        "prima",
+        "primero",
+        "prinçipales",
+        "prior"
+      ],
+      "pattern_examples": [
+        "p[ri]ma",
+        "p[ri]or",
+        "p[ri]mero",
+        "p[ri]nçipales"
+      ],
+      "description": "Expansion of 'ri' hidden under abbreviation mark"
+    },
+    "edo": {
+      "count": 4,
+      "example_words": [
+        "toledo"
+      ],
+      "pattern_examples": [
+        "tol[edo]"
+      ],
+      "description": "Expansion of 'edo' hidden under abbreviation mark"
+    },
+    "utierre": {
+      "count": 4,
+      "example_words": [
+        "gutierre",
+        "gutierres"
+      ],
+      "pattern_examples": [
+        "g[utierre]s",
+        "g[utierre]"
+      ],
+      "description": "Expansion of 'utierre' hidden under abbreviation mark"
+    },
+    "iem": {
+      "count": 4,
+      "example_words": [
+        "tiempo"
+      ],
+      "pattern_examples": [
+        "t[iem]po"
+      ],
+      "description": "Expansion of 'iem' hidden under abbreviation mark"
+    },
+    "osto": {
+      "count": 4,
+      "example_words": [
+        "agosto",
+        "apostoljca"
+      ],
+      "pattern_examples": [
+        "ag[osto]",
+        "ap[osto]ljca"
+      ],
+      "description": "Expansion of 'osto' hidden under abbreviation mark"
+    },
+    "igo": {
+      "count": 4,
+      "example_words": [
+        "trigo"
+      ],
+      "pattern_examples": [
+        "tr[igo]"
+      ],
+      "description": "Expansion of 'igo' hidden under abbreviation mark"
+    },
+    "ana": {
+      "count": 4,
+      "example_words": [
+        "juana"
+      ],
+      "pattern_examples": [
+        "ju[ana]"
+      ],
+      "description": "Expansion of 'ana' hidden under abbreviation mark"
+    },
+    "iuano": {
+      "count": 4,
+      "example_words": [
+        "scriuano"
+      ],
+      "pattern_examples": [
+        "scr[iuano]"
+      ],
+      "description": "Expansion of 'iuano' hidden under abbreviation mark"
+    },
+    "illa": {
+      "count": 4,
+      "example_words": [
+        "villa"
+      ],
+      "pattern_examples": [
+        "v[illa]"
+      ],
+      "description": "Expansion of 'illa' hidden under abbreviation mark"
+    },
+    "anmart": {
+      "count": 4,
+      "example_words": [
+        "juanmartjn",
+        "juanmartyn"
+      ],
+      "pattern_examples": [
+        "ju[anmart]jn",
+        "ju[anmart]yn"
+      ],
+      "description": "Expansion of 'anmart' hidden under abbreviation mark"
+    },
+    "isdiçion": {
+      "count": 4,
+      "example_words": [
+        "jurisdiçion"
+      ],
+      "pattern_examples": [
+        "jur[isdiçion]"
+      ],
+      "description": "Expansion of 'isdiçion' hidden under abbreviation mark"
+    },
+    "ero": {
+      "count": 3,
+      "example_words": [
+        "hebrero",
+        "presvitero",
+        "çapatero"
+      ],
+      "pattern_examples": [
+        "presvit[ero]",
+        "hebr[ero]",
+        "çapat[ero]"
+      ],
+      "description": "Expansion of 'ero' hidden under abbreviation mark"
+    },
+    "blica": {
+      "count": 3,
+      "example_words": [
+        "publica"
+      ],
+      "pattern_examples": [
+        "pu[blica]"
+      ],
+      "description": "Expansion of 'blica' hidden under abbreviation mark"
+    },
+    "estado": {
+      "count": 3,
+      "example_words": [
+        "testado",
+        "vatestado"
+      ],
+      "pattern_examples": [
+        "t[estado]",
+        "vat[estado]"
+      ],
+      "description": "Expansion of 'estado' hidden under abbreviation mark"
+    },
+    "ist": {
+      "count": 3,
+      "example_words": [
+        "xpisto",
+        "xpistoval"
+      ],
+      "pattern_examples": [
+        "xp[ist]o",
+        "xp[ist]oval"
+      ],
+      "description": "Expansion of 'ist' hidden under abbreviation mark"
+    },
+    "estigos": {
+      "count": 3,
+      "example_words": [
+        "testigos"
+      ],
+      "pattern_examples": [
+        "t[estigos]"
+      ],
+      "description": "Expansion of 'estigos' hidden under abbreviation mark"
+    },
+    "arte": {
+      "count": 3,
+      "example_words": [
+        "parte",
+        "partes"
+      ],
+      "pattern_examples": [
+        "p[arte]",
+        "p[arte]s"
+      ],
+      "description": "Expansion of 'arte' hidden under abbreviation mark"
+    },
+    "ion": {
+      "count": 3,
+      "example_words": [
+        "posesion",
+        "provission"
+      ],
+      "pattern_examples": [
+        "proviss[ion]",
+        "poses[ion]"
+      ],
+      "description": "Expansion of 'ion' hidden under abbreviation mark"
+    },
+    "crivano": {
+      "count": 3,
+      "example_words": [
+        "escrivano",
+        "scrivano"
+      ],
+      "pattern_examples": [
+        "es[crivano]",
+        "s[crivano]"
+      ],
+      "description": "Expansion of 'crivano' hidden under abbreviation mark"
+    },
+    "egobichan": {
+      "count": 3,
+      "example_words": [
+        "diegobichancho"
+      ],
+      "pattern_examples": [
+        "di[egobichan]cho"
+      ],
+      "description": "Expansion of 'egobichan' hidden under abbreviation mark"
+    },
+    "uisydores": {
+      "count": 3,
+      "example_words": [
+        "ynquisydores"
+      ],
+      "pattern_examples": [
+        "ynq[uisydores]"
+      ],
+      "description": "Expansion of 'uisydores' hidden under abbreviation mark"
+    },
+    "uinjen": {
+      "count": 3,
+      "example_words": [
+        "quinjentos"
+      ],
+      "pattern_examples": [
+        "q[uinjen]tos"
+      ],
+      "description": "Expansion of 'uinjen' hidden under abbreviation mark"
+    },
+    "enci": {
+      "count": 3,
+      "example_words": [
+        "avdiencia"
+      ],
+      "pattern_examples": [
+        "avdi[enci]a"
+      ],
+      "description": "Expansion of 'enci' hidden under abbreviation mark"
+    },
+    "ndo": {
+      "count": 3,
+      "example_words": [
+        "comjendo",
+        "estando",
+        "ferrando"
+      ],
+      "pattern_examples": [
+        "ferra[ndo]",
+        "comje[ndo]",
+        "esta[ndo]"
+      ],
+      "description": "Expansion of 'ndo' hidden under abbreviation mark"
+    },
+    "is": {
+      "count": 3,
+      "example_words": [
+        "arçobispado",
+        "obispado"
+      ],
+      "pattern_examples": [
+        "arçob[is]pado",
+        "ob[is]pado"
+      ],
+      "description": "Expansion of 'is' hidden under abbreviation mark"
+    },
+    "art": {
+      "count": 3,
+      "example_words": [
+        "martjn",
+        "martyn"
+      ],
+      "pattern_examples": [
+        "m[art]jn",
+        "m[art]yn"
+      ],
+      "description": "Expansion of 'art' hidden under abbreviation mark"
+    },
+    "uenonheranayuno": {
+      "count": 3,
+      "example_words": [
+        "quenonheranayunos"
+      ],
+      "pattern_examples": [
+        "q[uenonheranayuno]s"
+      ],
+      "description": "Expansion of 'uenonheranayuno' hidden under abbreviation mark"
+    },
+    "erra": {
+      "count": 3,
+      "example_words": [
+        "ferranda",
+        "herrand"
+      ],
+      "pattern_examples": [
+        "h[erra]nd",
+        "f[erra]nda"
+      ],
+      "description": "Expansion of 'erra' hidden under abbreviation mark"
+    },
+    "ermano": {
+      "count": 3,
+      "example_words": [
+        "hermano",
+        "hermanos"
+      ],
+      "pattern_examples": [
+        "h[ermano]s",
+        "h[ermano]"
+      ],
+      "description": "Expansion of 'ermano' hidden under abbreviation mark"
+    },
+    "ario": {
+      "count": 3,
+      "example_words": [
+        "narios",
+        "notario"
+      ],
+      "pattern_examples": [
+        "not[ario]",
+        "n[ario]s"
+      ],
+      "description": "Expansion of 'ario' hidden under abbreviation mark"
+    },
+    "ernando": {
+      "count": 3,
+      "example_words": [
+        "dehernando",
+        "hernando"
+      ],
+      "pattern_examples": [
+        "h[ernando]",
+        "deh[ernando]"
+      ],
+      "description": "Expansion of 'ernando' hidden under abbreviation mark"
+    },
+    "ino": {
+      "count": 3,
+      "example_words": [
+        "mino"
+      ],
+      "pattern_examples": [
+        "m[ino]"
+      ],
+      "description": "Expansion of 'ino' hidden under abbreviation mark"
+    },
+    "ño": {
+      "count": 3,
+      "example_words": [
+        "años",
+        "quatroaños",
+        "yunaños"
+      ],
+      "pattern_examples": [
+        "quatroa[ño]s",
+        "a[ño]s",
+        "yuna[ño]s"
+      ],
+      "description": "Expansion of 'ño' hidden under abbreviation mark"
+    },
+    "ermino": {
+      "count": 3,
+      "example_words": [
+        "termino"
+      ],
+      "pattern_examples": [
+        "t[ermino]"
+      ],
+      "description": "Expansion of 'ermino' hidden under abbreviation mark"
+    },
+    "onso": {
+      "count": 3,
+      "example_words": [
+        "nso",
+        "nsoscr"
+      ],
+      "pattern_examples": [
+        "al[onso]",
+        "al[onso]scr"
+      ],
+      "description": "Expansion of 'onso' hidden under abbreviation mark"
+    },
+    "uenta": {
+      "count": 3,
+      "example_words": [
+        "quenta",
+        "çinquenta"
+      ],
+      "pattern_examples": [
+        "çinq[uenta]",
+        "q[uenta]"
+      ],
+      "description": "Expansion of 'uenta' hidden under abbreviation mark"
+    },
+    "ejnte": {
+      "count": 3,
+      "example_words": [
+        "vejnte"
+      ],
+      "pattern_examples": [
+        "v[ejnte]"
+      ],
+      "description": "Expansion of 'ejnte' hidden under abbreviation mark"
+    },
+    "anche": {
+      "count": 3,
+      "example_words": [
+        "sanchez"
+      ],
+      "pattern_examples": [
+        "s[anche]z"
+      ],
+      "description": "Expansion of 'anche' hidden under abbreviation mark"
+    },
+    "el": {
+      "count": 2,
+      "example_words": [
+        "del"
+      ],
+      "pattern_examples": [
+        "d[el]"
+      ],
+      "description": "Expansion of 'el' hidden under abbreviation mark"
+    },
+    "ichas": {
+      "count": 2,
+      "example_words": [
+        "dichas"
+      ],
+      "pattern_examples": [
+        "d[ichas]"
+      ],
+      "description": "Expansion of 'ichas' hidden under abbreviation mark"
+    },
+    "criptos": {
+      "count": 2,
+      "example_words": [
+        "escriptos"
+      ],
+      "pattern_examples": [
+        "es[criptos]"
+      ],
+      "description": "Expansion of 'criptos' hidden under abbreviation mark"
+    },
+    "ec": {
+      "count": 2,
+      "example_words": [
+        "fecha",
+        "fechas"
+      ],
+      "pattern_examples": [
+        "f[ec]ha",
+        "f[ec]has"
+      ],
+      "description": "Expansion of 'ec' hidden under abbreviation mark"
+    },
+    "eçino": {
+      "count": 2,
+      "example_words": [
+        "veçinos"
+      ],
+      "pattern_examples": [
+        "v[eçino]s"
+      ],
+      "description": "Expansion of 'eçino' hidden under abbreviation mark"
+    },
+    "ir": {
+      "count": 2,
+      "example_words": [
+        "firmo",
+        "virgen"
+      ],
+      "pattern_examples": [
+        "f[ir]mo",
+        "v[ir]gen"
+      ],
+      "description": "Expansion of 'ir' hidden under abbreviation mark"
+    },
+    "uestro": {
+      "count": 2,
+      "example_words": [
+        "nuestro"
+      ],
+      "pattern_examples": [
+        "n[uestro]"
+      ],
+      "description": "Expansion of 'uestro' hidden under abbreviation mark"
+    },
+    "artolome": {
+      "count": 2,
+      "example_words": [
+        "bartolome",
+        "debartolome"
+      ],
+      "pattern_examples": [
+        "b[artolome]",
+        "deb[artolome]"
+      ],
+      "description": "Expansion of 'artolome' hidden under abbreviation mark"
+    },
+    "onio": {
+      "count": 2,
+      "example_words": [
+        "testimonio"
+      ],
+      "pattern_examples": [
+        "testim[onio]"
+      ],
+      "description": "Expansion of 'onio' hidden under abbreviation mark"
+    },
+    "ado": {
+      "count": 2,
+      "example_words": [
+        "iençodelgado",
+        "xuzgado"
+      ],
+      "pattern_examples": [
+        "xuzg[ado]",
+        "deliençodelg[ado]"
+      ],
+      "description": "Expansion of 'ado' hidden under abbreviation mark"
+    },
+    "euerendossennores": {
+      "count": 2,
+      "example_words": [
+        "reuerendossennores",
+        "rreuerendossennores"
+      ],
+      "pattern_examples": [
+        "rr[euerendossennores]",
+        "r[euerendossennores]"
+      ],
+      "description": "Expansion of 'euerendossennores' hidden under abbreviation mark"
+    },
+    "cristi": {
+      "count": 2,
+      "example_words": [
+        "decristiana",
+        "fielescristianos"
+      ],
+      "pattern_examples": [
+        "de[cristi]ana",
+        "fieles[cristi]anos"
+      ],
+      "description": "Expansion of 'cristi' hidden under abbreviation mark"
+    },
+    "icia": {
+      "count": 2,
+      "example_words": [
+        "justicia"
+      ],
+      "pattern_examples": [
+        "just[icia]"
+      ],
+      "description": "Expansion of 'icia' hidden under abbreviation mark"
+    },
+    "estigosque": {
+      "count": 2,
+      "example_words": [
+        "testigosque"
+      ],
+      "pattern_examples": [
+        "t[estigosque]"
+      ],
+      "description": "Expansion of 'estigosque' hidden under abbreviation mark"
+    },
+    "ños": {
+      "count": 2,
+      "example_words": [
+        "años"
+      ],
+      "pattern_examples": [
+        "a[ños]"
+      ],
+      "description": "Expansion of 'ños' hidden under abbreviation mark"
+    },
+    "en": {
+      "count": 2,
+      "example_words": [
+        "mente",
+        "reuerendos"
+      ],
+      "pattern_examples": [
+        "reuer[en]dos",
+        "m[en]te"
+      ],
+      "description": "Expansion of 'en' hidden under abbreviation mark"
+    },
+    "ra": {
+      "count": 2,
+      "example_words": [
+        "prauedad"
+      ],
+      "pattern_examples": [
+        "p[ra]uedad"
+      ],
+      "description": "Expansion of 'ra' hidden under abbreviation mark"
+    },
+    "enciadofernando": {
+      "count": 2,
+      "example_words": [
+        "liçenciadofernando"
+      ],
+      "pattern_examples": [
+        "liç[enciadofernando]"
+      ],
+      "description": "Expansion of 'enciadofernando' hidden under abbreviation mark"
+    },
+    "ndamjentopar": {
+      "count": 2,
+      "example_words": [
+        "mandamjentopara"
+      ],
+      "pattern_examples": [
+        "ma[ndamjentopar]a"
+      ],
+      "description": "Expansion of 'ndamjentopar' hidden under abbreviation mark"
+    },
+    "ueestauan": {
+      "count": 2,
+      "example_words": [
+        "queestauan"
+      ],
+      "pattern_examples": [
+        "q[ueestauan]"
+      ],
+      "description": "Expansion of 'ueestauan' hidden under abbreviation mark"
+    },
+    "ezi": {
+      "count": 2,
+      "example_words": [
+        "dezir"
+      ],
+      "pattern_examples": [
+        "d[ezi]r"
+      ],
+      "description": "Expansion of 'ezi' hidden under abbreviation mark"
+    },
+    "andamjento": {
+      "count": 2,
+      "example_words": [
+        "mandamjento"
+      ],
+      "pattern_examples": [
+        "m[andamjento]"
+      ],
+      "description": "Expansion of 'andamjento' hidden under abbreviation mark"
+    },
+    "uepresen": {
+      "count": 2,
+      "example_words": [
+        "quepresente"
+      ],
+      "pattern_examples": [
+        "q[uepresen]te"
+      ],
+      "description": "Expansion of 'uepresen' hidden under abbreviation mark"
+    },
+    "nfesyon": {
+      "count": 2,
+      "example_words": [
+        "confesyon",
+        "deconfesyon"
+      ],
+      "pattern_examples": [
+        "co[nfesyon]",
+        "deco[nfesyon]"
+      ],
+      "description": "Expansion of 'nfesyon' hidden under abbreviation mark"
+    },
+    "nlos": {
+      "count": 2,
+      "example_words": [
+        "conlos"
+      ],
+      "pattern_examples": [
+        "co[nlos]"
+      ],
+      "description": "Expansion of 'nlos' hidden under abbreviation mark"
+    },
+    "nver": {
+      "count": 2,
+      "example_words": [
+        "conversos",
+        "convertir"
+      ],
+      "pattern_examples": [
+        "co[nver]sos",
+        "co[nver]tir"
+      ],
+      "description": "Expansion of 'nver' hidden under abbreviation mark"
+    },
+    "ienc": {
+      "count": 2,
+      "example_words": [
+        "abdiencia",
+        "bdiencia"
+      ],
+      "pattern_examples": [
+        "labd[ienc]ia",
+        "abd[ienc]ia"
+      ],
+      "description": "Expansion of 'ienc' hidden under abbreviation mark"
+    },
+    "nfesion": {
+      "count": 2,
+      "example_words": [
+        "confesion"
+      ],
+      "pattern_examples": [
+        "co[nfesion]"
+      ],
+      "description": "Expansion of 'nfesion' hidden under abbreviation mark"
+    },
+    "risti": {
+      "count": 2,
+      "example_words": [
+        "xristianos"
+      ],
+      "pattern_examples": [
+        "x[risti]anos"
+      ],
+      "description": "Expansion of 'risti' hidden under abbreviation mark"
+    },
+    "uno": {
+      "count": 2,
+      "example_words": [
+        "ayunos",
+        "gunos"
+      ],
+      "pattern_examples": [
+        "ay[uno]s",
+        "alg[uno]s"
+      ],
+      "description": "Expansion of 'uno' hidden under abbreviation mark"
+    },
+    "ristianos": {
+      "count": 2,
+      "example_words": [
+        "xristianos"
+      ],
+      "pattern_examples": [
+        "x[ristianos]"
+      ],
+      "description": "Expansion of 'ristianos' hidden under abbreviation mark"
+    },
+    "ostolico": {
+      "count": 2,
+      "example_words": [
+        "appostolico"
+      ],
+      "pattern_examples": [
+        "app[ostolico]"
+      ],
+      "description": "Expansion of 'ostolico' hidden under abbreviation mark"
+    },
+    "o": {
+      "count": 2,
+      "example_words": [
+        "ferrando",
+        "otro"
+      ],
+      "pattern_examples": [
+        "ferrand[o]",
+        "otr[o]"
+      ],
+      "description": "Expansion of 'o' hidden under abbreviation mark"
+    },
+    "esucristo": {
+      "count": 2,
+      "example_words": [
+        "ihesucristo"
+      ],
+      "pattern_examples": [
+        "ih[esucristo]"
+      ],
+      "description": "Expansion of 'esucristo' hidden under abbreviation mark"
+    },
+    "omez": {
+      "count": 2,
+      "example_words": [
+        "gomez",
+        "gomezz"
+      ],
+      "pattern_examples": [
+        "g[omez]z",
+        "g[omez]"
+      ],
+      "description": "Expansion of 'omez' hidden under abbreviation mark"
+    },
+    "ome": {
+      "count": 2,
+      "example_words": [
+        "gomez"
+      ],
+      "pattern_examples": [
+        "g[ome]z"
+      ],
+      "description": "Expansion of 'ome' hidden under abbreviation mark"
+    },
+    "erran": {
+      "count": 2,
+      "example_words": [
+        "ferrand",
+        "ferrando"
+      ],
+      "pattern_examples": [
+        "f[erran]d",
+        "f[erran]do"
+      ],
+      "description": "Expansion of 'erran' hidden under abbreviation mark"
+    },
+    "aci": {
+      "count": 2,
+      "example_words": [
+        "oracion"
+      ],
+      "pattern_examples": [
+        "or[aci]on"
+      ],
+      "description": "Expansion of 'aci' hidden under abbreviation mark"
+    },
+    "uel": {
+      "count": 2,
+      "example_words": [
+        "aquel"
+      ],
+      "pattern_examples": [
+        "aq[uel]"
+      ],
+      "description": "Expansion of 'uel' hidden under abbreviation mark"
+    },
+    "nel": {
+      "count": 2,
+      "example_words": [
+        "ayunauanel",
+        "el"
+      ],
+      "pattern_examples": [
+        "ayunaua[nel]",
+        "e[nel]"
+      ],
+      "description": "Expansion of 'nel' hidden under abbreviation mark"
+    },
+    "uales": {
+      "count": 2,
+      "example_words": [
+        "quales"
+      ],
+      "pattern_examples": [
+        "q[uales]"
+      ],
+      "description": "Expansion of 'uales' hidden under abbreviation mark"
+    },
+    "uisidore": {
+      "count": 2,
+      "example_words": [
+        "ynquisidores"
+      ],
+      "pattern_examples": [
+        "ynq[uisidore]s"
+      ],
+      "description": "Expansion of 'uisidore' hidden under abbreviation mark"
+    },
+    "espue": {
+      "count": 2,
+      "example_words": [
+        "despues"
+      ],
+      "pattern_examples": [
+        "d[espue]s"
+      ],
+      "description": "Expansion of 'espue' hidden under abbreviation mark"
+    },
+    "uepor": {
+      "count": 2,
+      "example_words": [
+        "quepor"
+      ],
+      "pattern_examples": [
+        "q[uepor]"
+      ],
+      "description": "Expansion of 'uepor' hidden under abbreviation mark"
+    },
+    "rima": {
+      "count": 2,
+      "example_words": [
+        "prima"
+      ],
+      "pattern_examples": [
+        "p[rima]"
+      ],
+      "description": "Expansion of 'rima' hidden under abbreviation mark"
+    },
+    "everencias": {
+      "count": 2,
+      "example_words": [
+        "reverencias"
+      ],
+      "pattern_examples": [
+        "r[everencias]"
+      ],
+      "description": "Expansion of 'everencias' hidden under abbreviation mark"
+    },
+    "nta": {
+      "count": 2,
+      "example_words": [
+        "canta",
+        "nouenta"
+      ],
+      "pattern_examples": [
+        "ca[nta]",
+        "noue[nta]"
+      ],
+      "description": "Expansion of 'nta' hidden under abbreviation mark"
+    },
+    "nçiljaçion": {
+      "count": 2,
+      "example_words": [
+        "reconçiljaçion"
+      ],
+      "pattern_examples": [
+        "reco[nçiljaçion]"
+      ],
+      "description": "Expansion of 'nçiljaçion' hidden under abbreviation mark"
+    },
+    "crist": {
+      "count": 2,
+      "example_words": [
+        "catoljcoscristianos"
+      ],
+      "pattern_examples": [
+        "catoljcos[crist]ianos"
+      ],
+      "description": "Expansion of 'crist' hidden under abbreviation mark"
+    },
+    "ueda": {
+      "count": 2,
+      "example_words": [
+        "maqueda",
+        "queda"
+      ],
+      "pattern_examples": [
+        "maq[ueda]",
+        "q[ueda]"
+      ],
+      "description": "Expansion of 'ueda' hidden under abbreviation mark"
+    },
+    "ueson": {
+      "count": 2,
+      "example_words": [
+        "queson"
+      ],
+      "pattern_examples": [
+        "q[ueson]"
+      ],
+      "description": "Expansion of 'ueson' hidden under abbreviation mark"
+    },
+    "inodesta": {
+      "count": 2,
+      "example_words": [
+        "minodesta"
+      ],
+      "pattern_examples": [
+        "m[inodesta]"
+      ],
+      "description": "Expansion of 'inodesta' hidden under abbreviation mark"
+    },
+    "nter": {
+      "count": 2,
+      "example_words": [
+        "ter"
+      ],
+      "pattern_examples": [
+        "e[nter]"
+      ],
+      "description": "Expansion of 'nter' hidden under abbreviation mark"
+    },
+    "ues": {
+      "count": 2,
+      "example_words": [
+        "ques"
+      ],
+      "pattern_examples": [
+        "q[ues]"
+      ],
+      "description": "Expansion of 'ues' hidden under abbreviation mark"
+    },
+    "çelençia": {
+      "count": 2,
+      "example_words": [
+        "exçelençia"
+      ],
+      "pattern_examples": [
+        "ex[çelençia]"
+      ],
+      "description": "Expansion of 'çelençia' hidden under abbreviation mark"
+    },
+    "ezinos": {
+      "count": 2,
+      "example_words": [
+        "vezinos"
+      ],
+      "pattern_examples": [
+        "v[ezinos]"
+      ],
+      "description": "Expansion of 'ezinos' hidden under abbreviation mark"
+    },
+    "onzale": {
+      "count": 2,
+      "example_words": [
+        "gonzales"
+      ],
+      "pattern_examples": [
+        "g[onzale]s"
+      ],
+      "description": "Expansion of 'onzale' hidden under abbreviation mark"
+    },
+    "ariasanche": {
+      "count": 2,
+      "example_words": [
+        "mariasanchez"
+      ],
+      "pattern_examples": [
+        "m[ariasanche]z"
+      ],
+      "description": "Expansion of 'ariasanche' hidden under abbreviation mark"
+    },
+    "echa": {
+      "count": 2,
+      "example_words": [
+        "ffecha"
+      ],
+      "pattern_examples": [
+        "ff[echa]"
+      ],
+      "description": "Expansion of 'echa' hidden under abbreviation mark"
+    },
+    "çio": {
+      "count": 2,
+      "example_words": [
+        "apreçios",
+        "presçio"
+      ],
+      "pattern_examples": [
+        "apre[çio]s",
+        "delapres[çio]"
+      ],
+      "description": "Expansion of 'çio' hidden under abbreviation mark"
+    },
+    "arçia": {
+      "count": 2,
+      "example_words": [
+        "garçia",
+        "myguelgarçia"
+      ],
+      "pattern_examples": [
+        "g[arçia]",
+        "myguelg[arçia]"
+      ],
+      "description": "Expansion of 'arçia' hidden under abbreviation mark"
+    },
+    "onsogarçia": {
+      "count": 2,
+      "example_words": [
+        "nalonsogarçia",
+        "nsogarçia"
+      ],
+      "pattern_examples": [
+        "nal[onsogarçia]",
+        "al[onsogarçia]"
+      ],
+      "description": "Expansion of 'onsogarçia' hidden under abbreviation mark"
+    },
+    "eyntey": {
+      "count": 2,
+      "example_words": [
+        "veyntey"
+      ],
+      "pattern_examples": [
+        "v[eyntey]"
+      ],
+      "description": "Expansion of 'eyntey' hidden under abbreviation mark"
+    },
+    "erçio": {
+      "count": 2,
+      "example_words": [
+        "terçio",
+        "terçiopelo"
+      ],
+      "pattern_examples": [
+        "t[erçio]pelo",
+        "t[erçio]"
+      ],
+      "description": "Expansion of 'erçio' hidden under abbreviation mark"
+    },
+    "criva": {
+      "count": 2,
+      "example_words": [
+        "scrivano",
+        "yoelscrivano"
+      ],
+      "pattern_examples": [
+        "s[criva]no",
+        "yoels[criva]no"
+      ],
+      "description": "Expansion of 'criva' hidden under abbreviation mark"
+    },
+    "çiscogarçia": {
+      "count": 2,
+      "example_words": [
+        "fffrançiscogarçia",
+        "françiscogarçiade"
+      ],
+      "pattern_examples": [
+        "fran[çiscogarçia]de",
+        "fffran[çiscogarçia]"
+      ],
+      "description": "Expansion of 'çiscogarçia' hidden under abbreviation mark"
+    },
+    "analonso": {
+      "count": 2,
+      "example_words": [
+        "juanalonso"
+      ],
+      "pattern_examples": [
+        "ju[analonso]"
+      ],
+      "description": "Expansion of 'analonso' hidden under abbreviation mark"
+    },
+    "erio": {
+      "count": 1,
+      "example_words": [
+        "monesterio"
+      ],
+      "pattern_examples": [
+        "monest[erio]"
+      ],
+      "description": "Expansion of 'erio' hidden under abbreviation mark"
+    },
+    "uinjento": {
+      "count": 1,
+      "example_words": [
+        "quinjentos"
+      ],
+      "pattern_examples": [
+        "q[uinjento]s"
+      ],
+      "description": "Expansion of 'uinjento' hidden under abbreviation mark"
+    },
+    "io": {
+      "count": 1,
+      "example_words": [
+        "monesterio"
+      ],
+      "pattern_examples": [
+        "monester[io]"
+      ],
+      "description": "Expansion of 'io' hidden under abbreviation mark"
+    },
+    "erech": {
+      "count": 1,
+      "example_words": [
+        "derecho"
+      ],
+      "pattern_examples": [
+        "d[erech]o"
+      ],
+      "description": "Expansion of 'erech' hidden under abbreviation mark"
+    },
+    "enes": {
+      "count": 1,
+      "example_words": [
+        "bienes"
+      ],
+      "pattern_examples": [
+        "bi[enes]"
+      ],
+      "description": "Expansion of 'enes' hidden under abbreviation mark"
+    },
+    "tençia": {
+      "count": 1,
+      "example_words": [
+        "sentençia"
+      ],
+      "pattern_examples": [
+        "sen[tençia]"
+      ],
+      "description": "Expansion of 'tençia' hidden under abbreviation mark"
+    },
+    "uecon": {
+      "count": 1,
+      "example_words": [
+        "quecon"
+      ],
+      "pattern_examples": [
+        "q[uecon]"
+      ],
+      "description": "Expansion of 'uecon' hidden under abbreviation mark"
+    },
+    "tençiadefinitiva": {
+      "count": 1,
+      "example_words": [
+        "sentençiadefinitiva"
+      ],
+      "pattern_examples": [
+        "sen[tençiadefinitiva]"
+      ],
+      "description": "Expansion of 'tençiadefinitiva' hidden under abbreviation mark"
+    },
+    "çionde": {
+      "count": 1,
+      "example_words": [
+        "renunçiaçionde"
+      ],
+      "pattern_examples": [
+        "renunçia[çionde]"
+      ],
+      "description": "Expansion of 'çionde' hidden under abbreviation mark"
+    },
+    "esti": {
+      "count": 1,
+      "example_words": [
+        "testigos"
+      ],
+      "pattern_examples": [
+        "t[esti]gos"
+      ],
+      "description": "Expansion of 'esti' hidden under abbreviation mark"
+    },
+    "uedic": {
+      "count": 1,
+      "example_words": [
+        "quedicho"
+      ],
+      "pattern_examples": [
+        "q[uedic]ho"
+      ],
+      "description": "Expansion of 'uedic' hidden under abbreviation mark"
+    },
+    "uadala": {
+      "count": 1,
+      "example_words": [
+        "guadalajara"
+      ],
+      "pattern_examples": [
+        "g[uadala]jara"
+      ],
+      "description": "Expansion of 'uadala' hidden under abbreviation mark"
+    },
+    "entençiadifinitiba": {
+      "count": 1,
+      "example_words": [
+        "sentençiadifinitiba"
+      ],
+      "pattern_examples": [
+        "s[entençiadifinitiba]"
+      ],
+      "description": "Expansion of 'entençiadifinitiba' hidden under abbreviation mark"
+    },
+    "ades": {
+      "count": 1,
+      "example_words": [
+        "abbadesa"
+      ],
+      "pattern_examples": [
+        "abb[ades]a"
+      ],
+      "description": "Expansion of 'ades' hidden under abbreviation mark"
+    },
+    "çion": {
+      "count": 1,
+      "example_words": [
+        "conçepçion"
+      ],
+      "pattern_examples": [
+        "conçep[çion]"
+      ],
+      "description": "Expansion of 'çion' hidden under abbreviation mark"
+    },
+    "noria": {
+      "count": 1,
+      "example_words": [
+        "sennoria"
+      ],
+      "pattern_examples": [
+        "sen[noria]"
+      ],
+      "description": "Expansion of 'noria' hidden under abbreviation mark"
+    },
+    "imera": {
+      "count": 1,
+      "example_words": [
+        "primera"
+      ],
+      "pattern_examples": [
+        "pr[imera]"
+      ],
+      "description": "Expansion of 'imera' hidden under abbreviation mark"
+    },
+    "edrosan": {
+      "count": 1,
+      "example_words": [
+        "pedrosan"
+      ],
+      "pattern_examples": [
+        "p[edrosan]"
+      ],
+      "description": "Expansion of 'edrosan' hidden under abbreviation mark"
+    },
+    "edrosanchez": {
+      "count": 1,
+      "example_words": [
+        "pedrosanchez"
+      ],
+      "pattern_examples": [
+        "p[edrosanchez]"
+      ],
+      "description": "Expansion of 'edrosanchez' hidden under abbreviation mark"
+    },
+    "eronimo": {
+      "count": 1,
+      "example_words": [
+        "geronimo"
+      ],
+      "pattern_examples": [
+        "g[eronimo]"
+      ],
+      "description": "Expansion of 'eronimo' hidden under abbreviation mark"
+    },
+    "do": {
+      "count": 1,
+      "example_words": [
+        "testado"
+      ],
+      "pattern_examples": [
+        "testa[do]"
+      ],
+      "description": "Expansion of 'do' hidden under abbreviation mark"
+    },
+    "elipe": {
+      "count": 1,
+      "example_words": [
+        "phelipe"
+      ],
+      "pattern_examples": [
+        "ph[elipe]"
+      ],
+      "description": "Expansion of 'elipe' hidden under abbreviation mark"
+    },
+    "ennor": {
+      "count": 1,
+      "example_words": [
+        "sennor"
+      ],
+      "pattern_examples": [
+        "s[ennor]"
+      ],
+      "description": "Expansion of 'ennor' hidden under abbreviation mark"
+    },
+    "etera": {
+      "count": 1,
+      "example_words": [
+        "etcetera"
+      ],
+      "pattern_examples": [
+        "etc[etera]"
+      ],
+      "description": "Expansion of 'etera' hidden under abbreviation mark"
+    },
+    "onbre": {
+      "count": 1,
+      "example_words": [
+        "nonbre"
+      ],
+      "pattern_examples": [
+        "enn[onbre]"
+      ],
+      "description": "Expansion of 'onbre' hidden under abbreviation mark"
+    },
+    "lei": {
+      "count": 1,
+      "example_words": [
+        "pleito"
+      ],
+      "pattern_examples": [
+        "p[lei]to"
+      ],
+      "description": "Expansion of 'lei' hidden under abbreviation mark"
+    },
+    "uestracamara": {
+      "count": 1,
+      "example_words": [
+        "nuestracamara"
+      ],
+      "pattern_examples": [
+        "lan[uestracamara]"
+      ],
+      "description": "Expansion of 'uestracamara' hidden under abbreviation mark"
+    },
+    "einte": {
+      "count": 1,
+      "example_words": [
+        "veinte"
+      ],
+      "pattern_examples": [
+        "v[einte]"
+      ],
+      "description": "Expansion of 'einte' hidden under abbreviation mark"
+    },
+    "enziado": {
+      "count": 1,
+      "example_words": [
+        "izenziado"
+      ],
+      "pattern_examples": [
+        "eliz[enziado]"
+      ],
+      "description": "Expansion of 'enziado' hidden under abbreviation mark"
+    },
+    "istradamartin": {
+      "count": 1,
+      "example_words": [
+        "rregistradamartin"
+      ],
+      "pattern_examples": [
+        "rreg[istradamartin]"
+      ],
+      "description": "Expansion of 'istradamartin' hidden under abbreviation mark"
+    },
+    "oledovein": {
+      "count": 1,
+      "example_words": [
+        "toledoveinte"
+      ],
+      "pattern_examples": [
+        "t[oledovein]te"
+      ],
+      "description": "Expansion of 'oledovein' hidden under abbreviation mark"
+    },
+    "cientos": {
+      "count": 1,
+      "example_words": [
+        "sseiscientos"
+      ],
+      "pattern_examples": [
+        "sseis[cientos]"
+      ],
+      "description": "Expansion of 'cientos' hidden under abbreviation mark"
+    },
+    "ein": {
+      "count": 1,
+      "example_words": [
+        "veinte"
+      ],
+      "pattern_examples": [
+        "v[ein]te"
+      ],
+      "description": "Expansion of 'ein' hidden under abbreviation mark"
+    },
+    "criuanopublico": {
+      "count": 1,
+      "example_words": [
+        "scriuanopublico"
+      ],
+      "pattern_examples": [
+        "s[criuanopublico]"
+      ],
+      "description": "Expansion of 'criuanopublico' hidden under abbreviation mark"
+    },
+    "ealprouision": {
+      "count": 1,
+      "example_words": [
+        "realprouision"
+      ],
+      "pattern_examples": [
+        "r[ealprouision]"
+      ],
+      "description": "Expansion of 'ealprouision' hidden under abbreviation mark"
+    },
+    "estad": {
+      "count": 1,
+      "example_words": [
+        "magestad"
+      ],
+      "pattern_examples": [
+        "mag[estad]"
+      ],
+      "description": "Expansion of 'estad' hidden under abbreviation mark"
+    },
+    "enida": {
+      "count": 1,
+      "example_words": [
+        "contenida"
+      ],
+      "pattern_examples": [
+        "cont[enida]"
+      ],
+      "description": "Expansion of 'enida' hidden under abbreviation mark"
+    },
+    "criuanosenn": {
+      "count": 1,
+      "example_words": [
+        "scriuanosennalela"
+      ],
+      "pattern_examples": [
+        "s[criuanosenn]alela"
+      ],
+      "description": "Expansion of 'criuanosenn' hidden under abbreviation mark"
+    },
+    "oledoeldic": {
+      "count": 1,
+      "example_words": [
+        "detoledoeldicho"
+      ],
+      "pattern_examples": [
+        "det[oledoeldic]ho"
+      ],
+      "description": "Expansion of 'oledoeldic' hidden under abbreviation mark"
+    },
+    "ienbredeldic": {
+      "count": 1,
+      "example_words": [
+        "sseptienbredeldicho"
+      ],
+      "pattern_examples": [
+        "ssept[ienbredeldic]ho"
+      ],
+      "description": "Expansion of 'ienbredeldic' hidden under abbreviation mark"
+    },
+    "anda": {
+      "count": 1,
+      "example_words": [
+        "sselesmanda"
+      ],
+      "pattern_examples": [
+        "sselesm[anda]"
+      ],
+      "description": "Expansion of 'anda' hidden under abbreviation mark"
+    },
+    "entode": {
+      "count": 1,
+      "example_words": [
+        "mjentodesta"
+      ],
+      "pattern_examples": [
+        "mj[entode]sta"
+      ],
+      "description": "Expansion of 'entode' hidden under abbreviation mark"
+    },
+    "dad": {
+      "count": 1,
+      "example_words": [
+        "ciudad"
+      ],
+      "pattern_examples": [
+        "ciu[dad]"
+      ],
+      "description": "Expansion of 'dad' hidden under abbreviation mark"
+    },
+    "licoalossenn": {
+      "count": 1,
+      "example_words": [
+        "ssuplicoalossennores"
+      ],
+      "pattern_examples": [
+        "ssup[licoalossenn]ores"
+      ],
+      "description": "Expansion of 'licoalossenn' hidden under abbreviation mark"
+    },
+    "opara": {
+      "count": 1,
+      "example_words": [
+        "conplidopara"
+      ],
+      "pattern_examples": [
+        "conplid[opara]"
+      ],
+      "description": "Expansion of 'opara' hidden under abbreviation mark"
+    },
+    "cionesesto": {
+      "count": 1,
+      "example_words": [
+        "ocupacionesesto"
+      ],
+      "pattern_examples": [
+        "ocupa[cionesesto]"
+      ],
+      "description": "Expansion of 'cionesesto' hidden under abbreviation mark"
+    },
+    "ngo": {
+      "count": 1,
+      "example_words": [
+        "domingo"
+      ],
+      "pattern_examples": [
+        "domi[ngo]"
+      ],
+      "description": "Expansion of 'ngo' hidden under abbreviation mark"
+    },
+    "imonio": {
+      "count": 1,
+      "example_words": [
+        "testimonio"
+      ],
+      "pattern_examples": [
+        "entest[imonio]"
+      ],
+      "description": "Expansion of 'imonio' hidden under abbreviation mark"
+    },
+    "blico": {
+      "count": 1,
+      "example_words": [
+        "publico"
+      ],
+      "pattern_examples": [
+        "pu[blico]"
+      ],
+      "description": "Expansion of 'blico' hidden under abbreviation mark"
+    },
+    "anopublico": {
+      "count": 1,
+      "example_words": [
+        "scriuanopublico"
+      ],
+      "pattern_examples": [
+        "scriu[anopublico]"
+      ],
+      "description": "Expansion of 'anopublico' hidden under abbreviation mark"
+    },
+    "romutor": {
+      "count": 1,
+      "example_words": [
+        "promutor"
+      ],
+      "pattern_examples": [
+        "p[romutor]"
+      ],
+      "description": "Expansion of 'romutor' hidden under abbreviation mark"
+    },
+    "ezinade": {
+      "count": 1,
+      "example_words": [
+        "vezinade"
+      ],
+      "pattern_examples": [
+        "v[ezinade]"
+      ],
+      "description": "Expansion of 'ezinade' hidden under abbreviation mark"
+    },
+    "esucristoque": {
+      "count": 1,
+      "example_words": [
+        "ihesucristoque"
+      ],
+      "pattern_examples": [
+        "ih[esucristoque]"
+      ],
+      "description": "Expansion of 'esucristoque' hidden under abbreviation mark"
+    },
+    "esanta": {
+      "count": 1,
+      "example_words": [
+        "madresanta"
+      ],
+      "pattern_examples": [
+        "madr[esanta]"
+      ],
+      "description": "Expansion of 'esanta' hidden under abbreviation mark"
+    },
+    "equepedia": {
+      "count": 1,
+      "example_words": [
+        "dequepedia"
+      ],
+      "pattern_examples": [
+        "end[equepedia]"
+      ],
+      "description": "Expansion of 'equepedia' hidden under abbreviation mark"
+    },
+    "sufiçienteyn": {
+      "count": 1,
+      "example_words": [
+        "everendisimassufiçienteyn"
+      ],
+      "pattern_examples": [
+        "everendisimas[sufiçienteyn]"
+      ],
+      "description": "Expansion of 'sufiçienteyn' hidden under abbreviation mark"
+    },
+    "uepar": {
+      "count": 1,
+      "example_words": [
+        "quepara"
+      ],
+      "pattern_examples": [
+        "q[uepar]a"
+      ],
+      "description": "Expansion of 'uepar' hidden under abbreviation mark"
+    },
+    "uemandauan": {
+      "count": 1,
+      "example_words": [
+        "quemandauan"
+      ],
+      "pattern_examples": [
+        "q[uemandauan]"
+      ],
+      "description": "Expansion of 'uemandauan' hidden under abbreviation mark"
+    },
+    "ndamjentoajuan": {
+      "count": 1,
+      "example_words": [
+        "mandamjentoajuan"
+      ],
+      "pattern_examples": [
+        "ma[ndamjentoajuan]"
+      ],
+      "description": "Expansion of 'ndamjentoajuan' hidden under abbreviation mark"
+    },
+    "nfesyonde": {
+      "count": 1,
+      "example_words": [
+        "confesyondesu"
+      ],
+      "pattern_examples": [
+        "co[nfesyonde]su"
+      ],
+      "description": "Expansion of 'nfesyonde' hidden under abbreviation mark"
+    },
+    "nfesyones": {
+      "count": 1,
+      "example_words": [
+        "confesyones"
+      ],
+      "pattern_examples": [
+        "co[nfesyones]"
+      ],
+      "description": "Expansion of 'nfesyones' hidden under abbreviation mark"
+    },
+    "encia": {
+      "count": 1,
+      "example_words": [
+        "penitencia"
+      ],
+      "pattern_examples": [
+        "penit[encia]"
+      ],
+      "description": "Expansion of 'encia' hidden under abbreviation mark"
+    },
+    "rio": {
+      "count": 1,
+      "example_words": [
+        "vycario"
+      ],
+      "pattern_examples": [
+        "vyca[rio]"
+      ],
+      "description": "Expansion of 'rio' hidden under abbreviation mark"
+    },
+    "artjne": {
+      "count": 1,
+      "example_words": [
+        "martjnez"
+      ],
+      "pattern_examples": [
+        "m[artjne]z"
+      ],
+      "description": "Expansion of 'artjne' hidden under abbreviation mark"
+    },
+    "romotor": {
+      "count": 1,
+      "example_words": [
+        "promotor"
+      ],
+      "pattern_examples": [
+        "p[romotor]"
+      ],
+      "description": "Expansion of 'romotor' hidden under abbreviation mark"
+    },
+    "ncho": {
+      "count": 1,
+      "example_words": [
+        "bichancho"
+      ],
+      "pattern_examples": [
+        "bicha[ncho]"
+      ],
+      "description": "Expansion of 'ncho' hidden under abbreviation mark"
+    },
+    "nçiarsobre": {
+      "count": 1,
+      "example_words": [
+        "denunçiarsobre"
+      ],
+      "pattern_examples": [
+        "denu[nçiarsobre]"
+      ],
+      "description": "Expansion of 'nçiarsobre' hidden under abbreviation mark"
+    },
+    "espuesta": {
+      "count": 1,
+      "example_words": [
+        "respuesta"
+      ],
+      "pattern_examples": [
+        "r[espuesta]"
+      ],
+      "description": "Expansion of 'espuesta' hidden under abbreviation mark"
+    },
+    "nsufiçien": {
+      "count": 1,
+      "example_words": [
+        "ynformaçionsufiçiente"
+      ],
+      "pattern_examples": [
+        "ynformaçio[nsufiçien]te"
+      ],
+      "description": "Expansion of 'nsufiçien' hidden under abbreviation mark"
+    },
+    "nformaçion": {
+      "count": 1,
+      "example_words": [
+        "ynformaçion"
+      ],
+      "pattern_examples": [
+        "y[nformaçion]"
+      ],
+      "description": "Expansion of 'nformaçion' hidden under abbreviation mark"
+    },
+    "omotor": {
+      "count": 1,
+      "example_words": [
+        "promotor"
+      ],
+      "pattern_examples": [
+        "pr[omotor]"
+      ],
+      "description": "Expansion of 'omotor' hidden under abbreviation mark"
+    },
+    "uequepresentaua": {
+      "count": 1,
+      "example_words": [
+        "quequepresentaua"
+      ],
+      "pattern_examples": [
+        "q[uequepresentaua]"
+      ],
+      "description": "Expansion of 'uequepresentaua' hidden under abbreviation mark"
+    },
+    "onçale": {
+      "count": 1,
+      "example_words": [
+        "gonçalez"
+      ],
+      "pattern_examples": [
+        "g[onçale]z"
+      ],
+      "description": "Expansion of 'onçale' hidden under abbreviation mark"
+    },
+    "eral": {
+      "count": 1,
+      "example_words": [
+        "general"
+      ],
+      "pattern_examples": [
+        "gen[eral]"
+      ],
+      "description": "Expansion of 'eral' hidden under abbreviation mark"
+    },
+    "uisiçion": {
+      "count": 1,
+      "example_words": [
+        "ynquisiçion"
+      ],
+      "pattern_examples": [
+        "ynq[uisiçion]"
+      ],
+      "description": "Expansion of 'uisiçion' hidden under abbreviation mark"
+    },
+    "nbre": {
+      "count": 1,
+      "example_words": [
+        "dizienbre"
+      ],
+      "pattern_examples": [
+        "dizie[nbre]"
+      ],
+      "description": "Expansion of 'nbre' hidden under abbreviation mark"
+    },
+    "nçale": {
+      "count": 1,
+      "example_words": [
+        "gonçalez"
+      ],
+      "pattern_examples": [
+        "go[nçale]z"
+      ],
+      "description": "Expansion of 'nçale' hidden under abbreviation mark"
+    },
+    "iegobichan": {
+      "count": 1,
+      "example_words": [
+        "diegobichancho"
+      ],
+      "pattern_examples": [
+        "d[iegobichan]cho"
+      ],
+      "description": "Expansion of 'iegobichan' hidden under abbreviation mark"
+    },
+    "erapre": {
+      "count": 1,
+      "example_words": [
+        "herrerapresa"
+      ],
+      "pattern_examples": [
+        "herr[erapre]sa"
+      ],
+      "description": "Expansion of 'erapre' hidden under abbreviation mark"
+    },
+    "adodixoquedespues": {
+      "count": 1,
+      "example_words": [
+        "juradodixoquedespues"
+      ],
+      "pattern_examples": [
+        "jur[adodixoquedespues]"
+      ],
+      "description": "Expansion of 'adodixoquedespues' hidden under abbreviation mark"
+    },
+    "anesteuan": {
+      "count": 1,
+      "example_words": [
+        "dejuanesteuan"
+      ],
+      "pattern_examples": [
+        "deju[anesteuan]"
+      ],
+      "description": "Expansion of 'anesteuan' hidden under abbreviation mark"
+    },
+    "uepue": {
+      "count": 1,
+      "example_words": [
+        "quepues"
+      ],
+      "pattern_examples": [
+        "q[uepue]s"
+      ],
+      "description": "Expansion of 'uepue' hidden under abbreviation mark"
+    },
+    "nbienqueria": {
+      "count": 1,
+      "example_words": [
+        "tanbienqueria"
+      ],
+      "pattern_examples": [
+        "ta[nbienqueria]"
+      ],
+      "description": "Expansion of 'nbienqueria' hidden under abbreviation mark"
+    },
+    "nquemandauan": {
+      "count": 1,
+      "example_words": [
+        "dixeronquemandauan"
+      ],
+      "pattern_examples": [
+        "dixero[nquemandauan]"
+      ],
+      "description": "Expansion of 'nquemandauan' hidden under abbreviation mark"
+    },
+    "nseqre": {
+      "count": 1,
+      "example_words": [
+        "conseqresto"
+      ],
+      "pattern_examples": [
+        "co[nseqre]sto"
+      ],
+      "description": "Expansion of 'nseqre' hidden under abbreviation mark"
+    },
+    "iene": {
+      "count": 1,
+      "example_words": [
+        "bienes"
+      ],
+      "pattern_examples": [
+        "b[iene]s"
+      ],
+      "description": "Expansion of 'iene' hidden under abbreviation mark"
+    },
+    "i": {
+      "count": 1,
+      "example_words": [
+        "diha"
+      ],
+      "pattern_examples": [
+        "d[i]ha"
+      ],
+      "description": "Expansion of 'i' hidden under abbreviation mark"
+    },
+    "rço": {
+      "count": 1,
+      "example_words": [
+        "março"
+      ],
+      "pattern_examples": [
+        "ma[rço]"
+      ],
+      "description": "Expansion of 'rço' hidden under abbreviation mark"
+    },
+    "roue": {
+      "count": 1,
+      "example_words": [
+        "proue"
+      ],
+      "pattern_examples": [
+        "p[roue]"
+      ],
+      "description": "Expansion of 'roue' hidden under abbreviation mark"
+    },
+    "roueyeron": {
+      "count": 1,
+      "example_words": [
+        "proueyeron"
+      ],
+      "pattern_examples": [
+        "p[roueyeron]"
+      ],
+      "description": "Expansion of 'roueyeron' hidden under abbreviation mark"
+    },
+    "ariovezinodela": {
+      "count": 1,
+      "example_words": [
+        "notariovezinodela"
+      ],
+      "pattern_examples": [
+        "not[ariovezinodela]"
+      ],
+      "description": "Expansion of 'ariovezinodela' hidden under abbreviation mark"
+    },
+    "rtero": {
+      "count": 1,
+      "example_words": [
+        "portero"
+      ],
+      "pattern_examples": [
+        "po[rtero]"
+      ],
+      "description": "Expansion of 'rtero' hidden under abbreviation mark"
+    },
+    "ntinen": {
+      "count": 1,
+      "example_words": [
+        "yncontinenty"
+      ],
+      "pattern_examples": [
+        "ynco[ntinen]ty"
+      ],
+      "description": "Expansion of 'ntinen' hidden under abbreviation mark"
+    },
+    "nçias": {
+      "count": 1,
+      "example_words": [
+        "reuerençias"
+      ],
+      "pattern_examples": [
+        "reuere[nçias]"
+      ],
+      "description": "Expansion of 'nçias' hidden under abbreviation mark"
+    },
+    "era": {
+      "count": 1,
+      "example_words": [
+        "herrera"
+      ],
+      "pattern_examples": [
+        "herr[era]"
+      ],
+      "description": "Expansion of 'era' hidden under abbreviation mark"
+    },
+    "anestevan": {
+      "count": 1,
+      "example_words": [
+        "juanestevan"
+      ],
+      "pattern_examples": [
+        "ju[anestevan]"
+      ],
+      "description": "Expansion of 'anestevan' hidden under abbreviation mark"
+    },
+    "nbevjese": {
+      "count": 1,
+      "example_words": [
+        "njnbevjese"
+      ],
+      "pattern_examples": [
+        "nj[nbevjese]"
+      ],
+      "description": "Expansion of 'nbevjese' hidden under abbreviation mark"
+    },
+    "ierra": {
+      "count": 1,
+      "example_words": [
+        "tierras"
+      ],
+      "pattern_examples": [
+        "t[ierra]s"
+      ],
+      "description": "Expansion of 'ierra' hidden under abbreviation mark"
+    },
+    "nnoncomjen": {
+      "count": 1,
+      "example_words": [
+        "dixeronnoncomjendo"
+      ],
+      "pattern_examples": [
+        "dixero[nnoncomjen]do"
+      ],
+      "description": "Expansion of 'nnoncomjen' hidden under abbreviation mark"
+    },
+    "nbeujen": {
+      "count": 1,
+      "example_words": [
+        "njnbeujendo"
+      ],
+      "pattern_examples": [
+        "nj[nbeujen]do"
+      ],
+      "description": "Expansion of 'nbeujen' hidden under abbreviation mark"
+    },
+    "rque": {
+      "count": 1,
+      "example_words": [
+        "porquestava"
+      ],
+      "pattern_examples": [
+        "po[rque]stava"
+      ],
+      "description": "Expansion of 'rque' hidden under abbreviation mark"
+    },
+    "uartanaria": {
+      "count": 1,
+      "example_words": [
+        "quartanaria"
+      ],
+      "pattern_examples": [
+        "q[uartanaria]"
+      ],
+      "description": "Expansion of 'uartanaria' hidden under abbreviation mark"
+    },
+    "nquenon": {
+      "count": 1,
+      "example_words": [
+        "dixeronquenon"
+      ],
+      "pattern_examples": [
+        "dixero[nquenon]"
+      ],
+      "description": "Expansion of 'nquenon' hidden under abbreviation mark"
+    },
+    "risto": {
+      "count": 1,
+      "example_words": [
+        "xristo"
+      ],
+      "pattern_examples": [
+        "x[risto]"
+      ],
+      "description": "Expansion of 'risto' hidden under abbreviation mark"
+    },
+    "uestras": {
+      "count": 1,
+      "example_words": [
+        "vuestras"
+      ],
+      "pattern_examples": [
+        "v[uestras]"
+      ],
+      "description": "Expansion of 'uestras' hidden under abbreviation mark"
+    },
+    "euerendos": {
+      "count": 1,
+      "example_words": [
+        "reuerendos"
+      ],
+      "pattern_examples": [
+        "r[euerendos]"
+      ],
+      "description": "Expansion of 'euerendos' hidden under abbreviation mark"
+    },
+    "unos": {
+      "count": 1,
+      "example_words": [
+        "ayunos"
+      ],
+      "pattern_examples": [
+        "ay[unos]"
+      ],
+      "description": "Expansion of 'unos' hidden under abbreviation mark"
+    },
+    "uenonpreguntada": {
+      "count": 1,
+      "example_words": [
+        "quenonpreguntada"
+      ],
+      "pattern_examples": [
+        "q[uenonpreguntada]"
+      ],
+      "description": "Expansion of 'uenonpreguntada' hidden under abbreviation mark"
+    },
+    "uebien": {
+      "count": 1,
+      "example_words": [
+        "quebien"
+      ],
+      "pattern_examples": [
+        "q[uebien]"
+      ],
+      "description": "Expansion of 'uebien' hidden under abbreviation mark"
+    },
+    "ueantes": {
+      "count": 1,
+      "example_words": [
+        "queantes"
+      ],
+      "pattern_examples": [
+        "q[ueantes]"
+      ],
+      "description": "Expansion of 'ueantes' hidden under abbreviation mark"
+    },
+    "un": {
+      "count": 1,
+      "example_words": [
+        "ayunos"
+      ],
+      "pattern_examples": [
+        "ay[un]os"
+      ],
+      "description": "Expansion of 'un' hidden under abbreviation mark"
+    },
+    "edrodespinosa": {
+      "count": 1,
+      "example_words": [
+        "pedrodespinosa"
+      ],
+      "pattern_examples": [
+        "p[edrodespinosa]"
+      ],
+      "description": "Expansion of 'edrodespinosa' hidden under abbreviation mark"
+    },
+    "ntaron": {
+      "count": 1,
+      "example_words": [
+        "juntaron"
+      ],
+      "pattern_examples": [
+        "ju[ntaron]"
+      ],
+      "description": "Expansion of 'ntaron' hidden under abbreviation mark"
+    },
+    "ncon": {
+      "count": 1,
+      "example_words": [
+        "serancontenjdos"
+      ],
+      "pattern_examples": [
+        "sera[ncon]tenjdos"
+      ],
+      "description": "Expansion of 'ncon' hidden under abbreviation mark"
+    },
+    "rmjnar": {
+      "count": 1,
+      "example_words": [
+        "determjnar"
+      ],
+      "pattern_examples": [
+        "dete[rmjnar]"
+      ],
+      "description": "Expansion of 'rmjnar' hidden under abbreviation mark"
+    },
+    "roçeso": {
+      "count": 1,
+      "example_words": [
+        "proçeso"
+      ],
+      "pattern_examples": [
+        "p[roçeso]"
+      ],
+      "description": "Expansion of 'roçeso' hidden under abbreviation mark"
+    },
+    "nciscogonzale": {
+      "count": 1,
+      "example_words": [
+        "franciscogonzalez"
+      ],
+      "pattern_examples": [
+        "fra[nciscogonzale]z"
+      ],
+      "description": "Expansion of 'nciscogonzale' hidden under abbreviation mark"
+    },
+    "rtyr": {
+      "count": 1,
+      "example_words": [
+        "martyr"
+      ],
+      "pattern_examples": [
+        "ma[rtyr]"
+      ],
+      "description": "Expansion of 'rtyr' hidden under abbreviation mark"
+    },
+    "ano": {
+      "count": 1,
+      "example_words": [
+        "arçediano"
+      ],
+      "pattern_examples": [
+        "arçedi[ano]"
+      ],
+      "description": "Expansion of 'ano' hidden under abbreviation mark"
+    },
+    "onigo": {
+      "count": 1,
+      "example_words": [
+        "canonigo"
+      ],
+      "pattern_examples": [
+        "can[onigo]"
+      ],
+      "description": "Expansion of 'onigo' hidden under abbreviation mark"
+    },
+    "riogener": {
+      "count": 1,
+      "example_words": [
+        "vycariogeneral"
+      ],
+      "pattern_examples": [
+        "vyca[riogener]al"
+      ],
+      "description": "Expansion of 'riogener' hidden under abbreviation mark"
+    },
+    "nquelieuen": {
+      "count": 1,
+      "example_words": [
+        "votaronquelieuen"
+      ],
+      "pattern_examples": [
+        "votaro[nquelieuen]"
+      ],
+      "description": "Expansion of 'nquelieuen' hidden under abbreviation mark"
+    },
+    "uisyçion": {
+      "count": 1,
+      "example_words": [
+        "ynquisyçion"
+      ],
+      "pattern_examples": [
+        "ynq[uisyçion]"
+      ],
+      "description": "Expansion of 'uisyçion' hidden under abbreviation mark"
+    },
+    "nqua": {
+      "count": 1,
+      "example_words": [
+        "ynponganqual"
+      ],
+      "pattern_examples": [
+        "ynponga[nqua]l"
+      ],
+      "description": "Expansion of 'nqua' hidden under abbreviation mark"
+    },
+    "tenci": {
+      "count": 1,
+      "example_words": [
+        "penjtencia"
+      ],
+      "pattern_examples": [
+        "penj[tenci]a"
+      ],
+      "description": "Expansion of 'tenci' hidden under abbreviation mark"
+    },
+    "esçierealossennore": {
+      "count": 1,
+      "example_words": [
+        "paresçierealossennores"
+      ],
+      "pattern_examples": [
+        "par[esçierealossennore]s"
+      ],
+      "description": "Expansion of 'esçierealossennore' hidden under abbreviation mark"
+    },
+    "everendossennore": {
+      "count": 1,
+      "example_words": [
+        "reverendossennores"
+      ],
+      "pattern_examples": [
+        "r[everendossennore]s"
+      ],
+      "description": "Expansion of 'everendossennore' hidden under abbreviation mark"
+    },
+    "nor": {
+      "count": 1,
+      "example_words": [
+        "sennor"
+      ],
+      "pattern_examples": [
+        "sen[nor]"
+      ],
+      "description": "Expansion of 'nor' hidden under abbreviation mark"
+    },
+    "uestra": {
+      "count": 1,
+      "example_words": [
+        "nuestra"
+      ],
+      "pattern_examples": [
+        "n[uestra]"
+      ],
+      "description": "Expansion of 'uestra' hidden under abbreviation mark"
+    },
+    "eygles": {
+      "count": 1,
+      "example_words": [
+        "madreyglesia"
+      ],
+      "pattern_examples": [
+        "madr[eygles]ia"
+      ],
+      "description": "Expansion of 'eygles' hidden under abbreviation mark"
+    },
+    "ueoyran": {
+      "count": 1,
+      "example_words": [
+        "queoyran"
+      ],
+      "pattern_examples": [
+        "q[ueoyran]"
+      ],
+      "description": "Expansion of 'ueoyran' hidden under abbreviation mark"
+    },
+    "roçederan": {
+      "count": 1,
+      "example_words": [
+        "proçederan"
+      ],
+      "pattern_examples": [
+        "p[roçederan]"
+      ],
+      "description": "Expansion of 'roçederan' hidden under abbreviation mark"
+    },
+    "uedixo": {
+      "count": 1,
+      "example_words": [
+        "quedixo"
+      ],
+      "pattern_examples": [
+        "q[uedixo]"
+      ],
+      "description": "Expansion of 'uedixo' hidden under abbreviation mark"
+    },
+    "reguntadaqua": {
+      "count": 1,
+      "example_words": [
+        "preguntadaquantas"
+      ],
+      "pattern_examples": [
+        "p[reguntadaqua]ntas"
+      ],
+      "description": "Expansion of 'reguntadaqua' hidden under abbreviation mark"
+    },
+    "uevna": {
+      "count": 1,
+      "example_words": [
+        "quevna"
+      ],
+      "pattern_examples": [
+        "q[uevna]"
+      ],
+      "description": "Expansion of 'uevna' hidden under abbreviation mark"
+    },
+    "reguntadaquetiem": {
+      "count": 1,
+      "example_words": [
+        "preguntadaquetiempo"
+      ],
+      "pattern_examples": [
+        "p[reguntadaquetiem]po"
+      ],
+      "description": "Expansion of 'reguntadaquetiem' hidden under abbreviation mark"
+    },
+    "uebann": {
+      "count": 1,
+      "example_words": [
+        "quebanno"
+      ],
+      "pattern_examples": [
+        "q[uebann]o"
+      ],
+      "description": "Expansion of 'uebann' hidden under abbreviation mark"
+    },
+    "uando": {
+      "count": 1,
+      "example_words": [
+        "quando"
+      ],
+      "pattern_examples": [
+        "q[uando]"
+      ],
+      "description": "Expansion of 'uando' hidden under abbreviation mark"
+    },
+    "uenn": {
+      "count": 1,
+      "example_words": [
+        "pequenna"
+      ],
+      "pattern_examples": [
+        "peq[uenn]a"
+      ],
+      "description": "Expansion of 'uenn' hidden under abbreviation mark"
+    },
+    "eann": {
+      "count": 1,
+      "example_words": [
+        "syeteannos"
+      ],
+      "pattern_examples": [
+        "syet[eann]os"
+      ],
+      "description": "Expansion of 'eann' hidden under abbreviation mark"
+    },
+    "ncandile": {
+      "count": 1,
+      "example_words": [
+        "çendiancandiles"
+      ],
+      "pattern_examples": [
+        "ençendia[ncandile]s"
+      ],
+      "description": "Expansion of 'ncandile' hidden under abbreviation mark"
+    },
+    "angutierre": {
+      "count": 1,
+      "example_words": [
+        "juangutierre"
+      ],
+      "pattern_examples": [
+        "ju[angutierre]"
+      ],
+      "description": "Expansion of 'angutierre' hidden under abbreviation mark"
+    },
+    "tradonn": {
+      "count": 1,
+      "example_words": [
+        "contradonna"
+      ],
+      "pattern_examples": [
+        "con[tradonn]a"
+      ],
+      "description": "Expansion of 'tradonn' hidden under abbreviation mark"
+    },
+    "uangutierre": {
+      "count": 1,
+      "example_words": [
+        "juangutierre"
+      ],
+      "pattern_examples": [
+        "j[uangutierre]"
+      ],
+      "description": "Expansion of 'uangutierre' hidden under abbreviation mark"
+    },
+    "errandezla": {
+      "count": 1,
+      "example_words": [
+        "ferrandezla"
+      ],
+      "pattern_examples": [
+        "f[errandezla]"
+      ],
+      "description": "Expansion of 'errandezla' hidden under abbreviation mark"
+    },
+    "trajoa": {
+      "count": 1,
+      "example_words": [
+        "contrajoan"
+      ],
+      "pattern_examples": [
+        "con[trajoa]n"
+      ],
+      "description": "Expansion of 'trajoa' hidden under abbreviation mark"
+    },
+    "traferra": {
+      "count": 1,
+      "example_words": [
+        "contraferrand"
+      ],
+      "pattern_examples": [
+        "con[traferra]nd"
+      ],
+      "description": "Expansion of 'traferra' hidden under abbreviation mark"
+    },
+    "tradiego": {
+      "count": 1,
+      "example_words": [
+        "contradiego"
+      ],
+      "pattern_examples": [
+        "con[tradiego]"
+      ],
+      "description": "Expansion of 'tradiego' hidden under abbreviation mark"
+    },
+    "errnand": {
+      "count": 1,
+      "example_words": [
+        "ferrnand"
+      ],
+      "pattern_examples": [
+        "f[errnand]"
+      ],
+      "description": "Expansion of 'errnand' hidden under abbreviation mark"
+    },
+    "eroque": {
+      "count": 1,
+      "example_words": [
+        "çapateroque"
+      ],
+      "pattern_examples": [
+        "çapat[eroque]"
+      ],
+      "description": "Expansion of 'eroque' hidden under abbreviation mark"
+    },
+    "uangomez": {
+      "count": 1,
+      "example_words": [
+        "juangomez"
+      ],
+      "pattern_examples": [
+        "j[uangomez]"
+      ],
+      "description": "Expansion of 'uangomez' hidden under abbreviation mark"
+    },
+    "ede": {
+      "count": 1,
+      "example_words": [
+        "madrede"
+      ],
+      "pattern_examples": [
+        "madr[ede]"
+      ],
+      "description": "Expansion of 'ede' hidden under abbreviation mark"
+    },
+    "etestigo": {
+      "count": 1,
+      "example_words": [
+        "destetestigo"
+      ],
+      "pattern_examples": [
+        "dest[etestigo]"
+      ],
+      "description": "Expansion of 'etestigo' hidden under abbreviation mark"
+    },
+    "mbre": {
+      "count": 1,
+      "example_words": [
+        "nombre"
+      ],
+      "pattern_examples": [
+        "no[mbre]"
+      ],
+      "description": "Expansion of 'mbre' hidden under abbreviation mark"
+    },
+    "ueporque": {
+      "count": 1,
+      "example_words": [
+        "queporque"
+      ],
+      "pattern_examples": [
+        "q[ueporque]"
+      ],
+      "description": "Expansion of 'ueporque' hidden under abbreviation mark"
+    },
+    "uansanche": {
+      "count": 1,
+      "example_words": [
+        "juansanchez"
+      ],
+      "pattern_examples": [
+        "j[uansanche]z"
+      ],
+      "description": "Expansion of 'uansanche' hidden under abbreviation mark"
+    },
+    "blicoque": {
+      "count": 1,
+      "example_words": [
+        "publicoque"
+      ],
+      "pattern_examples": [
+        "pu[blicoque]"
+      ],
+      "description": "Expansion of 'blicoque' hidden under abbreviation mark"
+    },
+    "blicamente": {
+      "count": 1,
+      "example_words": [
+        "publicamente"
+      ],
+      "pattern_examples": [
+        "pu[blicamente]"
+      ],
+      "description": "Expansion of 'blicamente' hidden under abbreviation mark"
+    },
+    "estigodezja": {
+      "count": 1,
+      "example_words": [
+        "testigodezja"
+      ],
+      "pattern_examples": [
+        "t[estigodezja]"
+      ],
+      "description": "Expansion of 'estigodezja' hidden under abbreviation mark"
+    },
+    "uan": {
+      "count": 1,
+      "example_words": [
+        "juan"
+      ],
+      "pattern_examples": [
+        "j[uan]"
+      ],
+      "description": "Expansion of 'uan' hidden under abbreviation mark"
+    },
+    "ueguardauan": {
+      "count": 1,
+      "example_words": [
+        "queguardauan"
+      ],
+      "pattern_examples": [
+        "q[ueguardauan]"
+      ],
+      "description": "Expansion of 'ueguardauan' hidden under abbreviation mark"
+    },
+    "reguntadasy": {
+      "count": 1,
+      "example_words": [
+        "preguntadasy"
+      ],
+      "pattern_examples": [
+        "p[reguntadasy]"
+      ],
+      "description": "Expansion of 'reguntadasy' hidden under abbreviation mark"
+    },
+    "ueabaxauan": {
+      "count": 1,
+      "example_words": [
+        "queabaxauan"
+      ],
+      "pattern_examples": [
+        "q[ueabaxauan]"
+      ],
+      "description": "Expansion of 'ueabaxauan' hidden under abbreviation mark"
+    },
+    "uelas": {
+      "count": 1,
+      "example_words": [
+        "quelas"
+      ],
+      "pattern_examples": [
+        "q[uelas]"
+      ],
+      "description": "Expansion of 'uelas' hidden under abbreviation mark"
+    },
+    "nquenun": {
+      "count": 1,
+      "example_words": [
+        "lodauanquenunca"
+      ],
+      "pattern_examples": [
+        "enlodaua[nquenun]ca"
+      ],
+      "description": "Expansion of 'nquenun' hidden under abbreviation mark"
+    },
+    "uardauan": {
+      "count": 1,
+      "example_words": [
+        "guardauan"
+      ],
+      "pattern_examples": [
+        "g[uardauan]"
+      ],
+      "description": "Expansion of 'uardauan' hidden under abbreviation mark"
+    },
+    "reguntadaque": {
+      "count": 1,
+      "example_words": [
+        "preguntadaque"
+      ],
+      "pattern_examples": [
+        "p[reguntadaque]"
+      ],
+      "description": "Expansion of 'reguntadaque' hidden under abbreviation mark"
+    },
+    "arcia": {
+      "count": 1,
+      "example_words": [
+        "garcia"
+      ],
+      "pattern_examples": [
+        "g[arcia]"
+      ],
+      "description": "Expansion of 'arcia' hidden under abbreviation mark"
+    },
+    "uedella": {
+      "count": 1,
+      "example_words": [
+        "quedella"
+      ],
+      "pattern_examples": [
+        "q[uedella]"
+      ],
+      "description": "Expansion of 'uedella' hidden under abbreviation mark"
+    },
+    "erver": {
+      "count": 1,
+      "example_words": [
+        "serverdad"
+      ],
+      "pattern_examples": [
+        "s[erver]dad"
+      ],
+      "description": "Expansion of 'erver' hidden under abbreviation mark"
+    },
+    "everen": {
+      "count": 1,
+      "example_words": [
+        "reveren"
+      ],
+      "pattern_examples": [
+        "r[everen]"
+      ],
+      "description": "Expansion of 'everen' hidden under abbreviation mark"
+    },
+    "nporque": {
+      "count": 1,
+      "example_words": [
+        "holgauanporque"
+      ],
+      "pattern_examples": [
+        "holgaua[nporque]"
+      ],
+      "description": "Expansion of 'nporque' hidden under abbreviation mark"
+    },
+    "tachado": {
+      "count": 1,
+      "example_words": [
+        "ntachado"
+      ],
+      "pattern_examples": [
+        "n[tachado]"
+      ],
+      "description": "Expansion of 'tachado' hidden under abbreviation mark"
+    },
+    "rnes": {
+      "count": 1,
+      "example_words": [
+        "vjernes"
+      ],
+      "pattern_examples": [
+        "vje[rnes]"
+      ],
+      "description": "Expansion of 'rnes' hidden under abbreviation mark"
+    },
+    "rqueholgauan": {
+      "count": 1,
+      "example_words": [
+        "porqueholgauan"
+      ],
+      "pattern_examples": [
+        "po[rqueholgauan]"
+      ],
+      "description": "Expansion of 'rqueholgauan' hidden under abbreviation mark"
+    },
+    "edesttestigoque": {
+      "count": 1,
+      "example_words": [
+        "madredesttestigoque"
+      ],
+      "pattern_examples": [
+        "madr[edesttestigoque]"
+      ],
+      "description": "Expansion of 'edesttestigoque' hidden under abbreviation mark"
+    },
+    "testigoquequa": {
+      "count": 1,
+      "example_words": [
+        "esttestigoquequando"
+      ],
+      "pattern_examples": [
+        "est[testigoquequa]ndo"
+      ],
+      "description": "Expansion of 'testigoquequa' hidden under abbreviation mark"
+    },
+    "testigoyaotro": {
+      "count": 1,
+      "example_words": [
+        "aesttestigoyaotros"
+      ],
+      "pattern_examples": [
+        "aest[testigoyaotro]s"
+      ],
+      "description": "Expansion of 'testigoyaotro' hidden under abbreviation mark"
+    },
+    "uesu": {
+      "count": 1,
+      "example_words": [
+        "quesu"
+      ],
+      "pattern_examples": [
+        "q[uesu]"
+      ],
+      "description": "Expansion of 'uesu' hidden under abbreviation mark"
+    },
+    "equa": {
+      "count": 1,
+      "example_words": [
+        "madrequando"
+      ],
+      "pattern_examples": [
+        "madr[equa]ndo"
+      ],
+      "description": "Expansion of 'equa' hidden under abbreviation mark"
+    },
+    "nsanche": {
+      "count": 1,
+      "example_words": [
+        "symonsanchez"
+      ],
+      "pattern_examples": [
+        "symo[nsanche]z"
+      ],
+      "description": "Expansion of 'nsanche' hidden under abbreviation mark"
+    },
+    "ueaque": {
+      "count": 1,
+      "example_words": [
+        "queaquella"
+      ],
+      "pattern_examples": [
+        "q[ueaque]lla"
+      ],
+      "description": "Expansion of 'ueaque' hidden under abbreviation mark"
+    },
+    "testigoquesabe": {
+      "count": 1,
+      "example_words": [
+        "esttestigoquesabe"
+      ],
+      "pattern_examples": [
+        "est[testigoquesabe]"
+      ],
+      "description": "Expansion of 'testigoquesabe' hidden under abbreviation mark"
+    },
+    "ueferna": {
+      "count": 1,
+      "example_words": [
+        "quefernand"
+      ],
+      "pattern_examples": [
+        "q[ueferna]nd"
+      ],
+      "description": "Expansion of 'ueferna' hidden under abbreviation mark"
+    },
+    "na": {
+      "count": 1,
+      "example_words": [
+        "fernand"
+      ],
+      "pattern_examples": [
+        "fer[na]nd"
+      ],
+      "description": "Expansion of 'na' hidden under abbreviation mark"
+    },
+    "testigo": {
+      "count": 1,
+      "example_words": [
+        "desttestigo"
+      ],
+      "pattern_examples": [
+        "dest[testigo]"
+      ],
+      "description": "Expansion of 'testigo' hidden under abbreviation mark"
+    },
+    "ndaron": {
+      "count": 1,
+      "example_words": [
+        "mandaron"
+      ],
+      "pattern_examples": [
+        "ma[ndaron]"
+      ],
+      "description": "Expansion of 'ndaron' hidden under abbreviation mark"
+    },
+    "uebe": {
+      "count": 1,
+      "example_words": [
+        "quebe"
+      ],
+      "pattern_examples": [
+        "q[uebe]"
+      ],
+      "description": "Expansion of 'uebe' hidden under abbreviation mark"
+    },
+    "njuanferrandez": {
+      "count": 1,
+      "example_words": [
+        "conjuanferrandez"
+      ],
+      "pattern_examples": [
+        "co[njuanferrandez]"
+      ],
+      "description": "Expansion of 'njuanferrandez' hidden under abbreviation mark"
+    },
+    "rdel": {
+      "count": 1,
+      "example_words": [
+        "mugerdel"
+      ],
+      "pattern_examples": [
+        "muge[rdel]"
+      ],
+      "description": "Expansion of 'rdel' hidden under abbreviation mark"
+    },
+    "ncalçone": {
+      "count": 1,
+      "example_words": [
+        "concalçones"
+      ],
+      "pattern_examples": [
+        "co[ncalçone]s"
+      ],
+      "description": "Expansion of 'ncalçone' hidden under abbreviation mark"
+    },
+    "ermanade": {
+      "count": 1,
+      "example_words": [
+        "hermanadela"
+      ],
+      "pattern_examples": [
+        "h[ermanade]la"
+      ],
+      "description": "Expansion of 'ermanade' hidden under abbreviation mark"
+    },
+    "rnan": {
+      "count": 1,
+      "example_words": [
+        "fernando"
+      ],
+      "pattern_examples": [
+        "fe[rnan]do"
+      ],
+      "description": "Expansion of 'rnan' hidden under abbreviation mark"
+    },
+    "ermana": {
+      "count": 1,
+      "example_words": [
+        "hermana"
+      ],
+      "pattern_examples": [
+        "h[ermana]"
+      ],
+      "description": "Expansion of 'ermana' hidden under abbreviation mark"
+    },
+    "onzalo": {
+      "count": 1,
+      "example_words": [
+        "gonzalo"
+      ],
+      "pattern_examples": [
+        "g[onzalo]"
+      ],
+      "description": "Expansion of 'onzalo' hidden under abbreviation mark"
+    },
+    "everenciaspresente": {
+      "count": 1,
+      "example_words": [
+        "reverenciaspresentes"
+      ],
+      "pattern_examples": [
+        "r[everenciaspresente]s"
+      ],
+      "description": "Expansion of 'everenciaspresente' hidden under abbreviation mark"
+    },
+    "ndran": {
+      "count": 1,
+      "example_words": [
+        "villandrando"
+      ],
+      "pattern_examples": [
+        "villa[ndran]do"
+      ],
+      "description": "Expansion of 'ndran' hidden under abbreviation mark"
+    },
+    "nfisyon": {
+      "count": 1,
+      "example_words": [
+        "confisyon"
+      ],
+      "pattern_examples": [
+        "co[nfisyon]"
+      ],
+      "description": "Expansion of 'nfisyon' hidden under abbreviation mark"
+    },
+    "ueaqui": {
+      "count": 1,
+      "example_words": [
+        "queaqui"
+      ],
+      "pattern_examples": [
+        "q[ueaqui]"
+      ],
+      "description": "Expansion of 'ueaqui' hidden under abbreviation mark"
+    },
+    "enciadofernan": {
+      "count": 1,
+      "example_words": [
+        "ljcenciadofernando"
+      ],
+      "pattern_examples": [
+        "ljc[enciadofernan]do"
+      ],
+      "description": "Expansion of 'enciadofernan' hidden under abbreviation mark"
+    },
+    "ande": {
+      "count": 1,
+      "example_words": [
+        "juande"
+      ],
+      "pattern_examples": [
+        "ju[ande]"
+      ],
+      "description": "Expansion of 'ande' hidden under abbreviation mark"
+    },
+    "ntamen": {
+      "count": 1,
+      "example_words": [
+        "juntamente"
+      ],
+      "pattern_examples": [
+        "ju[ntamen]te"
+      ],
+      "description": "Expansion of 'ntamen' hidden under abbreviation mark"
+    },
+    "analuare": {
+      "count": 1,
+      "example_words": [
+        "juanaluarez"
+      ],
+      "pattern_examples": [
+        "ju[analuare]z"
+      ],
+      "description": "Expansion of 'analuare' hidden under abbreviation mark"
+    },
+    "roujsor": {
+      "count": 1,
+      "example_words": [
+        "proujsor"
+      ],
+      "pattern_examples": [
+        "p[roujsor]"
+      ],
+      "description": "Expansion of 'roujsor' hidden under abbreviation mark"
+    },
+    "nforme": {
+      "count": 1,
+      "example_words": [
+        "conformes"
+      ],
+      "pattern_examples": [
+        "co[nforme]s"
+      ],
+      "description": "Expansion of 'nforme' hidden under abbreviation mark"
+    },
+    "ndepnada": {
+      "count": 1,
+      "example_words": [
+        "cndepnada"
+      ],
+      "pattern_examples": [
+        "c[ndepnada]"
+      ],
+      "description": "Expansion of 'ndepnada' hidden under abbreviation mark"
+    },
+    "nores": {
+      "count": 1,
+      "example_words": [
+        "sennores"
+      ],
+      "pattern_examples": [
+        "sen[nores]"
+      ],
+      "description": "Expansion of 'nores' hidden under abbreviation mark"
+    },
+    "ariode": {
+      "count": 1,
+      "example_words": [
+        "notariodela"
+      ],
+      "pattern_examples": [
+        "not[ariode]la"
+      ],
+      "description": "Expansion of 'ariode' hidden under abbreviation mark"
+    },
+    "errandez": {
+      "count": 1,
+      "example_words": [
+        "ferrandez"
+      ],
+      "pattern_examples": [
+        "f[errandez]"
+      ],
+      "description": "Expansion of 'errandez' hidden under abbreviation mark"
+    },
+    "ntra": {
+      "count": 1,
+      "example_words": [
+        "contra"
+      ],
+      "pattern_examples": [
+        "co[ntra]"
+      ],
+      "description": "Expansion of 'ntra' hidden under abbreviation mark"
+    },
+    "erdon": {
+      "count": 1,
+      "example_words": [
+        "perdon"
+      ],
+      "pattern_examples": [
+        "p[erdon]"
+      ],
+      "description": "Expansion of 'erdon' hidden under abbreviation mark"
+    },
+    "ndiçion": {
+      "count": 1,
+      "example_words": [
+        "bendiçion"
+      ],
+      "pattern_examples": [
+        "be[ndiçion]"
+      ],
+      "description": "Expansion of 'ndiçion' hidden under abbreviation mark"
+    },
+    "nben": {
+      "count": 1,
+      "example_words": [
+        "dixesenben"
+      ],
+      "pattern_examples": [
+        "dixese[nben]"
+      ],
+      "description": "Expansion of 'nben' hidden under abbreviation mark"
+    },
+    "ncluyeron": {
+      "count": 1,
+      "example_words": [
+        "concluyeron"
+      ],
+      "pattern_examples": [
+        "co[ncluyeron]"
+      ],
+      "description": "Expansion of 'ncluyeron' hidden under abbreviation mark"
+    },
+    "ncordia": {
+      "count": 1,
+      "example_words": [
+        "concordia"
+      ],
+      "pattern_examples": [
+        "co[ncordia]"
+      ],
+      "description": "Expansion of 'ncordia' hidden under abbreviation mark"
+    },
+    "nfesionque": {
+      "count": 1,
+      "example_words": [
+        "confesionquela"
+      ],
+      "pattern_examples": [
+        "co[nfesionque]la"
+      ],
+      "description": "Expansion of 'nfesionque' hidden under abbreviation mark"
+    },
+    "mpljdamen": {
+      "count": 1,
+      "example_words": [
+        "compljdamente"
+      ],
+      "pattern_examples": [
+        "co[mpljdamen]te"
+      ],
+      "description": "Expansion of 'mpljdamen' hidden under abbreviation mark"
+    },
+    "nfiscaçion": {
+      "count": 1,
+      "example_words": [
+        "confiscaçion"
+      ],
+      "pattern_examples": [
+        "enco[nfiscaçion]"
+      ],
+      "description": "Expansion of 'nfiscaçion' hidden under abbreviation mark"
+    },
+    "erdimjen": {
+      "count": 1,
+      "example_words": [
+        "perdimjento"
+      ],
+      "pattern_examples": [
+        "p[erdimjen]to"
+      ],
+      "description": "Expansion of 'erdimjen' hidden under abbreviation mark"
+    },
+    "ndela": {
+      "count": 1,
+      "example_words": [
+        "vnjondela"
+      ],
+      "pattern_examples": [
+        "vnjo[ndela]"
+      ],
+      "description": "Expansion of 'ndela' hidden under abbreviation mark"
+    },
+    "itenci": {
+      "count": 1,
+      "example_words": [
+        "penjitencia"
+      ],
+      "pattern_examples": [
+        "penj[itenci]a"
+      ],
+      "description": "Expansion of 'itenci' hidden under abbreviation mark"
+    },
+    "ermane": {
+      "count": 1,
+      "example_words": [
+        "permane"
+      ],
+      "pattern_examples": [
+        "p[ermane]"
+      ],
+      "description": "Expansion of 'ermane' hidden under abbreviation mark"
+    },
+    "rabausjnquisitor": {
+      "count": 1,
+      "example_words": [
+        "centenerabausjnquisitor"
+      ],
+      "pattern_examples": [
+        "centene[rabausjnquisitor]"
+      ],
+      "description": "Expansion of 'rabausjnquisitor' hidden under abbreviation mark"
+    },
+    "resbite": {
+      "count": 1,
+      "example_words": [
+        "azpresbiter"
+      ],
+      "pattern_examples": [
+        "azp[resbite]r"
+      ],
+      "description": "Expansion of 'resbite' hidden under abbreviation mark"
+    },
+    "rimero": {
+      "count": 1,
+      "example_words": [
+        "primero"
+      ],
+      "pattern_examples": [
+        "p[rimero]"
+      ],
+      "description": "Expansion of 'rimero' hidden under abbreviation mark"
+    },
+    "verendossennore": {
+      "count": 1,
+      "example_words": [
+        "reverendossennores"
+      ],
+      "pattern_examples": [
+        "re[verendossennore]s"
+      ],
+      "description": "Expansion of 'verendossennore' hidden under abbreviation mark"
+    },
+    "egodebarreda": {
+      "count": 1,
+      "example_words": [
+        "diegodebarreda"
+      ],
+      "pattern_examples": [
+        "di[egodebarreda]"
+      ],
+      "description": "Expansion of 'egodebarreda' hidden under abbreviation mark"
+    },
+    "arioappostolico": {
+      "count": 1,
+      "example_words": [
+        "notarioappostolico"
+      ],
+      "pattern_examples": [
+        "not[arioappostolico]"
+      ],
+      "description": "Expansion of 'arioappostolico' hidden under abbreviation mark"
+    },
+    "ermon": {
+      "count": 1,
+      "example_words": [
+        "sermon"
+      ],
+      "pattern_examples": [
+        "s[ermon]"
+      ],
+      "description": "Expansion of 'ermon' hidden under abbreviation mark"
+    },
+    "us": {
+      "count": 1,
+      "example_words": [
+        "corpus"
+      ],
+      "pattern_examples": [
+        "corp[us]"
+      ],
+      "description": "Expansion of 'us' hidden under abbreviation mark"
+    },
+    "egode": {
+      "count": 1,
+      "example_words": [
+        "diegode"
+      ],
+      "pattern_examples": [
+        "di[egode]"
+      ],
+      "description": "Expansion of 'egode' hidden under abbreviation mark"
+    },
+    "ias": {
+      "count": 1,
+      "example_words": [
+        "dias"
+      ],
+      "pattern_examples": [
+        "d[ias]"
+      ],
+      "description": "Expansion of 'ias' hidden under abbreviation mark"
+    },
+    "agnifico": {
+      "count": 1,
+      "example_words": [
+        "magnifico"
+      ],
+      "pattern_examples": [
+        "m[agnifico]"
+      ],
+      "description": "Expansion of 'agnifico' hidden under abbreviation mark"
+    },
+    "calde": {
+      "count": 1,
+      "example_words": [
+        "caldes"
+      ],
+      "pattern_examples": [
+        "al[calde]s"
+      ],
+      "description": "Expansion of 'calde' hidden under abbreviation mark"
+    },
+    "erçedlin": {
+      "count": 1,
+      "example_words": [
+        "merçedlin"
+      ],
+      "pattern_examples": [
+        "m[erçedlin]"
+      ],
+      "description": "Expansion of 'erçedlin' hidden under abbreviation mark"
+    },
+    "ezinodellrena": {
+      "count": 1,
+      "example_words": [
+        "vezinodellrena"
+      ],
+      "pattern_examples": [
+        "v[ezinodellrena]"
+      ],
+      "description": "Expansion of 'ezinodellrena' hidden under abbreviation mark"
+    },
+    "nterminodell": {
+      "count": 1,
+      "example_words": [
+        "terminodell"
+      ],
+      "pattern_examples": [
+        "e[nterminodell]"
+      ],
+      "description": "Expansion of 'nterminodell' hidden under abbreviation mark"
+    },
+    "ntermjnodellrena": {
+      "count": 1,
+      "example_words": [
+        "termjnodellrena"
+      ],
+      "pattern_examples": [
+        "e[ntermjnodellrena]"
+      ],
+      "description": "Expansion of 'ntermjnodellrena' hidden under abbreviation mark"
+    },
+    "ntermjno": {
+      "count": 1,
+      "example_words": [
+        "termjno"
+      ],
+      "pattern_examples": [
+        "e[ntermjno]"
+      ],
+      "description": "Expansion of 'ntermjno' hidden under abbreviation mark"
+    },
+    "ezinodestavilla": {
+      "count": 1,
+      "example_words": [
+        "vezinodestavilla"
+      ],
+      "pattern_examples": [
+        "v[ezinodestavilla]"
+      ],
+      "description": "Expansion of 'ezinodestavilla' hidden under abbreviation mark"
+    },
+    "ristoua": {
+      "count": 1,
+      "example_words": [
+        "xristoual"
+      ],
+      "pattern_examples": [
+        "x[ristoua]l"
+      ],
+      "description": "Expansion of 'ristoua' hidden under abbreviation mark"
+    },
+    "nnueva": {
+      "count": 1,
+      "example_words": [
+        "derruannueva"
+      ],
+      "pattern_examples": [
+        "derrua[nnueva]"
+      ],
+      "description": "Expansion of 'nnueva' hidden under abbreviation mark"
+    },
+    "erde": {
+      "count": 1,
+      "example_words": [
+        "verde"
+      ],
+      "pattern_examples": [
+        "v[erde]"
+      ],
+      "description": "Expansion of 'erde' hidden under abbreviation mark"
+    },
+    "ermas": {
+      "count": 1,
+      "example_words": [
+        "avermas"
+      ],
+      "pattern_examples": [
+        "av[ermas]"
+      ],
+      "description": "Expansion of 'ermas' hidden under abbreviation mark"
+    },
+    "çiscode": {
+      "count": 1,
+      "example_words": [
+        "françiscodelos"
+      ],
+      "pattern_examples": [
+        "fran[çiscode]los"
+      ],
+      "description": "Expansion of 'çiscode' hidden under abbreviation mark"
+    },
+    "crivanopublico": {
+      "count": 1,
+      "example_words": [
+        "escrivanopublico"
+      ],
+      "pattern_examples": [
+        "es[crivanopublico]"
+      ],
+      "description": "Expansion of 'crivanopublico' hidden under abbreviation mark"
+    },
+    "urisdiçionybiene": {
+      "count": 1,
+      "example_words": [
+        "xurisdiçionybienes"
+      ],
+      "pattern_examples": [
+        "x[urisdiçionybiene]s"
+      ],
+      "description": "Expansion of 'urisdiçionybiene' hidden under abbreviation mark"
+    },
+    "alina": {
+      "count": 1,
+      "example_words": [
+        "catalina"
+      ],
+      "pattern_examples": [
+        "cat[alina]"
+      ],
+      "description": "Expansion of 'alina' hidden under abbreviation mark"
+    },
+    "enda": {
+      "count": 1,
+      "example_words": [
+        "comjenda"
+      ],
+      "pattern_examples": [
+        "comj[enda]"
+      ],
+      "description": "Expansion of 'enda' hidden under abbreviation mark"
+    },
+    "nientos": {
+      "count": 1,
+      "example_words": [
+        "quinientos"
+      ],
+      "pattern_examples": [
+        "qui[nientos]"
+      ],
+      "description": "Expansion of 'nientos' hidden under abbreviation mark"
+    },
+    "ustrisimo": {
+      "count": 1,
+      "example_words": [
+        "illustrisimo"
+      ],
+      "pattern_examples": [
+        "ill[ustrisimo]"
+      ],
+      "description": "Expansion of 'ustrisimo' hidden under abbreviation mark"
+    },
+    "iuanopublico": {
+      "count": 1,
+      "example_words": [
+        "scriuanopublico"
+      ],
+      "pattern_examples": [
+        "scr[iuanopublico]"
+      ],
+      "description": "Expansion of 'iuanopublico' hidden under abbreviation mark"
+    },
+    "ando": {
+      "count": 1,
+      "example_words": [
+        "yestando"
+      ],
+      "pattern_examples": [
+        "yest[ando]"
+      ],
+      "description": "Expansion of 'ando' hidden under abbreviation mark"
+    },
+    "andela": {
+      "count": 1,
+      "example_words": [
+        "juandela"
+      ],
+      "pattern_examples": [
+        "ju[andela]"
+      ],
+      "description": "Expansion of 'andela' hidden under abbreviation mark"
+    },
+    "ichoalguazil": {
+      "count": 1,
+      "example_words": [
+        "dichoalguazil"
+      ],
+      "pattern_examples": [
+        "d[ichoalguazil]"
+      ],
+      "description": "Expansion of 'ichoalguazil' hidden under abbreviation mark"
+    },
+    "iuanofue": {
+      "count": 1,
+      "example_words": [
+        "scriuanofue"
+      ],
+      "pattern_examples": [
+        "scr[iuanofue]"
+      ],
+      "description": "Expansion of 'iuanofue' hidden under abbreviation mark"
+    },
+    "ichomiguel": {
+      "count": 1,
+      "example_words": [
+        "dichomiguel"
+      ],
+      "pattern_examples": [
+        "d[ichomiguel]"
+      ],
+      "description": "Expansion of 'ichomiguel' hidden under abbreviation mark"
+    },
+    "enos": {
+      "count": 1,
+      "example_words": [
+        "menos"
+      ],
+      "pattern_examples": [
+        "m[enos]"
+      ],
+      "description": "Expansion of 'enos' hidden under abbreviation mark"
+    },
+    "anmateos": {
+      "count": 1,
+      "example_words": [
+        "juanmateos"
+      ],
+      "pattern_examples": [
+        "ju[anmateos]"
+      ],
+      "description": "Expansion of 'anmateos' hidden under abbreviation mark"
+    },
+    "ionde": {
+      "count": 1,
+      "example_words": [
+        "sesionde"
+      ],
+      "pattern_examples": [
+        "ses[ionde]"
+      ],
+      "description": "Expansion of 'ionde' hidden under abbreviation mark"
+    },
+    "onyotestigo": {
+      "count": 1,
+      "example_words": [
+        "monyotestigos"
+      ],
+      "pattern_examples": [
+        "m[onyotestigo]s"
+      ],
+      "description": "Expansion of 'onyotestigo' hidden under abbreviation mark"
+    },
+    "nandoalonso": {
+      "count": 1,
+      "example_words": [
+        "hernandoalonso"
+      ],
+      "pattern_examples": [
+        "her[nandoalonso]"
+      ],
+      "description": "Expansion of 'nandoalonso' hidden under abbreviation mark"
+    },
+    "ichoal": {
+      "count": 1,
+      "example_words": [
+        "dichoal"
+      ],
+      "pattern_examples": [
+        "d[ichoal]"
+      ],
+      "description": "Expansion of 'ichoal' hidden under abbreviation mark"
+    },
+    "ezinodellerena": {
+      "count": 1,
+      "example_words": [
+        "vezinodellerena"
+      ],
+      "pattern_examples": [
+        "v[ezinodellerena]"
+      ],
+      "description": "Expansion of 'ezinodellerena' hidden under abbreviation mark"
+    },
+    "ichomandamyento": {
+      "count": 1,
+      "example_words": [
+        "dichomandamyento"
+      ],
+      "pattern_examples": [
+        "d[ichomandamyento]"
+      ],
+      "description": "Expansion of 'ichomandamyento' hidden under abbreviation mark"
+    },
+    "da": {
+      "count": 1,
+      "example_words": [
+        "comienda"
+      ],
+      "pattern_examples": [
+        "comien[da]"
+      ],
+      "description": "Expansion of 'da' hidden under abbreviation mark"
+    },
+    "ntrega": {
+      "count": 1,
+      "example_words": [
+        "trega"
+      ],
+      "pattern_examples": [
+        "e[ntrega]"
+      ],
+      "description": "Expansion of 'ntrega' hidden under abbreviation mark"
+    },
+    "entosonlos": {
+      "count": 1,
+      "example_words": [
+        "mandamyentosonlos"
+      ],
+      "pattern_examples": [
+        "mandamy[entosonlos]"
+      ],
+      "description": "Expansion of 'entosonlos' hidden under abbreviation mark"
+    },
+    "arapared": {
+      "count": 1,
+      "example_words": [
+        "parapared"
+      ],
+      "pattern_examples": [
+        "p[arapared]"
+      ],
+      "description": "Expansion of 'arapared' hidden under abbreviation mark"
+    },
+    "nvayeta": {
+      "count": 1,
+      "example_words": [
+        "vayeta"
+      ],
+      "pattern_examples": [
+        "e[nvayeta]"
+      ],
+      "description": "Expansion of 'nvayeta' hidden under abbreviation mark"
+    },
+    "eñora": {
+      "count": 1,
+      "example_words": [
+        "señora"
+      ],
+      "pattern_examples": [
+        "s[eñora]"
+      ],
+      "description": "Expansion of 'eñora' hidden under abbreviation mark"
+    },
+    "uebrada": {
+      "count": 1,
+      "example_words": [
+        "quebrada"
+      ],
+      "pattern_examples": [
+        "q[uebrada]"
+      ],
+      "description": "Expansion of 'uebrada' hidden under abbreviation mark"
+    },
+    "ichoman": {
+      "count": 1,
+      "example_words": [
+        "dichoman"
+      ],
+      "pattern_examples": [
+        "d[ichoman]"
+      ],
+      "description": "Expansion of 'ichoman' hidden under abbreviation mark"
+    },
+    "onsode": {
+      "count": 1,
+      "example_words": [
+        "nsode"
+      ],
+      "pattern_examples": [
+        "al[onsode]"
+      ],
+      "description": "Expansion of 'onsode' hidden under abbreviation mark"
+    },
+    "onsoescryuano": {
+      "count": 1,
+      "example_words": [
+        "andoalonsoescryuano"
+      ],
+      "pattern_examples": [
+        "andoal[onsoescryuano]"
+      ],
+      "description": "Expansion of 'onsoescryuano' hidden under abbreviation mark"
+    },
+    "illadetalavera": {
+      "count": 1,
+      "example_words": [
+        "villadetalavera"
+      ],
+      "pattern_examples": [
+        "v[illadetalavera]"
+      ],
+      "description": "Expansion of 'illadetalavera' hidden under abbreviation mark"
+    },
+    "uanto": {
+      "count": 1,
+      "example_words": [
+        "quanto"
+      ],
+      "pattern_examples": [
+        "q[uanto]"
+      ],
+      "description": "Expansion of 'uanto' hidden under abbreviation mark"
+    },
+    "onsogarçi": {
+      "count": 1,
+      "example_words": [
+        "dealonsogarçia"
+      ],
+      "pattern_examples": [
+        "deal[onsogarçi]a"
+      ],
+      "description": "Expansion of 'onsogarçi' hidden under abbreviation mark"
+    },
+    "eçibido": {
+      "count": 1,
+      "example_words": [
+        "reçibido"
+      ],
+      "pattern_examples": [
+        "r[eçibido]"
+      ],
+      "description": "Expansion of 'eçibido' hidden under abbreviation mark"
+    },
+    "onsogarçiacavalleravuest": {
+      "count": 1,
+      "example_words": [
+        "nsogarçiacavalleravuestrotutor"
+      ],
+      "pattern_examples": [
+        "al[onsogarçiacavalleravuest]rotutor"
+      ],
+      "description": "Expansion of 'onsogarçiacavalleravuest' hidden under abbreviation mark"
+    },
+    "edromart": {
+      "count": 1,
+      "example_words": [
+        "pedromartjn"
+      ],
+      "pattern_examples": [
+        "p[edromart]jn"
+      ],
+      "description": "Expansion of 'edromart' hidden under abbreviation mark"
+    },
+    "ciscogarciavezino": {
+      "count": 1,
+      "example_words": [
+        "franciscogarciavezinos"
+      ],
+      "pattern_examples": [
+        "fran[ciscogarciavezino]s"
+      ],
+      "description": "Expansion of 'ciscogarciavezino' hidden under abbreviation mark"
+    },
+    "ueestan": {
+      "count": 1,
+      "example_words": [
+        "queestan"
+      ],
+      "pattern_examples": [
+        "q[ueestan]"
+      ],
+      "description": "Expansion of 'ueestan' hidden under abbreviation mark"
+    },
+    "artolomegarcia": {
+      "count": 1,
+      "example_words": [
+        "ybartolomegarcia"
+      ],
+      "pattern_examples": [
+        "yb[artolomegarcia]"
+      ],
+      "description": "Expansion of 'artolomegarcia' hidden under abbreviation mark"
+    },
+    "alinaalonsocoma": {
+      "count": 1,
+      "example_words": [
+        "catalinaalonsocoma"
+      ],
+      "pattern_examples": [
+        "cat[alinaalonsocoma]"
+      ],
+      "description": "Expansion of 'alinaalonsocoma' hidden under abbreviation mark"
+    },
+    "uente": {
+      "count": 1,
+      "example_words": [
+        "fuente"
+      ],
+      "pattern_examples": [
+        "f[uente]"
+      ],
+      "description": "Expansion of 'uente' hidden under abbreviation mark"
+    },
+    "erta": {
+      "count": 1,
+      "example_words": [
+        "guerta"
+      ],
+      "pattern_examples": [
+        "gu[erta]"
+      ],
+      "description": "Expansion of 'erta' hidden under abbreviation mark"
+    },
+    "allerayalinda": {
+      "count": 1,
+      "example_words": [
+        "cavallerayalinda"
+      ],
+      "pattern_examples": [
+        "cav[allerayalinda]"
+      ],
+      "description": "Expansion of 'allerayalinda' hidden under abbreviation mark"
+    },
+    "aratraspalar": {
+      "count": 1,
+      "example_words": [
+        "paratraspalar"
+      ],
+      "pattern_examples": [
+        "p[aratraspalar]"
+      ],
+      "description": "Expansion of 'aratraspalar' hidden under abbreviation mark"
+    },
+    "arato": {
+      "count": 1,
+      "example_words": [
+        "parato"
+      ],
+      "pattern_examples": [
+        "p[arato]"
+      ],
+      "description": "Expansion of 'arato' hidden under abbreviation mark"
+    },
+    "eynte": {
+      "count": 1,
+      "example_words": [
+        "veynte"
+      ],
+      "pattern_examples": [
+        "v[eynte]"
+      ],
+      "description": "Expansion of 'eynte' hidden under abbreviation mark"
+    },
+    "adoochomaravedis": {
+      "count": 1,
+      "example_words": [
+        "gadoochomaravedis"
+      ],
+      "pattern_examples": [
+        "delg[adoochomaravedis]"
+      ],
+      "description": "Expansion of 'adoochomaravedis' hidden under abbreviation mark"
+    },
+    "ngostos": {
+      "count": 1,
+      "example_words": [
+        "angostos"
+      ],
+      "pattern_examples": [
+        "a[ngostos]"
+      ],
+      "description": "Expansion of 'ngostos' hidden under abbreviation mark"
+    },
+    "ejnteyqua": {
+      "count": 1,
+      "example_words": [
+        "vejnteyqua"
+      ],
+      "pattern_examples": [
+        "v[ejnteyqua]"
+      ],
+      "description": "Expansion of 'ejnteyqua' hidden under abbreviation mark"
+    },
+    "uentas": {
+      "count": 1,
+      "example_words": [
+        "quentas"
+      ],
+      "pattern_examples": [
+        "q[uentas]"
+      ],
+      "description": "Expansion of 'uentas' hidden under abbreviation mark"
+    },
+    "ealymedio": {
+      "count": 1,
+      "example_words": [
+        "realymedio"
+      ],
+      "pattern_examples": [
+        "r[ealymedio]"
+      ],
+      "description": "Expansion of 'ealymedio' hidden under abbreviation mark"
+    },
+    "ejntemaravedis": {
+      "count": 1,
+      "example_words": [
+        "vejntemaravedis"
+      ],
+      "pattern_examples": [
+        "v[ejntemaravedis]"
+      ],
+      "description": "Expansion of 'ejntemaravedis' hidden under abbreviation mark"
+    },
+    "edrogarçiabermejo": {
+      "count": 1,
+      "example_words": [
+        "pedrogarçiabermejo"
+      ],
+      "pattern_examples": [
+        "p[edrogarçiabermejo]"
+      ],
+      "description": "Expansion of 'edrogarçiabermejo' hidden under abbreviation mark"
+    },
+    "arteque": {
+      "count": 1,
+      "example_words": [
+        "parteque"
+      ],
+      "pattern_examples": [
+        "p[arteque]"
+      ],
+      "description": "Expansion of 'arteque' hidden under abbreviation mark"
+    },
+    "igodelal": {
+      "count": 1,
+      "example_words": [
+        "trigodelal"
+      ],
+      "pattern_examples": [
+        "tr[igodelal]"
+      ],
+      "description": "Expansion of 'igodelal' hidden under abbreviation mark"
+    },
+    "uentaquese": {
+      "count": 1,
+      "example_words": [
+        "quentaquese"
+      ],
+      "pattern_examples": [
+        "q[uentaquese]"
+      ],
+      "description": "Expansion of 'uentaquese' hidden under abbreviation mark"
+    },
+    "onsogarçiavuest": {
+      "count": 1,
+      "example_words": [
+        "nsogarçiavuestro"
+      ],
+      "pattern_examples": [
+        "al[onsogarçiavuest]ro"
+      ],
+      "description": "Expansion of 'onsogarçiavuest' hidden under abbreviation mark"
+    },
+    "eçibe": {
+      "count": 1,
+      "example_words": [
+        "reçibe"
+      ],
+      "pattern_examples": [
+        "r[eçibe]"
+      ],
+      "description": "Expansion of 'eçibe' hidden under abbreviation mark"
+    },
+    "uefueal": {
+      "count": 1,
+      "example_words": [
+        "quefueal"
+      ],
+      "pattern_examples": [
+        "q[uefueal]"
+      ],
+      "description": "Expansion of 'uefueal' hidden under abbreviation mark"
+    },
+    "onsogarçiavuestro": {
+      "count": 1,
+      "example_words": [
+        "nsogarçiavuestro"
+      ],
+      "pattern_examples": [
+        "al[onsogarçiavuestro]"
+      ],
+      "description": "Expansion of 'onsogarçiavuestro' hidden under abbreviation mark"
+    },
+    "arçiavuest": {
+      "count": 1,
+      "example_words": [
+        "garçiavuestro"
+      ],
+      "pattern_examples": [
+        "g[arçiavuest]ro"
+      ],
+      "description": "Expansion of 'arçiavuest' hidden under abbreviation mark"
+    },
+    "arapodar": {
+      "count": 1,
+      "example_words": [
+        "parapodar"
+      ],
+      "pattern_examples": [
+        "p[arapodar]"
+      ],
+      "description": "Expansion of 'arapodar' hidden under abbreviation mark"
+    },
+    "uenos": {
+      "count": 1,
+      "example_words": [
+        "quenos"
+      ],
+      "pattern_examples": [
+        "q[uenos]"
+      ],
+      "description": "Expansion of 'uenos' hidden under abbreviation mark"
+    },
+    "unçiolas": {
+      "count": 1,
+      "example_words": [
+        "renunçiolas"
+      ],
+      "pattern_examples": [
+        "ren[unçiolas]"
+      ],
+      "description": "Expansion of 'unçiolas' hidden under abbreviation mark"
+    },
+    "eçibidoyel": {
+      "count": 1,
+      "example_words": [
+        "reçibidoyel"
+      ],
+      "pattern_examples": [
+        "r[eçibidoyel]"
+      ],
+      "description": "Expansion of 'eçibidoyel' hidden under abbreviation mark"
+    },
+    "uetengootu": {
+      "count": 1,
+      "example_words": [
+        "quetengootu"
+      ],
+      "pattern_examples": [
+        "q[uetengootu]"
+      ],
+      "description": "Expansion of 'uetengootu' hidden under abbreviation mark"
+    },
+    "al": {
+      "count": 1,
+      "example_words": [
+        "qual"
+      ],
+      "pattern_examples": [
+        "qu[al]"
+      ],
+      "description": "Expansion of 'al' hidden under abbreviation mark"
+    },
+    "igodeladic": {
+      "count": 1,
+      "example_words": [
+        "trigodeladicha"
+      ],
+      "pattern_examples": [
+        "tr[igodeladic]ha"
+      ],
+      "description": "Expansion of 'igodeladic' hidden under abbreviation mark"
+    },
+    "ales": {
+      "count": 1,
+      "example_words": [
+        "quales"
+      ],
+      "pattern_examples": [
+        "qu[ales]"
+      ],
+      "description": "Expansion of 'ales' hidden under abbreviation mark"
+    },
+    "içiasde": {
+      "count": 1,
+      "example_words": [
+        "yjustiçiasde"
+      ],
+      "pattern_examples": [
+        "yjust[içiasde]"
+      ],
+      "description": "Expansion of 'içiasde' hidden under abbreviation mark"
+    },
+    "idiçione": {
+      "count": 1,
+      "example_words": [
+        "juridiçione"
+      ],
+      "pattern_examples": [
+        "jur[idiçione]"
+      ],
+      "description": "Expansion of 'idiçione' hidden under abbreviation mark"
+    },
+    "araque": {
+      "count": 1,
+      "example_words": [
+        "paraque"
+      ],
+      "pattern_examples": [
+        "p[araque]"
+      ],
+      "description": "Expansion of 'araque' hidden under abbreviation mark"
+    },
+    "ecutiva": {
+      "count": 1,
+      "example_words": [
+        "executiva"
+      ],
+      "pattern_examples": [
+        "ex[ecutiva]"
+      ],
+      "description": "Expansion of 'ecutiva' hidden under abbreviation mark"
+    },
+    "unçio": {
+      "count": 1,
+      "example_words": [
+        "renunçio"
+      ],
+      "pattern_examples": [
+        "ren[unçio]"
+      ],
+      "description": "Expansion of 'unçio' hidden under abbreviation mark"
+    },
+    "erechos": {
+      "count": 1,
+      "example_words": [
+        "yderechos"
+      ],
+      "pattern_examples": [
+        "yd[erechos]"
+      ],
+      "description": "Expansion of 'erechos' hidden under abbreviation mark"
+    },
+    "erechoque": {
+      "count": 1,
+      "example_words": [
+        "derechoque"
+      ],
+      "pattern_examples": [
+        "d[erechoque]"
+      ],
+      "description": "Expansion of 'erechoque' hidden under abbreviation mark"
+    },
+    "blicoytestigo": {
+      "count": 1,
+      "example_words": [
+        "publicoytestigos"
+      ],
+      "pattern_examples": [
+        "pu[blicoytestigo]s"
+      ],
+      "description": "Expansion of 'blicoytestigo' hidden under abbreviation mark"
+    },
+    "egoalonso": {
+      "count": 1,
+      "example_words": [
+        "djegoalonso"
+      ],
+      "pattern_examples": [
+        "dj[egoalonso]"
+      ],
+      "description": "Expansion of 'egoalonso' hidden under abbreviation mark"
+    },
+    "ante": {
+      "count": 1,
+      "example_words": [
+        "otorgante"
+      ],
+      "pattern_examples": [
+        "otorg[ante]"
+      ],
+      "description": "Expansion of 'ante' hidden under abbreviation mark"
+    }
+  },
+  "top_abbreviated_words": {
+    "que": {
+      "count": 159,
+      "expansions": [
+        "ue"
+      ],
+      "pages_found_in": 28
+    },
+    "dicho": {
+      "count": 126,
+      "expansions": [
+        "ic",
+        "icho"
+      ],
+      "pages_found_in": 37
+    },
+    "reales": {
+      "count": 84,
+      "expansions": [
+        "eale",
+        "eales"
+      ],
+      "pages_found_in": 13
+    },
+    "dicha": {
+      "count": 80,
+      "expansions": [
+        "ic",
+        "icha"
+      ],
+      "pages_found_in": 27
+    },
+    "dichos": {
+      "count": 48,
+      "expansions": [
+        "ic",
+        "ichos"
+      ],
+      "pages_found_in": 23
+    },
+    "maravedis": {
+      "count": 29,
+      "expansions": [
+        "aravedi",
+        "aravedis"
+      ],
+      "pages_found_in": 13
+    },
+    "testigos": {
+      "count": 29,
+      "expansions": [
+        "e",
+        "esti",
+        "estigo",
+        "estigos"
+      ],
+      "pages_found_in": 13
+    },
+    "muger": {
+      "count": 29,
+      "expansions": [
+        "e",
+        "er",
+        "r"
+      ],
+      "pages_found_in": 6
+    },
+    "real": {
+      "count": 27,
+      "expansions": [
+        "eal"
+      ],
+      "pages_found_in": 9
+    },
+    "para": {
+      "count": 26,
+      "expansions": [
+        "ar",
+        "ara"
+      ],
+      "pages_found_in": 13
+    },
+    "annos": {
+      "count": 22,
+      "expansions": [
+        "n",
+        "nos"
+      ],
+      "pages_found_in": 15
+    },
+    "del": {
+      "count": 19,
+      "expansions": [
+        "e",
+        "el"
+      ],
+      "pages_found_in": 7
+    },
+    "derecho": {
+      "count": 18,
+      "expansions": [
+        "e",
+        "erec",
+        "erech",
+        "erecho"
+      ],
+      "pages_found_in": 13
+    },
+    "sennores": {
+      "count": 17,
+      "expansions": [
+        "n",
+        "nore",
+        "nores"
+      ],
+      "pages_found_in": 11
+    },
+    "tierras": {
+      "count": 16,
+      "expansions": [
+        "ie",
+        "ierra"
+      ],
+      "pages_found_in": 3
+    },
+    "dela": {
+      "count": 15,
+      "expansions": [
+        "e"
+      ],
+      "pages_found_in": 6
+    },
+    "juan": {
+      "count": 14,
+      "expansions": [
+        "an",
+        "n",
+        "uan"
+      ],
+      "pages_found_in": 10
+    },
+    "contra": {
+      "count": 14,
+      "expansions": [
+        "n",
+        "ntra",
+        "tra"
+      ],
+      "pages_found_in": 4
+    },
+    "preguntada": {
+      "count": 13,
+      "expansions": [
+        "re",
+        "reguntada"
+      ],
+      "pages_found_in": 5
+    },
+    "toledo": {
+      "count": 12,
+      "expansions": [
+        "e",
+        "edo",
+        "n"
+      ],
+      "pages_found_in": 3
+    },
+    "ferrandez": {
+      "count": 12,
+      "expansions": [
+        "errande",
+        "errandez"
+      ],
+      "pages_found_in": 5
+    },
+    "delo": {
+      "count": 10,
+      "expansions": [
+        "e"
+      ],
+      "pages_found_in": 8
+    },
+    "pero": {
+      "count": 10,
+      "expansions": [
+        "er"
+      ],
+      "pages_found_in": 5
+    },
+    "pedro": {
+      "count": 9,
+      "expansions": [
+        "edro"
+      ],
+      "pages_found_in": 7
+    },
+    "anno": {
+      "count": 9,
+      "expansions": [
+        "n"
+      ],
+      "pages_found_in": 8
+    },
+    "qual": {
+      "count": 9,
+      "expansions": [
+        "a",
+        "al",
+        "ua"
+      ],
+      "pages_found_in": 7
+    },
+    "con": {
+      "count": 9,
+      "expansions": [
+        "n"
+      ],
+      "pages_found_in": 7
+    },
+    "medio": {
+      "count": 9,
+      "expansions": [
+        "edio"
+      ],
+      "pages_found_in": 7
+    },
+    "quales": {
+      "count": 9,
+      "expansions": [
+        "a",
+        "ales",
+        "e",
+        "uales"
+      ],
+      "pages_found_in": 7
+    },
+    "yglesia": {
+      "count": 8,
+      "expansions": [
+        "es"
+      ],
+      "pages_found_in": 5
+    },
+    "vezino": {
+      "count": 8,
+      "expansions": [
+        "ezino"
+      ],
+      "pages_found_in": 8
+    },
+    "ynquisydores": {
+      "count": 8,
+      "expansions": [
+        "uisydore",
+        "uisydores"
+      ],
+      "pages_found_in": 4
+    },
+    "vezinos": {
+      "count": 8,
+      "expansions": [
+        "ezino",
+        "ezinos"
+      ],
+      "pages_found_in": 8
+    },
+    "nuestro": {
+      "count": 7,
+      "expansions": [
+        "uest",
+        "uestro"
+      ],
+      "pages_found_in": 5
+    },
+    "sennor": {
+      "count": 7,
+      "expansions": [
+        "ennor",
+        "n",
+        "nor"
+      ],
+      "pages_found_in": 6
+    },
+    "bachiller": {
+      "count": 7,
+      "expansions": [
+        "e",
+        "er"
+      ],
+      "pages_found_in": 6
+    },
+    "prender": {
+      "count": 7,
+      "expansions": [
+        "e",
+        "er",
+        "n",
+        "re"
+      ],
+      "pages_found_in": 6
+    },
+    "os": {
+      "count": 7,
+      "expansions": [
+        "e"
+      ],
+      "pages_found_in": 5
+    },
+    "santa": {
+      "count": 7,
+      "expansions": [
+        "an"
+      ],
+      "pages_found_in": 3
+    },
+    "diego": {
+      "count": 7,
+      "expansions": [
+        "ego"
+      ],
+      "pages_found_in": 5
+    },
+    "madre": {
+      "count": 7,
+      "expansions": [
+        "e"
+      ],
+      "pages_found_in": 3
+    },
+    "en": {
+      "count": 6,
+      "expansions": [
+        "n"
+      ],
+      "pages_found_in": 5
+    },
+    "los": {
+      "count": 6,
+      "expansions": [
+        "e",
+        "n"
+      ],
+      "pages_found_in": 5
+    },
+    "verdad": {
+      "count": 6,
+      "expansions": [
+        "er"
+      ],
+      "pages_found_in": 6
+    },
+    "nuestra": {
+      "count": 6,
+      "expansions": [
+        "uest",
+        "uestra"
+      ],
+      "pages_found_in": 4
+    },
+    "joan": {
+      "count": 6,
+      "expansions": [
+        "oa"
+      ],
+      "pages_found_in": 3
+    },
+    "mente": {
+      "count": 6,
+      "expansions": [
+        "e",
+        "en",
+        "ente",
+        "n"
+      ],
+      "pages_found_in": 5
+    },
+    "fanegas": {
+      "count": 6,
+      "expansions": [
+        "anega"
+      ],
+      "pages_found_in": 4
+    },
+    "ochomaravedis": {
+      "count": 6,
+      "expansions": [
+        "aravedis"
+      ],
+      "pages_found_in": 5
+    },
+    "dichas": {
+      "count": 5,
+      "expansions": [
+        "ic",
+        "ichas"
+      ],
+      "pages_found_in": 3
+    },
+    "parte": {
+      "count": 5,
+      "expansions": [
+        "ar",
+        "arte"
+      ],
+      "pages_found_in": 5
+    },
+    "presente": {
+      "count": 5,
+      "expansions": [
+        "e",
+        "ente",
+        "n"
+      ],
+      "pages_found_in": 5
+    },
+    "vezina": {
+      "count": 5,
+      "expansions": [
+        "ezina"
+      ],
+      "pages_found_in": 3
+    },
+    "verde": {
+      "count": 5,
+      "expansions": [
+        "er",
+        "erde"
+      ],
+      "pages_found_in": 2
+    },
+    "fernando": {
+      "count": 5,
+      "expansions": [
+        "n",
+        "rnan"
+      ],
+      "pages_found_in": 3
+    },
+    "aver": {
+      "count": 5,
+      "expansions": [
+        "er"
+      ],
+      "pages_found_in": 4
+    },
+    "sentencja": {
+      "count": 5,
+      "expansions": [
+        "tenc"
+      ],
+      "pages_found_in": 3
+    },
+    "media": {
+      "count": 5,
+      "expansions": [
+        "edia"
+      ],
+      "pages_found_in": 4
+    },
+    "quinjentos": {
+      "count": 4,
+      "expansions": [
+        "uinjen",
+        "uinjento"
+      ],
+      "pages_found_in": 4
+    },
+    "quelo": {
+      "count": 4,
+      "expansions": [
+        "ue"
+      ],
+      "pages_found_in": 4
+    }
+  },
+  "marker_frequencies": {
+    "[tachado:]": 34,
+    "[margen:]": 30,
+    "[sobrescrito:]": 28,
+    "[rúbrica]": 16,
+    "[interlineado:]": 12,
+    "[firma:]": 9,
+    "[cruz]": 7,
+    "[mano N:]": 6,
+    "[lat.:]": 4,
+    "[* * *]": 4,
+    "[signo]": 2
+  },
+  "orthographic_features": {
+    "c_cedilla": {
+      "count": 483,
+      "unique_words": 269,
+      "examples": [
+        "absoluçion",
+        "acarçel",
+        "alcançar",
+        "alcoçer",
+        "aldonça",
+        "apreçiados",
+        "apreçios",
+        "apreçiosde",
+        "arçedi",
+        "arçob",
+        "avdiençia",
+        "avdjençia",
+        "açe",
+        "açetaua",
+        "açeto",
+        "açetre",
+        "açeytunas",
+        "açu",
+        "açul",
+        "baçia",
+        "benefiçiado",
+        "beça",
+        "beçientos",
+        "boça",
+        "braço"
+      ]
+    },
+    "double_letters": {
+      "nn": {
+        "count": 2,
+        "unique_words": 2,
+        "examples": [
+          "enn",
+          "ennon"
+        ]
+      },
+      "ss": {
+        "count": 68,
+        "unique_words": 56,
+        "examples": [
+          "alonsso",
+          "ambrossio",
+          "anssi",
+          "anssimismo",
+          "assus",
+          "auiassido",
+          "caussas",
+          "conssejo",
+          "conssexo",
+          "dassemos",
+          "delossuso",
+          "demassiado",
+          "desseptienbre",
+          "diessedes",
+          "doss"
+        ]
+      },
+      "ff": {
+        "count": 2,
+        "unique_words": 1,
+        "examples": [
+          "ff"
+        ]
+      },
+      "ll": {
+        "count": 358,
+        "unique_words": 185,
+        "examples": [
+          "aella",
+          "allarse",
+          "alle",
+          "ally",
+          "almohadilla",
+          "aquellas",
+          "argadillo",
+          "avellaneda",
+          "ayllon",
+          "bachill",
+          "bachjller",
+          "barilla",
+          "buenolleno",
+          "calle",
+          "calleja"
+        ]
+      },
+      "rr": {
+        "count": 129,
+        "unique_words": 75,
+        "examples": [
+          "arro",
+          "barriga",
+          "barrio",
+          "corral",
+          "corralejo",
+          "corre",
+          "decorral",
+          "deherrar",
+          "denavarra",
+          "derred",
+          "derrua",
+          "dosbarre",
+          "doshierros",
+          "estarreal",
+          "ferra"
+        ]
+      },
+      "pp": {
+        "count": 2,
+        "unique_words": 1,
+        "examples": [
+          "app"
+        ]
+      },
+      "tt": {
+        "count": 6,
+        "unique_words": 5,
+        "examples": [
+          "attorj",
+          "rosttro",
+          "ttrador",
+          "ttres",
+          "ttro"
+        ]
+      }
+    },
+    "x_for_j": {
+      "count": 112,
+      "unique_words": 40,
+      "examples": [
+        "abaxo",
+        "conssexo",
+        "cruxifixo",
+        "deaparexo",
+        "debaxo",
+        "demariaxil",
+        "dexa",
+        "dexaendelos",
+        "dexando",
+        "dexerusalen",
+        "dixeren",
+        "dixero",
+        "dixeron",
+        "dixese",
+        "dixieron",
+        "dixo",
+        "dixoq",
+        "examjnado",
+        "examjnamos",
+        "examjno",
+        "exebçion",
+        "executada",
+        "executados",
+        "execuçion",
+        "exerçiten"
+      ]
+    },
+    "y_for_i": {
+      "count": 41,
+      "unique_words": 15,
+      "examples": [
+        "ygl",
+        "yglesiade",
+        "ynfamada",
+        "ynformaçio",
+        "ynformaçion",
+        "ynponga",
+        "ynq",
+        "ynqujsidor",
+        "ynqujsiçio",
+        "ynqujsydor",
+        "ynqujsyçion",
+        "ynstanzia",
+        "ynte",
+        "yntinçion",
+        "ynven"
+      ]
+    },
+    "v_for_u": {
+      "count": 56,
+      "unique_words": 8,
+      "examples": [
+        "vezina",
+        "vezino",
+        "vezinos",
+        "vn",
+        "vna",
+        "vnas",
+        "vnjo",
+        "vnos"
+      ]
+    },
+    "j_for_i": {
+      "count": 47,
+      "unique_words": 31,
+      "examples": [
+        "alquj",
+        "bachjller",
+        "camjno",
+        "crimjnales",
+        "domjn",
+        "domjnjo",
+        "esamjnado",
+        "esamjnadores",
+        "esamjnados",
+        "esamjnaron",
+        "escriuano",
+        "examjnado",
+        "examjnamos",
+        "examjno",
+        "finyqujto",
+        "jnqujsidor",
+        "jnqujsiçio",
+        "ljçençiado",
+        "mjll",
+        "mjn",
+        "mjnados",
+        "mjnjstro",
+        "mjno",
+        "njdad",
+        "njnguno"
+      ]
+    },
+    "u_for_b": {
+      "count": 7,
+      "unique_words": 4,
+      "examples": [
+        "deuemos",
+        "deuiamos",
+        "deuido",
+        "escriuano"
+      ]
+    },
+    "h_variation": {
+      "h_missing_count": 5,
+      "h_missing_examples": [
+        "aver",
+        "azer"
+      ],
+      "h_added_count": 11,
+      "h_added_examples": [
+        "hebr",
+        "hedad",
+        "hera",
+        "horden"
+      ]
+    }
+  },
+  "page_stats": {
+    "CODEA-0177_1r": {
+      "abbreviation_count": 27,
+      "marker_count": 3,
+      "char_count": 1942
+    },
+    "CODEA-0177_1v": {
+      "abbreviation_count": 48,
+      "marker_count": 4,
+      "char_count": 2198
+    },
+    "CODEA-0205_1r": {
+      "abbreviation_count": 14,
+      "marker_count": 1,
+      "char_count": 1195
+    },
+    "CODEA-0205_1v": {
+      "abbreviation_count": 23,
+      "marker_count": 1,
+      "char_count": 1254
+    },
+    "CODEA-0205_2r": {
+      "abbreviation_count": 29,
+      "marker_count": 0,
+      "char_count": 1341
+    },
+    "CODEA-0205_2v": {
+      "abbreviation_count": 38,
+      "marker_count": 4,
+      "char_count": 1552
+    },
+    "CODEA-0206_1r": {
+      "abbreviation_count": 18,
+      "marker_count": 0,
+      "char_count": 1639
+    },
+    "CODEA-0206_1v": {
+      "abbreviation_count": 11,
+      "marker_count": 2,
+      "char_count": 1491
+    },
+    "CODEA-0206_2r": {
+      "abbreviation_count": 32,
+      "marker_count": 2,
+      "char_count": 1876
+    },
+    "CODEA-0206_2v": {
+      "abbreviation_count": 16,
+      "marker_count": 2,
+      "char_count": 871
+    },
+    "CODEA-2535_1r": {
+      "abbreviation_count": 66,
+      "marker_count": 2,
+      "char_count": 1995
+    },
+    "CODEA-2535_1v": {
+      "abbreviation_count": 18,
+      "marker_count": 4,
+      "char_count": 574
+    },
+    "CODEA-2562_1r": {
+      "abbreviation_count": 12,
+      "marker_count": 1,
+      "char_count": 360
+    },
+    "CODEA-2562_1v": {
+      "abbreviation_count": 116,
+      "marker_count": 7,
+      "char_count": 2421
+    },
+    "CODEA-2562_2r": {
+      "abbreviation_count": 68,
+      "marker_count": 6,
+      "char_count": 1280
+    },
+    "CODEA-2562_2v": {
+      "abbreviation_count": 82,
+      "marker_count": 1,
+      "char_count": 1769
+    },
+    "CODEA-2562_3r": {
+      "abbreviation_count": 76,
+      "marker_count": 1,
+      "char_count": 1476
+    },
+    "CODEA-2571_1r": {
+      "abbreviation_count": 129,
+      "marker_count": 5,
+      "char_count": 3468
+    },
+    "CODEA-2571_1v": {
+      "abbreviation_count": 155,
+      "marker_count": 7,
+      "char_count": 3769
+    },
+    "CODEA-2571_2r": {
+      "abbreviation_count": 134,
+      "marker_count": 5,
+      "char_count": 3290
+    },
+    "CODEA-2571_2v": {
+      "abbreviation_count": 93,
+      "marker_count": 4,
+      "char_count": 2591
+    },
+    "CODEA-2571_3r": {
+      "abbreviation_count": 48,
+      "marker_count": 0,
+      "char_count": 1027
+    },
+    "CODEA-2571_3v": {
+      "abbreviation_count": 103,
+      "marker_count": 2,
+      "char_count": 2853
+    },
+    "CODEA-2571_4r": {
+      "abbreviation_count": 74,
+      "marker_count": 1,
+      "char_count": 2042
+    },
+    "CODEA-2571_4v": {
+      "abbreviation_count": 27,
+      "marker_count": 1,
+      "char_count": 763
+    },
+    "CODEA-3607_1r": {
+      "abbreviation_count": 41,
+      "marker_count": 10,
+      "char_count": 2124
+    },
+    "CODEA-3607_1v": {
+      "abbreviation_count": 31,
+      "marker_count": 1,
+      "char_count": 1532
+    },
+    "CODEA-3607_2r": {
+      "abbreviation_count": 1,
+      "marker_count": 0,
+      "char_count": 1254
+    },
+    "CODEA-3607_2v": {
+      "abbreviation_count": 0,
+      "marker_count": 4,
+      "char_count": 1378
+    },
+    "CODEA-3607_3r": {
+      "abbreviation_count": 4,
+      "marker_count": 5,
+      "char_count": 1345
+    },
+    "CODEA-3607_3v": {
+      "abbreviation_count": 2,
+      "marker_count": 1,
+      "char_count": 1127
+    },
+    "CODEA-3607_4r": {
+      "abbreviation_count": 1,
+      "marker_count": 2,
+      "char_count": 1070
+    },
+    "CODEA-3607_4v": {
+      "abbreviation_count": 2,
+      "marker_count": 3,
+      "char_count": 1130
+    },
+    "CODEA-3607_5r": {
+      "abbreviation_count": 32,
+      "marker_count": 2,
+      "char_count": 1665
+    },
+    "CODEA-3607_5v": {
+      "abbreviation_count": 12,
+      "marker_count": 18,
+      "char_count": 1173
+    },
+    "CODEA-3614_1r": {
+      "abbreviation_count": 25,
+      "marker_count": 1,
+      "char_count": 1442
+    },
+    "CODEA-3614_1v": {
+      "abbreviation_count": 47,
+      "marker_count": 1,
+      "char_count": 1716
+    },
+    "CODEA-3614_2r": {
+      "abbreviation_count": 40,
+      "marker_count": 1,
+      "char_count": 1630
+    },
+    "CODEA-3614_2v": {
+      "abbreviation_count": 15,
+      "marker_count": 0,
+      "char_count": 1116
+    },
+    "CODEA-3614_3r": {
+      "abbreviation_count": 0,
+      "marker_count": 0,
+      "char_count": 862
+    },
+    "CODEA-3614_3v": {
+      "abbreviation_count": 0,
+      "marker_count": 0,
+      "char_count": 969
+    },
+    "CODEA-3614_4r": {
+      "abbreviation_count": 0,
+      "marker_count": 0,
+      "char_count": 816
+    },
+    "CODEA-3614_4v": {
+      "abbreviation_count": 2,
+      "marker_count": 1,
+      "char_count": 962
+    },
+    "CODEA-3614_5r": {
+      "abbreviation_count": 1,
+      "marker_count": 0,
+      "char_count": 792
+    },
+    "CODEA-3614_5v": {
+      "abbreviation_count": 0,
+      "marker_count": 0,
+      "char_count": 736
+    },
+    "CODEA-3614_6r": {
+      "abbreviation_count": 2,
+      "marker_count": 0,
+      "char_count": 676
+    },
+    "CODEA-3614_6v": {
+      "abbreviation_count": 3,
+      "marker_count": 0,
+      "char_count": 798
+    },
+    "CODEA-3614_7r": {
+      "abbreviation_count": 15,
+      "marker_count": 0,
+      "char_count": 707
+    },
+    "CODEA-3624_1r": {
+      "abbreviation_count": 39,
+      "marker_count": 7,
+      "char_count": 1883
+    },
+    "CODEA-3624_1v": {
+      "abbreviation_count": 25,
+      "marker_count": 0,
+      "char_count": 1244
+    },
+    "CODEA-3624_2r": {
+      "abbreviation_count": 19,
+      "marker_count": 1,
+      "char_count": 948
+    },
+    "CODEA-3624_2v": {
+      "abbreviation_count": 22,
+      "marker_count": 0,
+      "char_count": 982
+    },
+    "CODEA-3624_3r": {
+      "abbreviation_count": 21,
+      "marker_count": 0,
+      "char_count": 1006
+    },
+    "CODEA-3624_3v": {
+      "abbreviation_count": 16,
+      "marker_count": 1,
+      "char_count": 1096
+    },
+    "CODEA-3624_4r": {
+      "abbreviation_count": 19,
+      "marker_count": 4,
+      "char_count": 1048
+    },
+    "CODEA-3624_4v": {
+      "abbreviation_count": 20,
+      "marker_count": 1,
+      "char_count": 1011
+    },
+    "CODEA-3624_5r": {
+      "abbreviation_count": 16,
+      "marker_count": 0,
+      "char_count": 966
+    },
+    "CODEA-3624_5v": {
+      "abbreviation_count": 21,
+      "marker_count": 3,
+      "char_count": 1024
+    },
+    "CODEA-3624_6r": {
+      "abbreviation_count": 25,
+      "marker_count": 1,
+      "char_count": 1131
+    },
+    "CODEA-3624_6v": {
+      "abbreviation_count": 32,
+      "marker_count": 1,
+      "char_count": 1077
+    },
+    "CODEA-3624_7r": {
+      "abbreviation_count": 23,
+      "marker_count": 2,
+      "char_count": 1200
+    },
+    "CODEA-3624_7v": {
+      "abbreviation_count": 17,
+      "marker_count": 1,
+      "char_count": 927
+    },
+    "CODEA-3624_8r": {
+      "abbreviation_count": 14,
+      "marker_count": 1,
+      "char_count": 625
+    },
+    "CODEA-3624_8v": {
+      "abbreviation_count": 43,
+      "marker_count": 13,
+      "char_count": 1521
+    }
+  }
+}

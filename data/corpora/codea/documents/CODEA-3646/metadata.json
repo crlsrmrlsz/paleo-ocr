@@ -1,0 +1,74 @@
+{
+  "doc_id": "CODEA-3646",
+  "dataset": "codea",
+  "date": "1639",
+  "title": "Inventario y tasación de los bienes que Catalina Gonzales, viuda de Pedro Sánchez Moreno, aportó al matrimonio con Alonso Conde, vecino del lugar de Logrosán.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Logrosán",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 322x207",
+    "copista": "Alonso Hidalgo",
+    "signatura": "PN/3094, Alonso Hidalgo 1639, ff. 12r-16r",
+    "palsclave": "bienes inmuebles, bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2473,
+      "height": 4073
+    },
+    "1v": {
+      "width": 2097,
+      "height": 4218
+    },
+    "2r": {
+      "width": 2457,
+      "height": 4041
+    },
+    "2v": {
+      "width": 2049,
+      "height": 4210
+    },
+    "3r": {
+      "width": 2504,
+      "height": 4016
+    },
+    "3v": {
+      "width": 2081,
+      "height": 4146
+    },
+    "4r": {
+      "width": 2529,
+      "height": 4049
+    },
+    "4v": {
+      "width": 2057,
+      "height": 4210
+    },
+    "5r": {
+      "width": 2449,
+      "height": 3985
+    }
+  }
+}

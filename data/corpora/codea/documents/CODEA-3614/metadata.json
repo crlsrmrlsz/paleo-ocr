@@ -1,0 +1,94 @@
+{
+  "doc_id": "CODEA-3614",
+  "dataset": "codea",
+  "date": "1584",
+  "title": "Traslado del inventario de los bienes que doña Catalina Vázquez, viuda de Miguel Martínez, entregó a doña Isabel Manríquez, heredera de don Francisco Martín Manríquez, comendador de la encomienda de la villa de Bienvenida.",
+  "archive": "Archivo Histórico Municipal de Llerena",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Bienvenida",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 315x220",
+    "copista": "Hernando Alonso",
+    "signatura": "Bienvenida, caja 1, Hernando Alonso 1584, ff. 399r-405r (l. 18)",
+    "palsclave": "bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2425,
+      "height": 4001
+    },
+    "1v": {
+      "width": 2561,
+      "height": 4129
+    },
+    "2r": {
+      "width": 2641,
+      "height": 3954
+    },
+    "2v": {
+      "width": 2433,
+      "height": 4089
+    },
+    "3r": {
+      "width": 2673,
+      "height": 3985
+    },
+    "3v": {
+      "width": 2441,
+      "height": 4065
+    },
+    "4r": {
+      "width": 2425,
+      "height": 3897
+    },
+    "4v": {
+      "width": 2481,
+      "height": 4113
+    },
+    "5r": {
+      "width": 2465,
+      "height": 3953
+    },
+    "5v": {
+      "width": 2433,
+      "height": 4041
+    },
+    "6r": {
+      "width": 2457,
+      "height": 3929
+    },
+    "6v": {
+      "width": 2433,
+      "height": 4137
+    },
+    "7r": {
+      "width": 2377,
+      "height": 3777
+    }
+  }
+}

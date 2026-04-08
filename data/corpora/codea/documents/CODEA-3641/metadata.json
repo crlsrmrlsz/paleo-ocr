@@ -1,0 +1,74 @@
+{
+  "doc_id": "CODEA-3641",
+  "dataset": "codea",
+  "date": "1625",
+  "title": "Inventario <<post mortem>> de los bienes de Francisco Calvarro, hijo de Antonio Domínguez, marido de Catalina Sánchez y vecino de la villa de Robledillo de Gata.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Robledillo de Gata",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 316x213",
+    "copista": "Alonso García",
+    "signatura": "PN/769, Alonso García 1625, ff. 128r-132r (l. 16)",
+    "palsclave": "bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2329,
+      "height": 4186
+    },
+    "1v": {
+      "width": 2585,
+      "height": 4017
+    },
+    "2r": {
+      "width": 2337,
+      "height": 4162
+    },
+    "2v": {
+      "width": 2569,
+      "height": 3985
+    },
+    "3r": {
+      "width": 2377,
+      "height": 4154
+    },
+    "3v": {
+      "width": 2513,
+      "height": 3945
+    },
+    "4r": {
+      "width": 2313,
+      "height": 4218
+    },
+    "4v": {
+      "width": 2649,
+      "height": 4114
+    },
+    "5r": {
+      "width": 2249,
+      "height": 4106
+    }
+  }
+}

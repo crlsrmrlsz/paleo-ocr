@@ -1,0 +1,89 @@
+{
+  "doc_id": "CODEA-3623",
+  "dataset": "codea",
+  "date": "1599",
+  "title": "Inventario de los bienes que Martín Rodríguez y Catalina López, vecinos ambos del lugar de Hoyos, aportaron al matrimonio.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cáceres",
+    "poblacion": "Hoyos",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 320x210",
+    "copista": "Domingo Gonzales",
+    "signatura": "PN/1025, Domingo González 1599, 12 ff.",
+    "palsclave": "bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2577,
+      "height": 3849
+    },
+    "1v": {
+      "width": 2633,
+      "height": 3986
+    },
+    "2r": {
+      "width": 2761,
+      "height": 3953
+    },
+    "2v": {
+      "width": 2753,
+      "height": 4001
+    },
+    "3r": {
+      "width": 2633,
+      "height": 3889
+    },
+    "3v": {
+      "width": 2585,
+      "height": 3969
+    },
+    "4r": {
+      "width": 2569,
+      "height": 3921
+    },
+    "4v": {
+      "width": 2609,
+      "height": 3929
+    },
+    "5r": {
+      "width": 2529,
+      "height": 3889
+    },
+    "5v": {
+      "width": 2561,
+      "height": 3937
+    },
+    "6r": {
+      "width": 2545,
+      "height": 3809
+    },
+    "6v": {
+      "width": 2657,
+      "height": 3977
+    }
+  }
+}

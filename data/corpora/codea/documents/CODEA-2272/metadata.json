@@ -1,0 +1,39 @@
+{
+  "doc_id": "CODEA-2272",
+  "dataset": "codea",
+  "date": "1580",
+  "title": "Carta de la priora Juana de Ávila a la condesa de Alba acerca de una dote que necesita la hija de una criada.",
+  "archive": "Archivo Histórico de la Nobleza",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "s.p.",
+    "poblacion": "s.l.",
+    "tipologia": "cartas privadas",
+    "ambito": "eclesiástico",
+    "soporte": "papel",
+    "copista": "Doña Juana de Ávila",
+    "signatura": "OSUNA,C.419,D.530",
+    "palsclave": "clero, favores, mujer, pobreza",
+    "transcriptor": "Belén Almeida Cabrejas"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1120,
+      "height": 1517
+    },
+    "1v": {
+      "width": 1122,
+      "height": 1517
+    }
+  }
+}

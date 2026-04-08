@@ -1,0 +1,44 @@
+{
+  "doc_id": "CODEA-1450",
+  "dataset": "codea",
+  "date": "1595",
+  "title": "Carta de mandamiento por la que Diego de la Canal manda que se saquen traslados de los libros de mercadería como prueba en el juicio que se sigue contra Fernando de Vera, acusado de homosexualidad.",
+  "archive": "Archivo General de Simancas",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Murcia",
+    "poblacion": "Murcia",
+    "tipologia": "actas y declaraciones",
+    "ambito": "judicial",
+    "soporte": "papel",
+    "copista": "Diego de Évora",
+    "signatura": "Consejo Real, 611-6, folio 4394",
+    "palsclave": "relaciones sociales, justicia, asuntos administrativos",
+    "transcriptor": "Rocío Díaz Moreno"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 640,
+      "height": 900
+    },
+    "1v": {
+      "width": 640,
+      "height": 900
+    },
+    "2r": {
+      "width": 1446,
+      "height": 2035
+    }
+  }
+}

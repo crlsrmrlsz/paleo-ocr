@@ -1,0 +1,40 @@
+{
+  "doc_id": "059_1605-08-19",
+  "dataset": "toledo",
+  "date": "1605-08-19",
+  "title": "Súplica de Luis Montesinos, vecino y alguacil de Toledo, por la que pide a su ayuntamiento que le dé una ayuda de costa para poder seguir desempeñando su oficio por estar necesitado.",
+  "archive": "Archivo Municipal de Toledo",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "0001",
+    "0002"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "normalized",
+    "format": "single-document-md"
+  },
+  "extra": {
+    "slug": "1605-08-19",
+    "source_url": "http://www.toledo.es/wp-content/uploads/2018/07/1605-08-19_d.pdf",
+    "source_page": "https://www.toledo.es/toledo-siempre/laminario-de-documentos-con-sus-transcripciones/",
+    "fondo": "Fondo del Ayuntamiento de Toledo",
+    "nivel_descripcion": "Unidad documental",
+    "productor": "Ayuntamiento de Toledo",
+    "codigo_referencia": "ES.45168.AMT/1-2.04//DC-114",
+    "fecha_original": "[c] 1605-08-19. Toledo",
+    "volumen_soporte": "1 hoja [folio], papel",
+    "notas": "Procede de la caja núm. 298 [FH].\n\nLa fecha está anotada en el reverso del pliego.\n\nLetra procesal. Buen estado de conservación.",
+    "descriptores": "SIGLO XVII, TOLEDO, AYUNTAMIENTO, ALGUACILES, ORDEN PÚBLICO, SALARIOS"
+  },
+  "facsimile_resolution": {
+    "0001": {
+      "width": 1321,
+      "height": 1886
+    },
+    "0002": {
+      "width": 1325,
+      "height": 1886
+    }
+  }
+}

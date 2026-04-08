@@ -1,0 +1,20 @@
+---
+document_date: "1516-02-14"
+slug: "1516-02-14"
+type: "transcripcion"
+archive: "Archivo Municipal de Toledo"
+source_url: "http://www.toledo.es/wp-content/uploads/2018/07/1516-02-14_t.pdf"
+source_page: "https://www.toledo.es/toledo-siempre/laminario-de-documentos-con-sus-transcripciones/"
+---
+
+## ( Cruz ) /
+
+## El Prinçipe. /
+
+Corregidor,  alcaldes,  alguazil  mayor,  rregidores,  cavalleros,  jurados, otros ofiçiales de la muy noble / i muy leal çibdad de Toledo. Yo he sabydo  la  muerte  i  fallesçimiento  del  muy  alto  i  muy  poderoso  / católyco  Rey  mi  Señor,  que  Dios  tiene  en  gloria,  de  que  he  avydo grandísymo dolor y sentimiento, / asy por la falta que su Real persona hará o [ sic : a] la christiandad como por la soledad de sus rreynos / y tanbién  por  el  bien  y  utilydad  que  de  su  saber,  prudençia  y  gran espirençia  se  me  seguía,  pero  pues  /  ha  plazido  a  nuestro  Señor devémonos conformar con su voluntad. Por lo qual, y por el grande / amor y afyçion  que  a  los  dichos  rreynos  como  es  rrasón  tengo,  he acordado y determinado de yr / con mi persona a los vysytar, consolar i alegrar, regir i governar. Y ya pues ello con mucha / dilygençia se hase y  apareja lo que convyene. Por ende yo vos mando que entretanto deys / favor i asystençia al rreverendo señor Cardenal d[ e [ España y al Consejo Real para la governaçión y admi-/nistraçión de la justiçia deses dichos rreynos i señoríos como el dicho Católyco Rey mi Señor lo / dexó mandado i ordenado por su testamento, obedeçiendo y cunpliendo en todo  y por todo  sus /  cartas  i  mandamientos,  según  que  se obedeçieron y fueron obedeçidos y cunplidos en vyda del dicho / Rey Católyco, y en lo demás el rreverendo deán de Lobayna, mi enbaxador os escrivirá. Dadle / entera fee y creençia. De la villa de Bruselas, a XIIII día[ s ] del mes de febrero de quinientos i dies / i seys años.
+
+## Yo el Prinçipe. /
+
+Por mandado del Prinçipe / Francisco de Varrionuevo ( rúbrica ) / 1
+
+1 Junto a las rúbricas se incluye una anotación posterior, posiblemente de la segunda mitad del siglo XVII, con el siguiente contenido: 'El señor Príncipe don Carlos da quenta / a este Illustrísimo ayuntamiento de la muerte / del señor Rey, su padre, desde Bruselas en / 14 de febrero de 1516. Y como ynterin viene / a estos Rey[ no s] serán governadores de ellos con / los Consejos, el señor Arzobispo Cardenal de / España y el Deán de Lobaina, su embajador, / según lo ordena dicho señor Rey por su testamento'.

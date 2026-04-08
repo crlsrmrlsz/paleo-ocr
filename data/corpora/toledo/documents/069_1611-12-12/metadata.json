@@ -1,0 +1,45 @@
+{
+  "doc_id": "069_1611-12-12",
+  "dataset": "toledo",
+  "date": "1611-12-12",
+  "title": "Escritura de fianza otorgada por Dominico Theotocopuli, el Greco, a petición del ayuntamiento de Toledo, por la que se obliga, como fiador, a favor de su hijo Jorge Manuel, arquitecto, en la obra que este iba a realizar en las casas consistoriales.",
+  "archive": "Archivo Municipal de Toledo",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "0001",
+    "0002",
+    "0003"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "normalized",
+    "format": "single-document-md"
+  },
+  "extra": {
+    "slug": "1611-12-12",
+    "source_url": "http://www.toledo.es/wp-content/uploads/2018/07/1611-12-12_d.pdf",
+    "source_page": "https://www.toledo.es/toledo-siempre/laminario-de-documentos-con-sus-transcripciones/",
+    "fondo": "Fondo del Ayuntamiento de Toledo",
+    "nivel_descripcion": "Unidad documental",
+    "productor": "Ayuntamiento de Toledo",
+    "codigo_referencia": "ES.45168.AMT/1-2.06//H-Caja 1711",
+    "fecha_original": "[c] 1611-12-12. Toledo",
+    "volumen_soporte": "2 hojas [folio], papel",
+    "notas": "Letra procesal. Buen estado de conservación.\n\nPara el estudio de la escritura de este documento remitimos al artículo\n\nde Juan Carlos Galende Díaz \"En torno a la escritura y escritos de Domenico Theotocopuli\", publicado en _Archivo Secreto_, núm. 4 (2008) pp. 6 - 20.",
+    "descriptores": "GRECO, JORGE MANUEL THEOTOCOPULI, TOLEDO,\n\nOBRAS, CASAS CONSISTORIALES, FIANZAS, SIGLO XVII"
+  },
+  "facsimile_resolution": {
+    "0001": {
+      "width": 1268,
+      "height": 1854
+    },
+    "0002": {
+      "width": 1247,
+      "height": 1841
+    },
+    "0003": {
+      "width": 1327,
+      "height": 1888
+    }
+  }
+}

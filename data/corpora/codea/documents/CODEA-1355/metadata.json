@@ -1,0 +1,34 @@
+{
+  "doc_id": "CODEA-1355",
+  "dataset": "codea",
+  "date": "1473",
+  "title": "Carta de venta de una tierra que tenía Diego Pérez en el término de Frontada, en favor de Pedro Gómez de Frontada.",
+  "archive": "Archivo Histórico de la Nobleza",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XV",
+    "provincia": "Palencia",
+    "poblacion": "Aguilar de Campoo",
+    "tipologia": "cartas de compraventa y contratos",
+    "ambito": "particular",
+    "soporte": "papel",
+    "copista": "Joán Gutiérrez de Aguilar",
+    "signatura": "Clero, Palencia, carpeta 1685, nº 10",
+    "palsclave": "bienes inmuebles",
+    "transcriptor": "Rocío Díaz Moreno"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1071,
+      "height": 480
+    }
+  }
+}

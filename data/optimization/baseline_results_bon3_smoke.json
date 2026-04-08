@@ -1,0 +1,20 @@
+{
+  "model": "openrouter/anthropic/claude-opus-4.6",
+  "results": [
+    {
+      "page_id": "codea_CODEA-2562_1r",
+      "cer": 0.5,
+      "score": 0.5
+    },
+    {
+      "page_id": "codea_CODEA-2562_1v",
+      "cer": 0.581174438687392,
+      "score": 0.41882556131260795
+    },
+    {
+      "page_id": "codea_CODEA-2562_2r",
+      "cer": 0.6301703163017032,
+      "score": 0.36982968369829683
+    }
+  ]
+}

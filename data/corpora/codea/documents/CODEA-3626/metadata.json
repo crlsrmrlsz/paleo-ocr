@@ -1,0 +1,129 @@
+{
+  "doc_id": "CODEA-3626",
+  "dataset": "codea",
+  "date": "1603",
+  "title": "Inventario de los bienes existentes en la fortaleza que el conde de Oropesa y Deleitosa poseía en la villa de Jarandilla de la Vera y que Francisco Núñez de Herrera, antiguo mayordomo de dicha hacienda, entregó al actual, el bachiller Joán de Peinado.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "humanística corriente/procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r",
+    "7v",
+    "8r",
+    "8v",
+    "9r",
+    "9v",
+    "10r",
+    "10v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Cáceres",
+    "poblacion": "Jarandilla de la Vera",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 319x218",
+    "copista": "Alonso de la Cruz",
+    "signatura": "PN/454, Alonso de la Cruz 1602-1603, ff. 1028r-1037v",
+    "palsclave": "bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "10r": {
+      "width": 2409,
+      "height": 3945
+    },
+    "10v": {
+      "width": 2672,
+      "height": 4048
+    },
+    "1r": {
+      "width": 2713,
+      "height": 4090
+    },
+    "1v": {
+      "width": 2737,
+      "height": 4121
+    },
+    "2r": {
+      "width": 2385,
+      "height": 3809
+    },
+    "2v": {
+      "width": 2633,
+      "height": 4025
+    },
+    "3r": {
+      "width": 2353,
+      "height": 4058
+    },
+    "3v": {
+      "width": 2681,
+      "height": 4145
+    },
+    "4r": {
+      "width": 2425,
+      "height": 4057
+    },
+    "4v": {
+      "width": 2768,
+      "height": 4080
+    },
+    "5r": {
+      "width": 2369,
+      "height": 4050
+    },
+    "5v": {
+      "width": 2657,
+      "height": 3905
+    },
+    "6r": {
+      "width": 2353,
+      "height": 4009
+    },
+    "6v": {
+      "width": 2705,
+      "height": 4121
+    },
+    "7r": {
+      "width": 2289,
+      "height": 3986
+    },
+    "7v": {
+      "width": 2802,
+      "height": 4057
+    },
+    "8r": {
+      "width": 2473,
+      "height": 4121
+    },
+    "8v": {
+      "width": 2673,
+      "height": 4065
+    },
+    "9r": {
+      "width": 2393,
+      "height": 3929
+    },
+    "9v": {
+      "width": 2633,
+      "height": 4057
+    }
+  }
+}

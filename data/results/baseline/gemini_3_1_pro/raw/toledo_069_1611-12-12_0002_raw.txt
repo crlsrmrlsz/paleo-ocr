@@ -1,0 +1,5 @@
+ model typical phrase: "En testimonio de lo qual..." Let's check "lo qual". `d` `e` `l` `o` `q[ua]l`. The loops match `d e l o q a l`. Yes: `en testymonyo de lo qual`
+        Line 19 ends with: `f(i)ze a/e m y [f(i)r]m[e]?` or `m i s ...`. Usually "fize mi signo...". Let's look at the letters: `f i z / s i g n o ...`.
+
+        Let's trace L19-22 based on standard Notarial Sign-off.
+        L19 starts: `... en [

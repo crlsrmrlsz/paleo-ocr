@@ -1,0 +1,79 @@
+{
+  "doc_id": "CODEA-3615",
+  "dataset": "codea",
+  "date": "1584",
+  "title": "Inventario <<post mortem>> de los bienes de Juan Núñez de Andrada, hijo de Gonçalo Núñez de Andrada y marido de Isabel Gonçález, vecinos todos de la villa de Zafra.",
+  "archive": "Archivo Histórico Municipal de Zafra",
+  "letra": "humanística corriente/procesal encadenada",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Badajoz",
+    "poblacion": "Zafra",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 315x219",
+    "copista": "Rodrigo de Paz",
+    "signatura": "FN, Protocolos, Zafra, Rodrigo de Paz Tinoco 1584-1585, ff. 599r-603v",
+    "palsclave": "bienes inmuebles, bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2689,
+      "height": 4057
+    },
+    "1v": {
+      "width": 2617,
+      "height": 4218
+    },
+    "2r": {
+      "width": 2673,
+      "height": 4097
+    },
+    "2v": {
+      "width": 2513,
+      "height": 4033
+    },
+    "3r": {
+      "width": 2721,
+      "height": 4041
+    },
+    "3v": {
+      "width": 2561,
+      "height": 4057
+    },
+    "4r": {
+      "width": 2737,
+      "height": 3969
+    },
+    "4v": {
+      "width": 2497,
+      "height": 4017
+    },
+    "5r": {
+      "width": 2777,
+      "height": 3985
+    },
+    "5v": {
+      "width": 2513,
+      "height": 4041
+    }
+  }
+}

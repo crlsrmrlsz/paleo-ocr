@@ -1,0 +1,64 @@
+{
+  "doc_id": "CODEA-3628",
+  "dataset": "codea",
+  "date": "1607",
+  "title": "Inventario <<post mortem>> de los bienes de María Días Bodonala, viuda de Francisco Domínguez Barreno, madre de Juan Domínguez y María Días Hernández y vecina de la villa de Fuente de Cantos.",
+  "archive": "Archivo de Protocolos de Distrito de Fuente de Cantos",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Fuente de Cantos",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 313x215",
+    "copista": "Alonso García",
+    "signatura": "Fuente de Cantos, leg. 1, carp. 1, Alonso García 1607, ff. 169r-172r",
+    "palsclave": "bienes inmuebles, bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2689,
+      "height": 4001
+    },
+    "1v": {
+      "width": 2761,
+      "height": 4049
+    },
+    "2r": {
+      "width": 2617,
+      "height": 3897
+    },
+    "2v": {
+      "width": 2745,
+      "height": 4001
+    },
+    "3r": {
+      "width": 2673,
+      "height": 4041
+    },
+    "3v": {
+      "width": 2697,
+      "height": 3969
+    },
+    "4r": {
+      "width": 2609,
+      "height": 3929
+    }
+  }
+}

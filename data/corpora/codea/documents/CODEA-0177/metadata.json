@@ -1,0 +1,39 @@
+{
+  "doc_id": "CODEA-0177",
+  "dataset": "codea",
+  "date": "1576",
+  "title": "Carta de pago y finiquito firmada por doña Catalina Gómez, abadesa de convento de la Santa Concepción de Guadalajara.",
+  "archive": "Archivo Histórico Provincial de Guadalajara",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "[Guadalajara]",
+    "poblacion": "s.l.",
+    "tipologia": "certificaciones",
+    "ambito": "eclesiástico",
+    "soporte": "papel",
+    "copista": "Baltasar de Benavente",
+    "signatura": "Protocolo caja 162",
+    "palsclave": "asuntos administrativos, bienes muebles, clero",
+    "transcriptor": "José Manuel Lucía Megías"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2672,
+      "height": 4000
+    },
+    "1v": {
+      "width": 2672,
+      "height": 4000
+    }
+  }
+}

@@ -1,0 +1,5 @@
+...` No, that's forcing a reading.
+    *   Let's look at lines with clear names or places.
+    *   Line 8: `[...] E amaryllas d[ic]ha algun[...]`. Let's look closer at `amaryllas`. `e n (?) a m [i?] r y l l o s d e (...) a l g o (...)`.
+    *   This feels like a text detailing an inventory or a series of transactions.
+    *   Let's perform a very meticulous raw analysis. By identifying a couple of key words, the rest might fall into place. Look for words like *maravedis, ducados, mantas, varas, onças, de, con, para, que*. Let

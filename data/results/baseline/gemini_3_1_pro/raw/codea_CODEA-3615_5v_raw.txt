@@ -1,0 +1,11 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<transcription>
+    <line>Dizen haver as mugeres</line>
+    <line>Conviene p[ar]a se onetiere</line>
+    <line>todo esto qua a menester</line>
+    <line>I meioran x[crist]o en el rreciuo</line>
+    <line>pone as fienças o que</line>
+    <line>a los q[ue] os n[un]ca lo comin[a]re es saber</line>
+    <line>nunca la fizieron ffen e ventansso</line>
+    <line>Sy q[ue

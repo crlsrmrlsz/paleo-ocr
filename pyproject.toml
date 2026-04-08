@@ -1,0 +1,34 @@
+[project]
+name = "paleo-ocr"
+version = "0.1.0"
+description = "Systematic assessment of transcription techniques for 16th-century Spanish manuscripts"
+requires-python = ">=3.10"
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "tqdm",
+]
+
+[project.optional-dependencies]
+convert = ["docling"]
+eval = ["jiwer", "editdistance", "matplotlib", "numpy", "rapidfuzz", "scipy", "spacy", "sentence-transformers"]
+vlm = ["openai", "python-dotenv"]
+extract = ["pymupdf"]
+dspy = ["dspy>=2.6.0", "editdistance", "Pillow", "python-dotenv"]
+agentic = ["ultralytics>=8.0.0", "huggingface_hub", "Pillow"]
+all = ["paleo-ocr[convert,eval,vlm,extract,dspy,agentic]"]
+test = ["pytest", "statsmodels"]
+
+[tool.setuptools]
+packages = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+junit_family = "xunit2"
+addopts = "--junitxml=tests/results.xml"
+markers = [
+    "crosscheck: library cross-check tests",
+    "document: document-level cross-validation tests",
+    "network: tests that download external data",
+    "semantic: tests requiring sentence-transformers/spacy models",
+]

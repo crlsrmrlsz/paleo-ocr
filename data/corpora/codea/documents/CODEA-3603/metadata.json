@@ -1,0 +1,104 @@
+{
+  "doc_id": "CODEA-3603",
+  "dataset": "codea",
+  "date": "1564",
+  "title": "Inventario <<post mortem>> de los bienes de Francisco de Godoy, marido de doña Leonor de Ulloa y padre de Lorenço de Ulloa Porcallo y Rodrigo de Godoy, vecinos todos de la villa de Cáceres.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal/humanística cursiva/cortesana",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v",
+    "6r",
+    "6v",
+    "7r",
+    "7v",
+    "8r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cáceres",
+    "poblacion": "Cáceres",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 324x225",
+    "copista": "Lorenzo de Ulloa",
+    "signatura": "PN/4113, Diego Pacheco 1564, 8 ff.",
+    "palsclave": "bienes muebles, economía, familia",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2849,
+      "height": 4041
+    },
+    "1v": {
+      "width": 2793,
+      "height": 4033
+    },
+    "2r": {
+      "width": 2809,
+      "height": 4001
+    },
+    "2v": {
+      "width": 2769,
+      "height": 3977
+    },
+    "3r": {
+      "width": 2809,
+      "height": 4009
+    },
+    "3v": {
+      "width": 2753,
+      "height": 3953
+    },
+    "4r": {
+      "width": 2801,
+      "height": 4065
+    },
+    "4v": {
+      "width": 2769,
+      "height": 3993
+    },
+    "5r": {
+      "width": 2801,
+      "height": 4025
+    },
+    "5v": {
+      "width": 2721,
+      "height": 3833
+    },
+    "6r": {
+      "width": 2833,
+      "height": 4058
+    },
+    "6v": {
+      "width": 2785,
+      "height": 3961
+    },
+    "7r": {
+      "width": 2849,
+      "height": 4081
+    },
+    "7v": {
+      "width": 2753,
+      "height": 3993
+    },
+    "8r": {
+      "width": 2849,
+      "height": 4065
+    }
+  }
+}

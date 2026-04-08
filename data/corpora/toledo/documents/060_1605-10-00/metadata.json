@@ -1,0 +1,40 @@
+{
+  "doc_id": "060_1605-10-00",
+  "dataset": "toledo",
+  "date": "1605-10-00",
+  "title": "Expediente iniciado por súplica del doctor Francisco de Pisa por la que pide alguna merced al ayuntamiento de Toledo por haber\n\nescrito su Historia de Toledo.",
+  "archive": "Archivo Municipal de Toledo",
+  "letra": "bastarda en la súplica del doctor pisa y procesal en el informe de los comisarios",
+  "facsimile_pages": [
+    "0001",
+    "0002"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "normalized",
+    "format": "single-document-md"
+  },
+  "extra": {
+    "slug": "1605-10-00",
+    "source_url": "http://www.toledo.es/wp-content/uploads/2018/07/1605-10-00_d.pdf",
+    "source_page": "https://www.toledo.es/toledo-siempre/laminario-de-documentos-con-sus-transcripciones/",
+    "fondo": "Fondo del Ayuntamiento de Toledo",
+    "nivel_descripcion": "Unidad documental",
+    "productor": "Ayuntamiento de Toledo",
+    "codigo_referencia": "ES.45168.AMT/1-3.09//DC-135",
+    "fecha_original": "[c] 1605-10-00 (sd). Toledo",
+    "volumen_soporte": "1 hoja [folio], papel",
+    "notas": "Procede de la caja núm. 307 [FH].\n\nLa datación se ha obtenido de una anotación manuscrita de época que figura junto al sobrescrito.\n\nLetra bastarda en la súplica del doctor Pisa y procesal en el informe de los comisarios. Buen estado de conservación.\n\nEl libro escrito por Francisco de Pisa se intitula _Descripción de la_ _Imperial Ciudad de Toledo, y historia de sus antigüedades, y grandeza,_ _y cosas memorables que en ella han acontecido, de los reyes_, En Toledo: Por Pedro Rodríguez, impresor del Rey nuestro señor, 1605. Un ejemplar se conserva en la biblioteca especializada del Archivo Municipal.",
+    "descriptores": "TOLEDO, SIGLO XVII, FRANCISCO DE PISA, HISTORIA\n\nDE TOLEDO, LIBROS, PUBLICACIONES"
+  },
+  "facsimile_resolution": {
+    "0001": {
+      "width": 1311,
+      "height": 1886
+    },
+    "0002": {
+      "width": 1322,
+      "height": 1873
+    }
+  }
+}

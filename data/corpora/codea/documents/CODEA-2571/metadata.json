@@ -1,0 +1,69 @@
+{
+  "doc_id": "CODEA-2571",
+  "dataset": "codea",
+  "date": "1496",
+  "title": "Confesión de Juana Fernández y sentencia en el proceso de fe a Juana Fernández, la Brisela, acusada de judaizar.",
+  "archive": "Archivo Histórico Nacional",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XV",
+    "provincia": "Guadalajara",
+    "poblacion": "Molina de Aragón",
+    "tipologia": "actas y declaraciones",
+    "ambito": "judicial",
+    "soporte": "papel",
+    "copista": "Diego de Barreda",
+    "signatura": "Inquisición, 1930, Exp. 21, ff. 3r-7r",
+    "palsclave": "alimentación, justicia, minorías étnicas y religiosas, religión",
+    "transcriptor": "Belén Almeida Cabrejas"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 1160,
+      "height": 1613
+    },
+    "1v": {
+      "width": 1135,
+      "height": 1584
+    },
+    "2r": {
+      "width": 1160,
+      "height": 1613
+    },
+    "2v": {
+      "width": 1135,
+      "height": 1584
+    },
+    "3r": {
+      "width": 1160,
+      "height": 1613
+    },
+    "3v": {
+      "width": 1160,
+      "height": 1613
+    },
+    "4r": {
+      "width": 1194,
+      "height": 1596
+    },
+    "4v": {
+      "width": 1160,
+      "height": 1613
+    }
+  }
+}

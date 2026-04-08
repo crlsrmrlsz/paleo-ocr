@@ -1,0 +1,34 @@
+{
+  "doc_id": "CODEA-3174",
+  "dataset": "codea",
+  "date": "1568",
+  "title": "Carta de pago de una comedia que se hizo por el día del Corpus Christi.",
+  "archive": "Archivo Histórico Provincial de Albacete",
+  "letra": "procesal encadenada",
+  "facsimile_pages": [
+    "1r"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Albacete",
+    "poblacion": "Albacete",
+    "tipologia": "certificaciones",
+    "ambito": "municipal",
+    "soporte": "papel",
+    "copista": "Bartolomé Jiménez",
+    "signatura": "C 319",
+    "palsclave": "fiestas y celebraciones, relgión",
+    "transcriptor": "Pedro Sánchez-Prieto Borja"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2666,
+      "height": 1851
+    }
+  }
+}

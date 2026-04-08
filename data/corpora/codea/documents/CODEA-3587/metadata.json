@@ -1,0 +1,79 @@
+{
+  "doc_id": "CODEA-3587",
+  "dataset": "codea",
+  "date": "1514",
+  "title": "Inventario <<post mortem>> de los bienes de Mari Gutiérrez, conversa, vecina de la ciudad de Plasencia.",
+  "archive": "Archivo Histórico Provincial de Cáceres",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "5r",
+    "5v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVI",
+    "provincia": "Cáceres",
+    "poblacion": "Plasencia",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 318 x 221",
+    "copista": "Hernando de Jaén",
+    "signatura": "PN/39, García Álvarez de Aguilar 1514-1516, ff. 114r-118v",
+    "palsclave": "mujer, bienes muebles",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2673,
+      "height": 3993
+    },
+    "1v": {
+      "width": 2778,
+      "height": 3977
+    },
+    "2r": {
+      "width": 2761,
+      "height": 4089
+    },
+    "2v": {
+      "width": 2794,
+      "height": 3977
+    },
+    "3r": {
+      "width": 2761,
+      "height": 4081
+    },
+    "3v": {
+      "width": 2873,
+      "height": 4097
+    },
+    "4r": {
+      "width": 2641,
+      "height": 4121
+    },
+    "4v": {
+      "width": 2737,
+      "height": 3897
+    },
+    "5r": {
+      "width": 2633,
+      "height": 3937
+    },
+    "5v": {
+      "width": 2889,
+      "height": 4009
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "doc_id": "CODEA-3635",
+  "dataset": "codea",
+  "date": "1619",
+  "title": "Inventario <<post mortem>> de los bienes de Diego García de Ribera, marido de doña María de Luna Moñano y vecino de la ciudad de Jerez de los Caballeros.",
+  "archive": "Archivo Histórico Provincial de Badajoz",
+  "letra": "procesal",
+  "facsimile_pages": [
+    "1r",
+    "1v",
+    "2r",
+    "2v",
+    "3r",
+    "3v"
+  ],
+  "ground_truth": {
+    "available": true,
+    "type": "paleographic+critical",
+    "format": "per-page-txt"
+  },
+  "extra": {
+    "siglo": "XVII",
+    "provincia": "Badajoz",
+    "poblacion": "Jerez de los Caballeros",
+    "tipologia": "testamentos e inventarios",
+    "ambito": "particular",
+    "soporte": "papel, 324x223",
+    "copista": "Juan de Requena",
+    "signatura": "PN/2235, Jhoan de Requena 1616-1619, ff. 449r-451v",
+    "palsclave": "bienes inmuebles, bienes muebles, economía",
+    "transcriptor": "Diego Sánchez Sierra"
+  },
+  "facsimile_resolution": {
+    "1r": {
+      "width": 2409,
+      "height": 4129
+    },
+    "1v": {
+      "width": 2545,
+      "height": 4185
+    },
+    "2r": {
+      "width": 2465,
+      "height": 4105
+    },
+    "2v": {
+      "width": 2521,
+      "height": 4153
+    },
+    "3r": {
+      "width": 2537,
+      "height": 4218
+    },
+    "3v": {
+      "width": 2545,
+      "height": 4081
+    }
+  }
+}
